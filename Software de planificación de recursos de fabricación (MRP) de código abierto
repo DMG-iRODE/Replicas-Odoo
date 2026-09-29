@@ -1,3 +1,10 @@
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 1                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="fabricacion-hero">
 
     <div class="fabricacion-contenido">
@@ -727,7 +734,13 @@
 }
 
 </style>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 2                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="irode-mes-section">
 
     
@@ -1552,7 +1565,13 @@ if ("ResizeObserver" in window) {
 
 
 </script>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 3                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="irode-simulacion-section">
 
     <div class="irode-simulacion-container">
@@ -2577,7 +2596,13 @@ if ("ResizeObserver" in window) {
 }
 
 </style>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 4                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="irode-planeacion-section">
 
     <div class="irode-planeacion-container">
@@ -3324,7 +3349,13 @@ if ("ResizeObserver" in window) {
 }
 
 </style>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 5                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="irode-registro-section">
 
     <div class="irode-registro-container">
@@ -4995,7 +5026,13 @@ if ("ResizeObserver" in window) {
 }
 
 </style>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 6                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="irode-paperless-section">
 
     <div class="irode-paperless-container">
@@ -6063,7 +6100,13 @@ if ("ResizeObserver" in window) {
 }
 
 </style>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 7                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="irode-calidad-section">
 
     <div class="irode-calidad-container">
@@ -7031,7 +7074,13 @@ if ("ResizeObserver" in window) {
 }
 
 </style>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 8                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="irode-kaizen-section">
 
     <div class="irode-kaizen-container">
@@ -7610,7 +7659,13 @@ if ("ResizeObserver" in window) {
 }
 
 </style>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 9                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="irode-funciones-section">
 
     <div class="irode-funciones-container">
@@ -9059,7 +9114,13 @@ if ("ResizeObserver" in window) {
 })();
 
 </script>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 10                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="apps-necesidad-section">
 
     <div class="apps-necesidad-container">
@@ -9640,7 +9701,13 @@ if ("ResizeObserver" in window) {
 }
 
 </style>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 11                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="irode-software-section">
 
     <div class="irode-software-container">
@@ -10352,7 +10419,13 @@ if ("ResizeObserver" in window) {
 }
 
 </style>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 12                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="banner-imagen-full">
 
     <div class="banner-imagen-full-contenedor">
@@ -10481,7 +10554,13 @@ if ("ResizeObserver" in window) {
 }
 
 </style>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 13                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="testimonio-seccion">
 
     <div class="testimonio-banner">
@@ -11067,7 +11146,13 @@ if ("ResizeObserver" in window) {
 }
 
 </style>
-
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 14                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <section class="irode-revolucion-section">
 
     <div class="irode-revolucion-container">
