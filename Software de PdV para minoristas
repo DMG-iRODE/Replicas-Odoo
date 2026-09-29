@@ -1,0 +1,10499 @@
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 1                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-pdv-retail-section">
+
+    <div class="irode-pdv-retail-container">
+
+        <h2 class="irode-pdv-retail-title">
+            <span class="irode-pdv-retail-title-dark">
+                Un PdV
+            </span>
+            <span class="irode-pdv-retail-title-accent">
+                diseñado para tiendas
+            </span>
+        </h2>
+
+        <p class="irode-pdv-retail-description">
+            Un <strong>punto de venta confiable</strong> creado para negocios modernos.
+            Inventario, RFID, promociones, programas de lealtad, contabilidad y comercio
+            electrónico en una sola plataforma.
+        </p>
+
+        <div class="irode-pdv-retail-buttons">
+
+            
+            <a href="https://www.irodetech.com/appointment/8" class="irode-pdv-retail-btn irode-pdv-retail-btn-primary">
+                Comienza ahora
+            </a>
+
+            
+            
+            
+            <a href="https://api.whatsapp.com/send/?phone=50252121225&amp;text=Hola%20equipo%20iRODE%2C%20me%20gustar%C3%ADa%20saber%20m%C3%A1s%20sobre%20el%20sistema%20de%20PdV%20para%20tiendas&amp;type=phone_number&amp;app_absent=0&amp;utm_source=Search+engine" target="_blank" rel="noopener noreferrer" class="irode-pdv-retail-btn irode-pdv-retail-btn-secondary">
+                Contacta a un consultor
+            </a>
+
+        </div>
+
+        <div class="irode-pdv-retail-note">
+            <span class="irode-pdv-retail-note-text">
+                Siempre usuarios ilimitados
+            </span>
+
+            <span class="irode-pdv-tooltip-wrap">
+                <button type="button" class="irode-pdv-tooltip-trigger">
+                    Descubre por qué.
+                </button>
+
+                <span class="irode-pdv-tooltip">
+                    Con <strong>iRODE TECHNOLOGY</strong> implementas Odoo
+                    con una ruta de trabajo adaptada a tu operación,
+                    capacitaciones presenciales y acompañamiento especializado
+                    durante todo el proceso.
+                </span>
+            </span>
+        </div>
+
+    </div>
+
+</section>
+
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+
+/* =========================================================
+   RESET
+========================================================= */
+
+.irode-pdv-retail-section,
+.irode-pdv-retail-section *,
+.irode-pdv-retail-section *::before,
+.irode-pdv-retail-section *::after {
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   SECCIÓN
+========================================================= */
+
+.irode-pdv-retail-section {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    background: #ffffff;
+    overflow: visible;
+    padding: 52px 0 42px;
+}
+
+
+/* =========================================================
+   CONTENEDOR
+========================================================= */
+
+.irode-pdv-retail-container {
+    width: min(1480px, calc(100% - 240px));
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    background: #ffffff;
+}
+
+
+/* =========================================================
+   TÍTULO
+========================================================= */
+
+.irode-pdv-retail-title {
+    margin: 0;
+    padding: 0;
+    font-family: "Caveat", "Segoe Print", "Comic Sans MS", cursive;
+    font-size: 96px;
+    font-weight: 600;
+    line-height: .95;
+    letter-spacing: -2px;
+    color: #101726;
+}
+
+.irode-pdv-retail-title-dark {
+    color: #101726;
+}
+
+.irode-pdv-retail-title-accent {
+    color: #10c8b8;
+}
+
+
+/* =========================================================
+   DESCRIPCIÓN
+========================================================= */
+
+.irode-pdv-retail-description {
+    max-width: 1180px;
+    margin: 30px auto 0;
+    padding: 0;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 22px;
+    line-height: 1.45;
+    font-weight: 400;
+    color: #495467;
+    letter-spacing: -.015em;
+}
+
+.irode-pdv-retail-description strong {
+    font-weight: 700;
+    color: #3e4a5d;
+}
+
+
+/* =========================================================
+   BOTONES
+========================================================= */
+
+.irode-pdv-retail-buttons {
+    margin-top: 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+}
+
+.irode-pdv-retail-btn {
+    width: 310px;
+    height: 60px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 18px;
+    border-radius: 4px;
+    text-decoration: none !important;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 700;
+    transition: all .2s ease;
+}
+
+
+/* =========================================================
+   BOTÓN PRINCIPAL
+========================================================= */
+
+.irode-pdv-retail-btn-primary {
+    background: #7b536f;
+    color: #ffffff !important;
+}
+
+.irode-pdv-retail-btn-primary:hover {
+    background: #714965;
+    color: #ffffff !important;
+}
+
+
+/* =========================================================
+   BOTÓN SECUNDARIO
+========================================================= */
+
+.irode-pdv-retail-btn-secondary {
+    background: #efeff1;
+    color: #7b536f !important;
+}
+
+.irode-pdv-retail-btn-secondary:hover {
+    background: #e6e6ea;
+    color: #7b536f !important;
+}
+
+
+/* =========================================================
+   TEXTO INFERIOR
+========================================================= */
+
+.irode-pdv-retail-note {
+    margin-top: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.45;
+    font-weight: 400;
+    color: #4b5567;
+    position: relative;
+    z-index: 50;
+}
+
+
+/* =========================================================
+   DESCUBRE POR QUÉ
+========================================================= */
+
+.irode-pdv-tooltip-wrap {
+    position: relative;
+    display: inline-flex;
+    z-index: 9999;
+}
+
+.irode-pdv-tooltip-trigger {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    appearance: none;
+    cursor: pointer;
+    font: inherit;
+    line-height: inherit;
+    font-weight: 700;
+    color: #7b536f;
+    text-decoration: none;
+}
+
+
+/* =========================================================
+   GLOBITO ESCRITORIO
+========================================================= */
+
+.irode-pdv-tooltip {
+    width: 300px;
+    position: absolute;
+    left: 50%;
+    top: calc(100% + 12px);
+    transform: translateX(-50%) translateY(-4px);
+    padding: 14px 16px;
+    background: #000000;
+    color: #ffffff;
+    border-radius: 10px;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 13px;
+    line-height: 1.5;
+    font-weight: 400;
+    text-align: center;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    z-index: 99999;
+    box-shadow: 0 12px 28px rgba(0,0,0,.16);
+    transition: opacity .18s ease, visibility .18s ease, transform .18s ease;
+}
+
+.irode-pdv-tooltip strong {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+
+/* =========================================================
+   TRIÁNGULO
+========================================================= */
+
+.irode-pdv-tooltip::before {
+    content: "";
+    position: absolute;
+    top: -9px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 9px solid transparent;
+    border-right: 9px solid transparent;
+    border-bottom: 10px solid #000000;
+}
+
+
+/* =========================================================
+   MOSTRAR TOOLTIP
+========================================================= */
+
+.irode-pdv-tooltip-wrap:hover .irode-pdv-tooltip,
+.irode-pdv-tooltip-wrap:focus-within .irode-pdv-tooltip {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1300px) {
+    .irode-pdv-retail-container {
+        width: calc(100% - 120px);
+    }
+
+    .irode-pdv-retail-title {
+        font-size: 88px;
+    }
+
+    .irode-pdv-retail-description {
+        max-width: 1050px;
+        font-size: 20px;
+    }
+
+    .irode-pdv-retail-btn {
+        width: 285px;
+        height: 58px;
+        font-size: 17px;
+    }
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 1000px) {
+    .irode-pdv-retail-section {
+        padding: 45px 0 40px;
+    }
+
+    .irode-pdv-retail-container {
+        width: calc(100% - 44px);
+    }
+
+    .irode-pdv-retail-title {
+        font-size: 72px;
+        line-height: .98;
+        letter-spacing: -1.4px;
+    }
+
+    .irode-pdv-retail-description {
+        margin-top: 26px;
+        max-width: 850px;
+        font-size: 18px;
+    }
+
+    .irode-pdv-retail-buttons {
+        margin-top: 36px;
+        gap: 12px;
+    }
+
+    .irode-pdv-retail-btn {
+        width: 270px;
+        height: 56px;
+        font-size: 16.5px;
+    }
+
+    .irode-pdv-retail-note {
+        font-size: 15px;
+    }
+}
+
+
+/* =========================================================
+   MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+    .irode-pdv-retail-section {
+        padding: 30px 0 30px;
+        overflow: visible;
+    }
+
+    .irode-pdv-retail-container {
+        width: calc(100% - 28px);
+        margin: 0 auto;
+        text-align: left;
+    }
+
+    .irode-pdv-retail-title {
+        width: 100%;
+        font-size: clamp(43px, 12vw, 54px);
+        line-height: .94;
+        letter-spacing: -1.1px;
+        text-align: left;
+    }
+
+    .irode-pdv-retail-title-dark,
+    .irode-pdv-retail-title-accent {
+        display: block;
+    }
+
+    .irode-pdv-retail-title-accent {
+        margin-top: 1px;
+    }
+
+    .irode-pdv-retail-description {
+        margin: 20px 0 0;
+        max-width: none;
+        width: 100%;
+        font-size: 15.5px;
+        line-height: 1.5;
+        text-align: left;
+        letter-spacing: -.01em;
+    }
+
+    .irode-pdv-retail-buttons {
+        width: 100%;
+        margin-top: 26px;
+        flex-direction: column;
+        align-items: stretch;
+        justify-content: flex-start;
+        gap: 9px;
+    }
+
+    .irode-pdv-retail-btn {
+        width: 100%;
+        max-width: none;
+        height: 50px;
+        padding: 0 14px;
+        font-size: 15px;
+        border-radius: 4px;
+    }
+
+    .irode-pdv-retail-note {
+        width: 100%;
+        margin-top: 13px;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 3px 5px;
+        font-size: 13.5px;
+        line-height: 1.45;
+        text-align: left;
+    }
+
+    .irode-pdv-retail-note-text {
+        display: inline;
+    }
+
+    .irode-pdv-tooltip-wrap {
+        display: inline-flex;
+        width: auto;
+        margin-top: 0;
+        position: relative;
+        align-items: center;
+    }
+
+    .irode-pdv-tooltip-trigger {
+        display: inline;
+        width: auto;
+        font-size: inherit;
+        line-height: inherit;
+    }
+
+    .irode-pdv-tooltip {
+        width: min(290px, calc(100vw - 42px));
+        max-width: calc(100vw - 42px);
+        left: auto;
+        right: -5px;
+        top: calc(100% + 12px);
+        transform: translateY(-4px);
+        padding: 13px 14px;
+        font-size: 12px;
+        line-height: 1.5;
+        text-align: left;
+        border-radius: 9px;
+        white-space: normal;
+    }
+
+    .irode-pdv-tooltip::before {
+        top: -9px;
+        left: auto;
+        right: 28px;
+        transform: none;
+    }
+
+    .irode-pdv-tooltip-wrap:hover .irode-pdv-tooltip,
+    .irode-pdv-tooltip-wrap:focus-within .irode-pdv-tooltip {
+        transform: translateY(0);
+    }
+}
+
+
+/* =========================================================
+   MÓVILES PEQUEÑOS
+========================================================= */
+
+@media (max-width: 420px) {
+    .irode-pdv-retail-section {
+        padding: 27px 0 28px;
+    }
+
+    .irode-pdv-retail-container {
+        width: calc(100% - 24px);
+    }
+
+    .irode-pdv-retail-title {
+        font-size: 46px;
+        line-height: .93;
+        letter-spacing: -1px;
+    }
+
+    .irode-pdv-retail-description {
+        margin-top: 18px;
+        font-size: 14.5px;
+        line-height: 1.48;
+    }
+
+    .irode-pdv-retail-buttons {
+        margin-top: 23px;
+        gap: 8px;
+    }
+
+    .irode-pdv-retail-btn {
+        height: 48px;
+        font-size: 14.5px;
+    }
+
+    .irode-pdv-retail-note {
+        margin-top: 12px;
+        font-size: 12.8px;
+        gap: 4px;
+    }
+
+    .irode-pdv-tooltip {
+        width: min(270px, calc(100vw - 32px));
+        max-width: calc(100vw - 32px);
+        right: -4px;
+        padding: 12px 13px;
+        font-size: 11.5px;
+        line-height: 1.45;
+    }
+}
+
+
+/* =========================================================
+   MÓVILES MUY PEQUEÑOS
+========================================================= */
+
+@media (max-width: 360px) {
+    .irode-pdv-retail-container {
+        width: calc(100% - 20px);
+    }
+
+    .irode-pdv-retail-title {
+        font-size: 42px;
+    }
+
+    .irode-pdv-retail-description {
+        font-size: 14px;
+    }
+
+    .irode-pdv-retail-btn {
+        height: 47px;
+        font-size: 14px;
+    }
+
+    .irode-pdv-retail-note {
+        font-size: 12.3px;
+    }
+
+    .irode-pdv-tooltip {
+        width: calc(100vw - 28px);
+        max-width: calc(100vw - 28px);
+        right: -3px;
+        font-size: 11px;
+    }
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 2                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-mes-section">
+
+    
+    <div class="irode-mes-bg"></div>
+
+    
+    <div class="irode-mobile-gray"></div>
+    <div class="irode-mobile-white-cut"></div>
+
+
+    <div class="irode-mes-content">
+
+        
+
+        <img class="irode-mes-rays" src="https://www.irodetech.com/web/image/41296-f408e2f0/ChatGPT%20Image%2010%20sept%202026%2C%2005_22_34%20p.m..png" alt="" loading="lazy" decoding="async">
+
+
+        
+
+        <div class="irode-mes-video-card">
+
+            <iframe class="irode-mes-inline-video" src="https://www.youtube.com/embed/5Bl60GkEa50?autoplay=1&amp;mute=1&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" title="Punto de Venta Odoo" frameborder="0" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+            </iframe>
+
+        </div>
+
+
+        
+
+        <div class="irode-callout-area">
+
+            <div class="irode-callout-composition">
+
+
+                
+
+                <img class="irode-callout-art" src="https://www.irodetech.com/web/image/41297-8bb86a22/ChatGPT%20Image%2010%20sept%202026%2C%2005_23_48%20p.m..png" alt="" loading="eager" decoding="async">
+
+
+                
+
+                <div class="irode-message-bubble">
+
+                    <span class="irode-message-normal">
+                        ¿Buscas una aplicación para ventas minoristas?
+                    </span>
+
+                    <a class="irode-message-link" href="https://www.irodetech.com/odoo-sistema-de-punto-de-venta-para-restaurantes-es" target="_blank" rel="noopener noreferrer">
+                        Conoce la solución.
+                    </a>
+
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+</section>
+
+
+<style>
+
+/* =========================================================
+   GENERAL
+========================================================= */
+
+.irode-mes-section {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    background: #ffffff;
+
+    overflow: hidden;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   FONDO GRIS ESCRITORIO
+========================================================= */
+
+.irode-mes-bg {
+
+    position: absolute;
+
+    width: 125%;
+
+    height: 600px;
+
+    left: -12.5%;
+
+    top: 165px;
+
+    background: #f4f5f7;
+
+    border-radius:
+        50% 50%
+        0 0 /
+        17% 17%
+        0 0;
+
+    z-index: 0;
+}
+
+
+/* =========================================================
+   FONDOS MÓVILES
+========================================================= */
+
+.irode-mobile-gray {
+    display: none;
+}
+
+
+.irode-mobile-white-cut {
+    display: none;
+}
+
+
+/* =========================================================
+   CONTENIDO
+========================================================= */
+
+.irode-mes-content {
+
+    width: 100%;
+
+    min-height: auto;
+
+    position: relative;
+
+    z-index: 2;
+
+    padding:
+        55px
+        30px
+        0;
+
+    box-sizing: border-box;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+}
+
+
+/* =========================================================
+   VIDEO
+========================================================= */
+
+.irode-mes-video-card {
+
+    width:
+        min(
+            1120px,
+            75vw
+        );
+
+    position: relative;
+
+    margin:
+        0
+        auto;
+
+    background: #ffffff;
+
+    border-radius: 11px;
+
+    overflow: hidden;
+
+    box-shadow:
+        0 11px 32px rgba(20,25,35,.10),
+        0 2px 6px rgba(20,25,35,.05);
+
+    z-index: 5;
+}
+
+
+.irode-mes-inline-video {
+
+    width: 100%;
+
+    aspect-ratio: 16 / 9;
+
+    display: block;
+
+    border: 0;
+
+    border-radius: 11px;
+
+    background: #000000;
+}
+
+
+/* =========================================================
+   RAYOS
+========================================================= */
+
+.irode-mes-rays {
+
+    position: absolute;
+
+    width: 125px;
+
+    height: auto;
+
+    left:
+        calc(50% - 625px);
+
+    top: 4px;
+
+    z-index: 9;
+
+    pointer-events: none;
+}
+
+
+/* =========================================================
+   ÁREA CALLOUT
+========================================================= */
+
+.irode-callout-area {
+
+    width: 100%;
+
+    display: flex;
+
+    justify-content: center;
+
+    position: relative;
+
+    margin-top: 25px;
+
+    z-index: 8;
+}
+
+
+/* =========================================================
+   COMPOSICIÓN
+========================================================= */
+
+.irode-callout-composition {
+
+    width: 760px;
+
+    max-width: 94vw;
+
+    position: relative;
+
+    min-height: 165px;
+}
+
+
+/* =========================================================
+   IMAGEN AVATAR + ICONO + AZUL
+========================================================= */
+
+.irode-callout-art {
+
+    position: absolute;
+
+    width: 300px;
+
+    height: auto;
+
+    left: 0;
+
+    top: 0;
+
+    z-index: 8;
+
+    display: block;
+
+    pointer-events: none;
+}
+
+
+/* =========================================================
+   BURBUJA NUEVA
+========================================================= */
+
+.irode-message-bubble {
+
+    position: absolute;
+
+    left: 78px;
+
+    top: 56px;
+
+    width: calc(100% - 80px);
+
+    min-height: 82px;
+
+    padding:
+        9px
+        32px
+        9px
+        63px;
+
+    box-sizing: border-box;
+
+    background: #ffffff;
+
+    border-radius: 999px;
+
+    box-shadow:
+        0 12px 24px rgba(20,30,45,.10),
+        0 3px 8px rgba(20,30,45,.04);
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    justify-content: center;
+
+    gap: 3px;
+
+    z-index: 20;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    text-align: center;
+}
+
+
+/* =========================================================
+   PRIMERA LÍNEA
+========================================================= */
+
+.irode-message-normal {
+
+    color: #1d2533;
+
+    font-size: 19px;
+
+    line-height: 1.16;
+
+    font-weight: 400;
+
+    font-style: italic;
+
+    letter-spacing: -0.2px;
+
+    white-space: nowrap;
+}
+
+
+/* =========================================================
+   SEGUNDA LÍNEA MORADA
+========================================================= */
+
+.irode-message-link {
+
+    color: #795371 !important;
+
+    font-size: 19px;
+
+    line-height: 1.16;
+
+    font-weight: 700;
+
+    font-style: italic;
+
+    letter-spacing: -0.2px;
+
+    white-space: nowrap;
+
+    text-decoration: none !important;
+}
+
+
+.irode-message-link:hover {
+
+    color: #684760 !important;
+
+    text-decoration: none !important;
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 1200px) {
+
+    .irode-mes-video-card {
+
+        width: 82vw;
+    }
+
+
+    .irode-mes-rays {
+
+        left: 3%;
+
+        width: 110px;
+    }
+
+
+    .irode-callout-composition {
+
+        width: 720px;
+
+        max-width: 94vw;
+    }
+
+
+    .irode-callout-art {
+
+        width: 275px;
+    }
+
+
+    .irode-message-bubble {
+
+        left: 70px;
+
+        top: 52px;
+
+        width: calc(100% - 74px);
+
+        min-height: 78px;
+
+        padding-left: 58px;
+
+        padding-right: 24px;
+    }
+
+
+    .irode-message-normal,
+    .irode-message-link {
+
+        font-size: 17px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .irode-mes-bg {
+
+        display: none;
+    }
+
+
+    .irode-mes-content {
+
+        min-height: auto;
+
+        padding:
+            28px
+            8px
+            0;
+
+        position: relative;
+    }
+
+
+    /* =====================================================
+       FONDO GRIS
+    ====================================================== */
+
+    .irode-mobile-gray {
+
+        display: block;
+
+        position: absolute;
+
+        width: 170%;
+
+        left: -35%;
+
+        top: 95px;
+
+        height: 300px;
+
+        background: #f4f5f7;
+
+        border-radius:
+            50% 50%
+            0 0 /
+            17% 17%
+            0 0;
+
+        z-index: 0;
+
+        pointer-events: none;
+    }
+
+
+    .irode-mobile-white-cut {
+
+        display: block;
+
+        position: absolute;
+
+        left: 0;
+
+        width: 100%;
+
+        top: 0;
+
+        height: 0;
+
+        background: #ffffff;
+
+        z-index: 1;
+
+        pointer-events: none;
+    }
+
+
+    /* =====================================================
+       VIDEO
+    ====================================================== */
+
+    .irode-mes-video-card {
+
+        width: 96vw;
+
+        border-radius: 7px;
+
+        z-index: 5;
+    }
+
+
+    .irode-mes-inline-video {
+
+        border-radius: 7px;
+    }
+
+
+    /* =====================================================
+       RAYOS
+    ====================================================== */
+
+    .irode-mes-rays {
+
+        display: none !important;
+    }
+
+
+    /* =====================================================
+       CALLOUT
+    ====================================================== */
+
+    .irode-callout-area {
+
+        width: 100%;
+
+        display: flex;
+
+        justify-content: flex-start;
+
+        margin-top: 14px;
+
+        padding-left: 0;
+
+        box-sizing: border-box;
+    }
+
+
+    .irode-callout-composition {
+
+        width: 100%;
+
+        max-width: 100%;
+
+        min-height: 116px;
+
+        margin-left: 0;
+
+        position: relative;
+    }
+
+
+    /* =====================================================
+       AVATAR + ICONO + AZUL
+    ====================================================== */
+
+    .irode-callout-art {
+
+        width: 150px;
+
+        max-width: none;
+
+        left: -3px;
+
+        top: 0;
+
+        z-index: 8;
+    }
+
+
+    /* =====================================================
+       BURBUJA MÓVIL
+       MÁS ARRIBA + MÁS A LA IZQUIERDA
+       PARA TAPAR EL MENSAJE ORIGINAL
+    ====================================================== */
+
+    .irode-message-bubble {
+
+        left: 27px;
+
+        top: 23px;
+
+        width: calc(100% - 33px);
+
+        min-height: 62px;
+
+        padding:
+            7px
+            10px
+            7px
+            42px;
+
+        box-sizing: border-box;
+
+        background: #ffffff;
+
+        border-radius: 999px;
+
+        display: flex;
+
+        flex-direction: column;
+
+        align-items: center;
+
+        justify-content: center;
+
+        gap: 2px;
+
+        text-align: center;
+
+        box-shadow:
+            0 8px 18px rgba(20,30,45,.10),
+            0 2px 5px rgba(20,30,45,.04);
+
+        z-index: 20;
+    }
+
+
+    /* =====================================================
+       TEXTO MÓVIL
+    ====================================================== */
+
+    .irode-message-normal {
+
+        font-size: 10.8px;
+
+        line-height: 1.12;
+
+        font-weight: 400;
+
+        font-style: italic;
+
+        letter-spacing: -0.1px;
+
+        white-space: normal;
+    }
+
+
+    .irode-message-link {
+
+        font-size: 10.8px;
+
+        line-height: 1.12;
+
+        font-weight: 700;
+
+        font-style: italic;
+
+        letter-spacing: -0.1px;
+
+        white-space: nowrap;
+    }
+
+}
+
+
+/* =========================================================
+   TELÉFONOS PEQUEÑOS
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .irode-mes-content {
+
+        padding:
+            25px
+            6px
+            0;
+    }
+
+
+    .irode-mes-video-card {
+
+        width: 97vw;
+    }
+
+
+    .irode-callout-area {
+
+        margin-top: 12px;
+    }
+
+
+    .irode-callout-composition {
+
+        min-height: 106px;
+    }
+
+
+    /* Avatar */
+
+    .irode-callout-art {
+
+        width: 135px;
+
+        left: -5px;
+
+        top: 0;
+    }
+
+
+    /* =====================================================
+       BURBUJA MÁS ARRIBA TODAVÍA
+    ====================================================== */
+
+    .irode-message-bubble {
+
+        left: 23px;
+
+        top: 20px;
+
+        width: calc(100% - 27px);
+
+        min-height: 59px;
+
+        padding:
+            6px
+            9px
+            6px
+            38px;
+
+        gap: 2px;
+
+        z-index: 20;
+    }
+
+
+    .irode-message-normal,
+    .irode-message-link {
+
+        font-size: 9.8px;
+
+        line-height: 1.1;
+    }
+
+
+    .irode-mobile-gray {
+
+        width: 180%;
+
+        left: -40%;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES MUY PEQUEÑOS
+========================================================= */
+
+@media (max-width: 360px) {
+
+    .irode-mes-content {
+
+        padding-left: 5px;
+
+        padding-right: 5px;
+    }
+
+
+    .irode-callout-composition {
+
+        min-height: 100px;
+    }
+
+
+    .irode-callout-art {
+
+        width: 125px;
+
+        left: -5px;
+    }
+
+
+    /* =====================================================
+       COBERTURA MÁS AGRESIVA
+       PARA QUE NO APAREZCA TEXTO VIEJO
+    ====================================================== */
+
+    .irode-message-bubble {
+
+        left: 18px;
+
+        top: 17px;
+
+        width: calc(100% - 22px);
+
+        min-height: 57px;
+
+        padding:
+            6px
+            7px
+            6px
+            35px;
+
+        gap: 1px;
+    }
+
+
+    .irode-message-normal,
+    .irode-message-link {
+
+        font-size: 9px;
+
+        line-height: 1.08;
+    }
+
+}
+
+</style>
+
+
+<script>
+
+/* =========================================================
+   FONDO GRIS ESCRITORIO
+========================================================= */
+
+function ajustarFondoMesEscritorio() {
+
+    var section =
+        document.querySelector(
+            ".irode-mes-section"
+        );
+
+
+    var gray =
+        document.querySelector(
+            ".irode-mes-bg"
+        );
+
+
+    var callout =
+        document.querySelector(
+            ".irode-callout-composition"
+        );
+
+
+    if (
+        !section ||
+        !gray ||
+        !callout
+    ) {
+
+        return;
+    }
+
+
+    if (
+        window.innerWidth <= 768
+    ) {
+
+        gray.style.height = "";
+
+        return;
+    }
+
+
+    var sectionRect =
+        section.getBoundingClientRect();
+
+
+    var calloutRect =
+        callout.getBoundingClientRect();
+
+
+    var grayTop = 165;
+
+
+    var calloutCenter =
+        (
+            calloutRect.top -
+            sectionRect.top
+        )
+        +
+        (
+            calloutRect.height / 2
+        );
+
+
+    var grayHeight =
+        calloutCenter -
+        grayTop;
+
+
+    gray.style.height =
+        Math.max(
+            grayHeight,
+            0
+        ) + "px";
+
+}
+
+
+/* =========================================================
+   FONDO GRIS MÓVIL
+========================================================= */
+
+function ajustarFondoMesMovil() {
+
+    var section =
+        document.querySelector(
+            ".irode-mes-section"
+        );
+
+
+    var video =
+        document.querySelector(
+            ".irode-mes-video-card"
+        );
+
+
+    var callout =
+        document.querySelector(
+            ".irode-callout-composition"
+        );
+
+
+    var gray =
+        document.querySelector(
+            ".irode-mobile-gray"
+        );
+
+
+    var whiteCut =
+        document.querySelector(
+            ".irode-mobile-white-cut"
+        );
+
+
+    if (
+        !section ||
+        !video ||
+        !callout ||
+        !gray ||
+        !whiteCut
+    ) {
+
+        return;
+    }
+
+
+    if (
+        window.innerWidth > 768
+    ) {
+
+        gray.style.top = "";
+
+        gray.style.height = "";
+
+        whiteCut.style.top = "";
+
+        whiteCut.style.height = "";
+
+        return;
+    }
+
+
+    var sectionRect =
+        section.getBoundingClientRect();
+
+
+    var videoRect =
+        video.getBoundingClientRect();
+
+
+    var calloutRect =
+        callout.getBoundingClientRect();
+
+
+    /* Inicio del fondo gris */
+
+    var grayTop =
+        (
+            videoRect.top -
+            sectionRect.top
+        )
+        +
+        (
+            videoRect.height * 0.28
+        );
+
+
+    /* Final del gris */
+
+    var grayBottom =
+        (
+            calloutRect.top -
+            sectionRect.top
+        )
+        +
+        (
+            calloutRect.height * 0.55
+        );
+
+
+    var grayHeight =
+        grayBottom -
+        grayTop;
+
+
+    gray.style.top =
+        grayTop + "px";
+
+
+    gray.style.height =
+        Math.max(
+            grayHeight,
+            0
+        ) + "px";
+
+
+    whiteCut.style.top =
+        grayBottom + "px";
+
+
+    whiteCut.style.height =
+        Math.max(
+            0,
+            section.scrollHeight -
+            grayBottom
+        ) + "px";
+
+}
+
+
+/* =========================================================
+   CARGAR
+========================================================= */
+
+document.addEventListener(
+    "DOMContentLoaded",
+    function() {
+
+        ajustarFondoMesMovil();
+
+        ajustarFondoMesEscritorio();
+
+    }
+);
+
+
+window.addEventListener(
+    "load",
+    function() {
+
+        ajustarFondoMesMovil();
+
+        ajustarFondoMesEscritorio();
+
+    }
+);
+
+
+/* =========================================================
+   RESIZE
+========================================================= */
+
+window.addEventListener(
+    "resize",
+    function() {
+
+        ajustarFondoMesMovil();
+
+        ajustarFondoMesEscritorio();
+
+    }
+);
+
+
+/* =========================================================
+   RESIZE OBSERVER
+========================================================= */
+
+if ("ResizeObserver" in window) {
+
+    var observerMES =
+        new ResizeObserver(
+            function() {
+
+                ajustarFondoMesMovil();
+
+                ajustarFondoMesEscritorio();
+
+            }
+        );
+
+
+    var videoMES =
+        document.querySelector(
+            ".irode-mes-video-card"
+        );
+
+
+    var calloutMES =
+        document.querySelector(
+            ".irode-callout-composition"
+        );
+
+
+    if (videoMES) {
+
+        observerMES.observe(
+            videoMES
+        );
+    }
+
+
+    if (calloutMES) {
+
+        observerMES.observe(
+            calloutMES
+        );
+    }
+
+}
+
+</script>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 3                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-intuitivo-section">
+
+    <div class="irode-intuitivo-container">
+
+        
+
+        <h2 class="irode-intuitivo-title">
+
+            <span class="irode-intuitivo-word">
+                Lo complejo
+            </span>
+
+            <span class="irode-intuitivo-icon-circle">
+                <span class="irode-intuitivo-arrow">
+                    →
+                </span>
+            </span>
+
+            <span class="irode-intuitivo-word">
+                vuelve
+            </span>
+
+            <span class="irode-intuitivo-icon-circle">
+                <span class="irode-intuitivo-arrow">
+                    ←
+                </span>
+            </span>
+
+            <span class="irode-intuitivo-word">
+                intuitivo
+            </span>
+
+        </h2>
+
+
+        
+
+        <div class="irode-intuitivo-subtitle">
+
+            <p>
+                <strong>Nuestra interfaz lo tiene todo</strong> y es tan intuitiva que a nadie le toma más de un
+                par de minutos entender cómo usarla. Su gran variedad de opciones avanzadas te permitirá gestionar
+                cualquier transacción con facilidad y concentrarte en lo más importante: tus clientes.
+            </p>
+            
+            <p style="margin-top: 16px;">
+    Mejora la gestión de tu operación con un <strong>software para tienda de ropa</strong>
+    que permita centralizar ventas, inventario y atención al cliente. Para negocios del sector
+    hotelero y gastronómico, un <strong>software hosteleria</strong> ayuda a organizar procesos,
+    mejorar el control y facilitar la gestión diaria.
+</p>
+
+        </div>
+
+
+        
+
+        <div class="irode-intuitivo-image-wrap">
+
+            <img src="https://www.irodetech.com/web/image/41619-f52454e5/ChatGPT%20Image%2014%20sept%202026%2C%2003_59_36%20p.m..png" alt="Interfaz intuitiva" class="irode-intuitivo-image" loading="eager" decoding="sync" fetchpriority="high">
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+
+/* =========================================================
+   RESET
+========================================================= */
+
+.irode-intuitivo-section,
+.irode-intuitivo-section *,
+.irode-intuitivo-section *::before,
+.irode-intuitivo-section *::after {
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   SECCIÓN
+========================================================= */
+
+.irode-intuitivo-section {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    background: #ffffff;
+
+    overflow: hidden;
+
+    padding:
+        40px
+        0
+        70px;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+}
+
+
+/* =========================================================
+   CONTENEDOR
+========================================================= */
+
+.irode-intuitivo-container {
+
+    width:
+        min(
+            1500px,
+            calc(100% - 120px)
+        );
+
+    margin:
+        0
+        auto;
+
+    position:
+        relative;
+}
+
+
+/* =========================================================
+   TÍTULO
+========================================================= */
+
+.irode-intuitivo-title {
+
+    margin:
+        0;
+
+    padding:
+        0;
+
+    display:
+        flex;
+
+    justify-content:
+        center;
+
+    align-items:
+        center;
+
+    flex-wrap:
+        wrap;
+
+    gap:
+        16px;
+
+    font-family:
+        "Caveat",
+        cursive;
+
+    font-size:
+        76px;
+
+    line-height:
+        1;
+
+    font-weight:
+        600;
+
+    letter-spacing:
+        -1.6px;
+
+    color:
+        #101827;
+
+    text-align:
+        center;
+}
+
+
+.irode-intuitivo-word {
+
+    display:
+        inline-block;
+}
+
+
+/* =========================================================
+   CÍRCULOS DEL TÍTULO
+========================================================= */
+
+.irode-intuitivo-icon-circle {
+
+    width:
+        66px;
+
+    height:
+        66px;
+
+    border-radius:
+        50%;
+
+    background:
+        #16d2c4;
+
+    border:
+        3px solid #101827;
+
+    display:
+        inline-flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    flex:
+        0 0 auto;
+
+    transform:
+        translateY(3px);
+}
+
+
+.irode-intuitivo-arrow {
+
+    color:
+        #101827;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    font-size:
+        38px;
+
+    font-weight:
+        600;
+
+    line-height:
+        1;
+}
+
+
+/* =========================================================
+   SUBTÍTULO
+========================================================= */
+
+.irode-intuitivo-subtitle {
+
+    width:
+        100%;
+
+    max-width:
+        1050px;
+
+    margin:
+        38px
+        auto
+        42px;
+
+    text-align:
+        center;
+}
+
+
+.irode-intuitivo-subtitle p {
+
+    margin:
+        0;
+
+    padding:
+        0;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    font-size:
+        20px;
+
+    line-height:
+        1.52;
+
+    font-weight:
+        400;
+
+    letter-spacing:
+        -.01em;
+
+    color:
+        #465265;
+}
+
+
+.irode-intuitivo-subtitle strong {
+
+    font-weight:
+        700;
+
+    color:
+        #374255;
+}
+
+
+/* =========================================================
+   IMAGEN PRINCIPAL
+========================================================= */
+
+.irode-intuitivo-image-wrap {
+
+    width:
+        min(
+            1450px,
+            100%
+        );
+
+    margin:
+        0
+        auto;
+
+    position:
+        relative;
+
+    display:
+        flex;
+
+    justify-content:
+        center;
+
+    align-items:
+        center;
+
+    background:
+        #ffffff;
+
+    overflow:
+        visible;
+}
+
+
+/* =========================================================
+   IMAGEN EN MÁXIMA CALIDAD
+========================================================= */
+
+.irode-intuitivo-image {
+
+    width:
+        auto;
+
+    max-width:
+        100%;
+
+    height:
+        auto;
+
+    max-height:
+        none;
+
+    display:
+        block;
+
+    margin:
+        0
+        auto;
+
+    object-fit:
+        contain;
+
+    object-position:
+        center;
+
+    image-rendering:
+        auto;
+
+    backface-visibility:
+        hidden;
+
+    -webkit-backface-visibility:
+        hidden;
+
+    transform:
+        none;
+
+    filter:
+        none;
+
+    opacity:
+        1;
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1300px) {
+
+    .irode-intuitivo-container {
+
+        width:
+            calc(100% - 120px);
+    }
+
+
+    .irode-intuitivo-title {
+
+        font-size:
+            68px;
+
+        gap:
+            14px;
+    }
+
+
+    .irode-intuitivo-icon-circle {
+
+        width:
+            60px;
+
+        height:
+            60px;
+    }
+
+
+    .irode-intuitivo-arrow {
+
+        font-size:
+            34px;
+    }
+
+
+    .irode-intuitivo-subtitle {
+
+        max-width:
+            950px;
+
+        margin:
+            34px
+            auto
+            38px;
+    }
+
+
+    .irode-intuitivo-subtitle p {
+
+        font-size:
+            18px;
+    }
+
+
+    .irode-intuitivo-image-wrap {
+
+        width:
+            min(
+                1250px,
+                100%
+            );
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 992px) and (min-width: 769px) {
+
+    .irode-intuitivo-section {
+
+        padding:
+            36px
+            0
+            55px;
+    }
+
+
+    .irode-intuitivo-container {
+
+        width:
+            calc(100% - 44px);
+    }
+
+
+    .irode-intuitivo-title {
+
+        font-size:
+            64px;
+
+        line-height:
+            1;
+
+        gap:
+            12px;
+    }
+
+
+    .irode-intuitivo-icon-circle {
+
+        width:
+            56px;
+
+        height:
+            56px;
+
+        border-width:
+            3px;
+
+        transform:
+            translateY(2px);
+    }
+
+
+    .irode-intuitivo-arrow {
+
+        font-size:
+            31px;
+    }
+
+
+    .irode-intuitivo-subtitle {
+
+        max-width:
+            800px;
+
+        margin:
+            30px
+            auto
+            34px;
+    }
+
+
+    .irode-intuitivo-subtitle p {
+
+        font-size:
+            19px;
+    }
+
+
+    .irode-intuitivo-image-wrap {
+
+        width:
+            100%;
+
+        max-width:
+            1000px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVIL
+   OCULTAR TODO EL BLOQUE
+   SOLO DEJAR UNA PEQUEÑA LÍNEA BLANCA
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .irode-intuitivo-section {
+
+        width:
+            100vw;
+
+        height:
+            12px;
+
+        min-height:
+            12px;
+
+        max-height:
+            12px;
+
+        padding:
+            0;
+
+        margin-top:
+            0;
+
+        margin-bottom:
+            0;
+
+        background:
+            #ffffff;
+
+        overflow:
+            hidden;
+
+        display:
+            block !important;
+    }
+
+
+    .irode-intuitivo-container {
+
+        display:
+            none !important;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES PEQUEÑOS
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .irode-intuitivo-section {
+
+        height:
+            10px;
+
+        min-height:
+            10px;
+
+        max-height:
+            10px;
+    }
+
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 4                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-intuitivo-mobile-section">
+
+    
+
+    <div class="irode-intuitivo-mobile-content">
+
+
+        
+
+        <h2 class="irode-intuitivo-mobile-title">
+            Lo complejo se vuelve
+            <span>intuitivo</span>
+        </h2>
+
+
+        
+
+        <div class="irode-intuitivo-mobile-description">
+
+            <p>
+                <strong>Nuestra interfaz lo tiene todo</strong> y es tan intuitiva
+                que a nadie le toma más de un par de minutos entender cómo usarla.
+                Su gran variedad de opciones avanzadas te permitirá gestionar
+                cualquier transacción con facilidad y concentrarte en lo más
+                importante: tus clientes.
+            </p>
+
+        </div>
+
+
+        
+
+        <div class="irode-intuitivo-mobile-features">
+
+
+            <div class="irode-intuitivo-mobile-feature">
+
+                <span class="irode-intuitivo-mobile-check">
+                    ✓
+                </span>
+
+                <span class="irode-intuitivo-mobile-feature-text">
+                    Ventas personalizadas
+                </span>
+
+            </div>
+
+
+            <div class="irode-intuitivo-mobile-feature">
+
+                <span class="irode-intuitivo-mobile-check">
+                    ✓
+                </span>
+
+                <span class="irode-intuitivo-mobile-feature-text">
+                    Programas de lealtad
+                </span>
+
+            </div>
+
+
+            <div class="irode-intuitivo-mobile-feature">
+
+                <span class="irode-intuitivo-mobile-check">
+                    ✓
+                </span>
+
+                <span class="irode-intuitivo-mobile-feature-text">
+                    Varios métodos de pago
+                </span>
+
+            </div>
+
+
+            <div class="irode-intuitivo-mobile-feature">
+
+                <span class="irode-intuitivo-mobile-check">
+                    ✓
+                </span>
+
+                <span class="irode-intuitivo-mobile-feature-text">
+                    Con o sin conexión a internet
+                </span>
+
+            </div>
+
+
+            <div class="irode-intuitivo-mobile-feature">
+
+                <span class="irode-intuitivo-mobile-check">
+                    ✓
+                </span>
+
+                <span class="irode-intuitivo-mobile-feature-text">
+                    Filtra por categorías de productos
+                </span>
+
+            </div>
+
+
+            <div class="irode-intuitivo-mobile-feature">
+
+                <span class="irode-intuitivo-mobile-check">
+                    ✓
+                </span>
+
+                <span class="irode-intuitivo-mobile-feature-text">
+                    Visualización intuitiva
+                </span>
+
+            </div>
+
+
+        </div>
+
+
+        
+
+        <div class="irode-intuitivo-mobile-image-wrap">
+
+            <img src="https://www.irodetech.com/web/image/41622-023db34b/ChatGPT%20Image%2014%20sept%202026%2C%2004_24_49%20p.m..png?height=256" alt="Interfaz intuitiva de Punto de Venta" class="irode-intuitivo-mobile-image" loading="eager" decoding="sync" fetchpriority="high">
+
+        </div>
+
+
+    </div>
+
+</section>
+
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+
+/* =========================================================
+   RESET
+========================================================= */
+
+.irode-intuitivo-mobile-section,
+.irode-intuitivo-mobile-section *,
+.irode-intuitivo-mobile-section *::before,
+.irode-intuitivo-mobile-section *::after {
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   PC
+   SOLO UNA FRANJA BLANCA DELGADA
+========================================================= */
+
+.irode-intuitivo-mobile-section {
+
+    width: 100vw;
+
+    height: 12px;
+
+    min-height: 12px;
+
+    max-height: 12px;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    margin-top: 0;
+    margin-bottom: 0;
+
+    padding: 0;
+
+    background: #ffffff;
+
+    overflow: hidden;
+}
+
+
+/* =========================================================
+   OCULTAR CONTENIDO EN PC
+========================================================= */
+
+.irode-intuitivo-mobile-content {
+
+    display: none;
+}
+
+
+/* =========================================================
+   MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .irode-intuitivo-mobile-section {
+
+        width: 100vw;
+
+        height: auto;
+
+        min-height: 0;
+
+        max-height: none;
+
+        padding:
+            38px
+            0
+            48px;
+
+        background:
+            #ffffff;
+
+        overflow:
+            hidden;
+    }
+
+
+    .irode-intuitivo-mobile-content {
+
+        display: block;
+
+        width:
+            calc(100% - 32px);
+
+        margin:
+            0
+            auto;
+    }
+
+
+    /* =====================================================
+       TÍTULO
+    ====================================================== */
+
+    .irode-intuitivo-mobile-title {
+
+        margin:
+            0;
+
+        padding:
+            0;
+
+        max-width:
+            100%;
+
+        font-family:
+            "Caveat",
+            "Segoe Print",
+            "Comic Sans MS",
+            cursive;
+
+        font-size:
+            50px;
+
+        line-height:
+            .98;
+
+        font-weight:
+            600;
+
+        letter-spacing:
+            -1.3px;
+
+        text-align:
+            left;
+
+        color:
+            #101827;
+    }
+
+
+    .irode-intuitivo-mobile-title span {
+
+        display:
+            block;
+
+        margin-top:
+            4px;
+    }
+
+
+    /* =====================================================
+       DESCRIPCIÓN
+    ====================================================== */
+
+    .irode-intuitivo-mobile-description {
+
+        width:
+            100%;
+
+        margin-top:
+            56px;
+    }
+
+
+    .irode-intuitivo-mobile-description p {
+
+        margin:
+            0;
+
+        padding:
+            0;
+
+        font-family:
+            "Inter",
+            Arial,
+            sans-serif;
+
+        font-size:
+            17px;
+
+        line-height:
+            1.55;
+
+        font-weight:
+            400;
+
+        letter-spacing:
+            -.01em;
+
+        text-align:
+            left;
+
+        color:
+            #465265;
+    }
+
+
+    .irode-intuitivo-mobile-description strong {
+
+        font-weight:
+            700;
+
+        color:
+            #374255;
+    }
+
+
+    /* =====================================================
+       LISTA
+    ====================================================== */
+
+    .irode-intuitivo-mobile-features {
+
+        width:
+            100%;
+
+        margin-top:
+            52px;
+
+        display:
+            flex;
+
+        flex-direction:
+            column;
+
+        gap:
+            18px;
+    }
+
+
+    .irode-intuitivo-mobile-feature {
+
+        width:
+            100%;
+
+        display:
+            flex;
+
+        align-items:
+            center;
+
+        justify-content:
+            flex-start;
+
+        gap:
+            18px;
+    }
+
+
+    /* =====================================================
+       CHECK TURQUESA
+    ====================================================== */
+
+    .irode-intuitivo-mobile-check {
+
+        width:
+            56px;
+
+        height:
+            56px;
+
+        min-width:
+            56px;
+
+        flex:
+            0 0 56px;
+
+        border-radius:
+            50%;
+
+        background:
+            #17cdbd;
+
+        border:
+            3px solid #101827;
+
+        display:
+            inline-flex;
+
+        align-items:
+            center;
+
+        justify-content:
+            center;
+
+        color:
+            #101827;
+
+        font-family:
+            Arial,
+            Helvetica,
+            sans-serif;
+
+        font-size:
+            37px;
+
+        line-height:
+            1;
+
+        font-weight:
+            400;
+
+        padding-bottom:
+            4px;
+
+        box-shadow:
+            4px
+            4px
+            0
+            #17cdbd;
+    }
+
+
+    /* =====================================================
+       TEXTO DE CADA BENEFICIO
+    ====================================================== */
+
+    .irode-intuitivo-mobile-feature-text {
+
+        display:
+            block;
+
+        font-family:
+            "Caveat",
+            "Segoe Print",
+            "Comic Sans MS",
+            cursive;
+
+        font-size:
+            32px;
+
+        line-height:
+            1.05;
+
+        font-weight:
+            600;
+
+        letter-spacing:
+            -.3px;
+
+        text-align:
+            left;
+
+        color:
+            #805a7a;
+    }
+
+
+    /* =====================================================
+       IMAGEN
+    ====================================================== */
+
+    .irode-intuitivo-mobile-image-wrap {
+
+        width:
+            100%;
+
+        margin-top:
+            76px;
+
+        display:
+            flex;
+
+        justify-content:
+            center;
+
+        align-items:
+            center;
+
+        overflow:
+            visible;
+    }
+
+
+    .irode-intuitivo-mobile-image {
+
+        width:
+            100%;
+
+        max-width:
+            none;
+
+        height:
+            auto;
+
+        display:
+            block;
+
+        margin:
+            0
+            auto;
+
+        object-fit:
+            contain;
+
+        object-position:
+            center;
+
+        image-rendering:
+            auto;
+
+        backface-visibility:
+            hidden;
+
+        -webkit-backface-visibility:
+            hidden;
+
+        transform:
+            none;
+
+        filter:
+            none;
+
+        opacity:
+            1;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES PEQUEÑOS
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .irode-intuitivo-mobile-section {
+
+        padding:
+            34px
+            0
+            44px;
+    }
+
+
+    .irode-intuitivo-mobile-content {
+
+        width:
+            calc(100% - 28px);
+    }
+
+
+    .irode-intuitivo-mobile-title {
+
+        font-size:
+            48px;
+    }
+
+
+    .irode-intuitivo-mobile-description {
+
+        margin-top:
+            50px;
+    }
+
+
+    .irode-intuitivo-mobile-description p {
+
+        font-size:
+            16px;
+    }
+
+
+    .irode-intuitivo-mobile-features {
+
+        margin-top:
+            48px;
+
+        gap:
+            17px;
+    }
+
+
+    .irode-intuitivo-mobile-check {
+
+        width:
+            54px;
+
+        height:
+            54px;
+
+        min-width:
+            54px;
+
+        flex-basis:
+            54px;
+
+        font-size:
+            35px;
+    }
+
+
+    .irode-intuitivo-mobile-feature {
+
+        gap:
+            16px;
+    }
+
+
+    .irode-intuitivo-mobile-feature-text {
+
+        font-size:
+            29px;
+
+        line-height:
+            1.05;
+    }
+
+
+    .irode-intuitivo-mobile-image-wrap {
+
+        margin-top:
+            70px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES MUY PEQUEÑOS
+========================================================= */
+
+@media (max-width: 360px) {
+
+    .irode-intuitivo-mobile-content {
+
+        width:
+            calc(100% - 24px);
+    }
+
+
+    .irode-intuitivo-mobile-title {
+
+        font-size:
+            44px;
+    }
+
+
+    .irode-intuitivo-mobile-description p {
+
+        font-size:
+            15.5px;
+    }
+
+
+    .irode-intuitivo-mobile-check {
+
+        width:
+            48px;
+
+        height:
+            48px;
+
+        min-width:
+            48px;
+
+        flex-basis:
+            48px;
+
+        border-width:
+            2.5px;
+
+        font-size:
+            31px;
+    }
+
+
+    .irode-intuitivo-mobile-feature {
+
+        gap:
+            14px;
+    }
+
+
+    .irode-intuitivo-mobile-feature-text {
+
+        font-size:
+            26px;
+    }
+
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 5                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-autopedidos-section">
+
+    <div class="irode-autopedidos-container">
+
+
+        
+
+        <div class="irode-autopedidos-visual">
+
+
+            <div class="irode-autopedidos-circle"></div>
+
+
+            <div class="irode-autopedidos-image-stage">
+
+
+                <img src="https://www.irodetech.com/web/image/41591-90cdec62/ChatGPT_Image_14_sept_2026__01_33_30_p.m.-removebg-preview.png" alt="" class="irode-autopedidos-top-icon" loading="lazy" decoding="async">
+
+
+                <img src="https://www.irodetech.com/web/image/41623-ae3afb43/ChatGPT%20Image%2014%20sept%202026%2C%2004_30_27%20p.m..png" alt="Autopedidos en Punto de Venta" class="irode-autopedidos-image" loading="eager" decoding="sync" fetchpriority="high">
+
+            </div>
+
+
+        </div>
+
+
+        
+
+        <div class="irode-autopedidos-content">
+
+
+            <img src="https://www.irodetech.com/web/image/41578-4b76fb8d/ChatGPT%20Image%2014%20sept%202026%2C%2012_20_25%20p.m..png" alt="" class="irode-autopedidos-icon" loading="lazy" decoding="async">
+
+
+            
+
+            <h2 class="irode-autopedidos-title">
+
+                El futuro está
+
+                <span>
+                    en el autopedido
+                </span>
+
+            </h2>
+
+
+            
+
+            <p class="irode-autopedidos-description">
+
+                <strong>Avanza hacia el futuro.</strong>
+                Tus clientes pueden hacer todo con un quiosco o desde sus celulares,
+                desde ordenar hasta pagar.
+
+            </p>
+            
+            <p class="irode-autopedidos-description" style="margin-top: 16px;">
+    Mejora la operación comercial con un <strong>sistema para tiendas</strong>
+    que permita centralizar ventas, productos e información en un solo lugar.
+    Una adecuada <strong>gestión de tiendas</strong> facilita el control diario,
+    la organización de procesos y el seguimiento de cada operación.
+</p>
+
+
+        </div>
+
+
+    </div>
+
+</section>
+
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+
+/* =========================================================
+   RESET
+========================================================= */
+
+.irode-autopedidos-section,
+.irode-autopedidos-section *,
+.irode-autopedidos-section *::before,
+.irode-autopedidos-section *::after {
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   SECCIÓN
+========================================================= */
+
+.irode-autopedidos-section {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    background: #ffffff;
+
+    overflow: hidden;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+}
+
+
+/* =========================================================
+   CONTENEDOR
+========================================================= */
+
+.irode-autopedidos-container {
+
+    width:
+        min(
+            1400px,
+            calc(100% - 240px)
+        );
+
+    min-height:
+        650px;
+
+    margin:
+        0 auto;
+
+    display:
+        grid;
+
+    grid-template-columns:
+        52%
+        48%;
+
+    align-items:
+        center;
+
+    gap:
+        55px;
+
+    padding:
+        45px
+        0
+        55px;
+}
+
+
+/* =========================================================
+   COLUMNA IZQUIERDA
+========================================================= */
+
+.irode-autopedidos-visual {
+
+    width:
+        100%;
+
+    min-height:
+        555px;
+
+    position:
+        relative;
+
+    display:
+        flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    padding-top:
+        65px;
+}
+
+
+/* =========================================================
+   CÍRCULO GRIS
+========================================================= */
+
+.irode-autopedidos-circle {
+
+    position:
+        absolute;
+
+    width:
+        455px;
+
+    height:
+        455px;
+
+    border-radius:
+        50%;
+
+    background:
+        #f2f3f5;
+
+    left:
+        50%;
+
+    top:
+        56%;
+
+    transform:
+        translate(
+            -50%,
+            -50%
+        );
+
+    z-index:
+        1;
+}
+
+
+/* =========================================================
+   CONTENEDOR IMAGEN + ICONO
+   MÁS GRANDE
+========================================================= */
+
+.irode-autopedidos-image-stage {
+
+    width:
+        min(
+            540px,
+            82%
+        );
+
+    position:
+        relative;
+
+    z-index:
+        3;
+
+    display:
+        flex;
+
+    justify-content:
+        center;
+
+    align-items:
+        center;
+}
+
+
+/* =========================================================
+   ICONO SUPERIOR
+========================================================= */
+
+.irode-autopedidos-top-icon {
+
+    position:
+        absolute;
+
+    width:
+        96px;
+
+    height:
+        96px;
+
+    left:
+        -54px;
+
+    top:
+        -66px;
+
+    z-index:
+        5;
+
+    display:
+        block;
+
+    object-fit:
+        contain;
+
+    object-position:
+        center;
+
+    image-rendering:
+        auto;
+
+    backface-visibility:
+        hidden;
+
+    -webkit-backface-visibility:
+        hidden;
+
+    transform:
+        none;
+
+    filter:
+        none;
+
+    pointer-events:
+        none;
+}
+
+
+/* =========================================================
+   IMAGEN PRINCIPAL
+   MEJOR CALIDAD
+========================================================= */
+
+.irode-autopedidos-image {
+
+    width:
+        auto;
+
+    max-width:
+        100%;
+
+    height:
+        auto;
+
+    max-height:
+        none;
+
+    display:
+        block;
+
+    margin:
+        0
+        auto;
+
+    object-fit:
+        contain;
+
+    object-position:
+        center;
+
+    image-rendering:
+        auto;
+
+    -webkit-font-smoothing:
+        antialiased;
+
+    backface-visibility:
+        hidden;
+
+    -webkit-backface-visibility:
+        hidden;
+
+    transform:
+        none;
+
+    filter:
+        none;
+
+    opacity:
+        1;
+}
+
+
+/* =========================================================
+   COLUMNA DERECHA
+========================================================= */
+
+.irode-autopedidos-content {
+
+    width:
+        100%;
+
+    max-width:
+        570px;
+
+    position:
+        relative;
+}
+
+
+/* =========================================================
+   ICONO DEL TÍTULO
+========================================================= */
+
+.irode-autopedidos-icon {
+
+    width:
+        88px;
+
+    height:
+        88px;
+
+    display:
+        block;
+
+    margin:
+        0
+        0
+        18px
+        -5px;
+
+    object-fit:
+        contain;
+
+    object-position:
+        center;
+
+    image-rendering:
+        auto;
+
+    backface-visibility:
+        hidden;
+
+    -webkit-backface-visibility:
+        hidden;
+
+    transform:
+        none;
+
+    filter:
+        none;
+}
+
+
+/* =========================================================
+   TÍTULO
+========================================================= */
+
+.irode-autopedidos-title {
+
+    margin:
+        0;
+
+    padding:
+        0;
+
+    font-family:
+        "Caveat",
+        cursive;
+
+    font-size:
+        76px;
+
+    line-height:
+        1;
+
+    font-weight:
+        600;
+
+    letter-spacing:
+        -1.6px;
+
+    color:
+        #101827;
+}
+
+
+.irode-autopedidos-title span {
+
+    display:
+        block;
+
+    margin-top:
+        12px;
+}
+
+
+/* =========================================================
+   DESCRIPCIÓN
+========================================================= */
+
+.irode-autopedidos-description {
+
+    max-width:
+        570px;
+
+    margin:
+        42px
+        0
+        0;
+
+    padding:
+        0;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    font-size:
+        20px;
+
+    line-height:
+        1.52;
+
+    font-weight:
+        400;
+
+    letter-spacing:
+        -.01em;
+
+    color:
+        #465265;
+}
+
+
+.irode-autopedidos-description strong {
+
+    font-weight:
+        700;
+
+    color:
+        #374255;
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1300px) {
+
+    .irode-autopedidos-container {
+
+        width:
+            calc(100% - 120px);
+
+        min-height:
+            610px;
+
+        gap:
+            40px;
+    }
+
+
+    .irode-autopedidos-visual {
+
+        min-height:
+            520px;
+
+        padding-top:
+            60px;
+    }
+
+
+    .irode-autopedidos-circle {
+
+        width:
+            420px;
+
+        height:
+            420px;
+    }
+
+
+    .irode-autopedidos-image-stage {
+
+        width:
+            min(
+                500px,
+                80%
+            );
+    }
+
+
+    .irode-autopedidos-top-icon {
+
+        width:
+            86px;
+
+        height:
+            86px;
+
+        left:
+            -48px;
+
+        top:
+            -58px;
+    }
+
+
+    .irode-autopedidos-title {
+
+        font-size:
+            68px;
+    }
+
+
+    .irode-autopedidos-description {
+
+        font-size:
+            18px;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 992px) {
+
+    .irode-autopedidos-container {
+
+        width:
+            calc(100% - 44px);
+
+        min-height:
+            auto;
+
+        grid-template-columns:
+            1fr;
+
+        gap:
+            32px;
+
+        padding:
+            45px
+            0
+            55px;
+    }
+
+
+    .irode-autopedidos-visual {
+
+        min-height:
+            510px;
+
+        padding-top:
+            62px;
+    }
+
+
+    .irode-autopedidos-circle {
+
+        width:
+            400px;
+
+        height:
+            400px;
+    }
+
+
+    .irode-autopedidos-image-stage {
+
+        width:
+            min(
+                480px,
+                78%
+            );
+    }
+
+
+    .irode-autopedidos-top-icon {
+
+        width:
+            80px;
+
+        height:
+            80px;
+
+        left:
+            -42px;
+
+        top:
+            -52px;
+    }
+
+
+    .irode-autopedidos-content {
+
+        max-width:
+            700px;
+
+        margin:
+            0
+            auto;
+
+        text-align:
+            center;
+    }
+
+
+    .irode-autopedidos-icon {
+
+        width:
+            80px;
+
+        height:
+            80px;
+
+        margin:
+            0
+            auto
+            16px;
+    }
+
+
+    .irode-autopedidos-title {
+
+        font-size:
+            64px;
+    }
+
+
+    .irode-autopedidos-description {
+
+        max-width:
+            680px;
+
+        margin:
+            32px
+            auto
+            0;
+
+        font-size:
+            19px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .irode-autopedidos-container {
+
+        width:
+            calc(100% - 32px);
+
+        padding:
+            38px
+            0
+            45px;
+
+        gap:
+            34px;
+    }
+
+
+    .irode-autopedidos-content {
+
+        order:
+            1;
+
+        width:
+            100%;
+
+        max-width:
+            none;
+
+        margin:
+            0;
+
+        text-align:
+            left;
+    }
+
+
+    .irode-autopedidos-icon {
+
+        width:
+            72px;
+
+        height:
+            72px;
+
+        margin:
+            0
+            0
+            13px;
+    }
+
+
+    .irode-autopedidos-title {
+
+        font-size:
+            50px;
+
+        line-height:
+            .98;
+
+        letter-spacing:
+            -1.3px;
+
+        text-align:
+            left;
+    }
+
+
+    .irode-autopedidos-title span {
+
+        margin-top:
+            7px;
+    }
+
+
+    .irode-autopedidos-description {
+
+        width:
+            100%;
+
+        max-width:
+            none;
+
+        margin:
+            30px
+            0
+            0;
+
+        font-size:
+            17px;
+
+        line-height:
+            1.55;
+
+        text-align:
+            left;
+    }
+
+
+    /* IMAGEN */
+
+    .irode-autopedidos-visual {
+
+        min-height:
+            410px;
+
+        order:
+            2;
+
+        padding-top:
+            54px;
+    }
+
+
+    .irode-autopedidos-circle {
+
+        width:
+            320px;
+
+        height:
+            320px;
+
+        top:
+            55%;
+    }
+
+
+    .irode-autopedidos-image-stage {
+
+        width:
+            min(
+                370px,
+                86%
+            );
+    }
+
+
+    .irode-autopedidos-top-icon {
+
+        width:
+            68px;
+
+        height:
+            68px;
+
+        left:
+            -30px;
+
+        top:
+            -42px;
+    }
+
+
+    .irode-autopedidos-image {
+
+        width:
+            100%;
+
+        max-width:
+            none;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES PEQUEÑOS
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .irode-autopedidos-container {
+
+        width:
+            calc(100% - 28px);
+    }
+
+
+    .irode-autopedidos-title {
+
+        font-size:
+            48px;
+    }
+
+
+    .irode-autopedidos-description {
+
+        font-size:
+            16px;
+    }
+
+
+    .irode-autopedidos-visual {
+
+        min-height:
+            370px;
+
+        padding-top:
+            50px;
+    }
+
+
+    .irode-autopedidos-circle {
+
+        width:
+            285px;
+
+        height:
+            285px;
+    }
+
+
+    .irode-autopedidos-image-stage {
+
+        width:
+            min(
+                335px,
+                88%
+            );
+    }
+
+
+    .irode-autopedidos-top-icon {
+
+        width:
+            62px;
+
+        height:
+            62px;
+
+        left:
+            -26px;
+
+        top:
+            -38px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES MUY PEQUEÑOS
+========================================================= */
+
+@media (max-width: 360px) {
+
+    .irode-autopedidos-container {
+
+        width:
+            calc(100% - 24px);
+    }
+
+
+    .irode-autopedidos-title {
+
+        font-size:
+            44px;
+    }
+
+
+    .irode-autopedidos-description {
+
+        font-size:
+            15.5px;
+    }
+
+
+    .irode-autopedidos-icon {
+
+        width:
+            66px;
+
+        height:
+            66px;
+    }
+
+
+    .irode-autopedidos-visual {
+
+        min-height:
+            340px;
+    }
+
+
+    .irode-autopedidos-circle {
+
+        width:
+            260px;
+
+        height:
+            260px;
+    }
+
+
+    .irode-autopedidos-image-stage {
+
+        width:
+            min(
+                305px,
+                88%
+            );
+    }
+
+
+    .irode-autopedidos-top-icon {
+
+        width:
+            58px;
+
+        height:
+            58px;
+
+        left:
+            -24px;
+
+        top:
+            -34px;
+    }
+
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 6                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-lealtad-section">
+
+    <div class="irode-lealtad-container">
+
+
+        
+
+        <div class="irode-lealtad-content">
+
+
+            <h2 class="irode-lealtad-title">
+
+                <span class="irode-lealtad-underline">
+                    Recompensa la
+                </span>
+
+                <span>
+                    lealtad de tus
+                </span>
+
+                <span>
+                    clientes
+                </span>
+
+            </h2>
+
+
+            <p class="irode-lealtad-description">
+
+                <strong>Haz que tus clientes sigan comprando.</strong>
+                Mejora su experiencia de compra y usa programas de lealtad
+                con puntos, recompensas y tarjetas de regalo. Con
+                <strong>iRODE TECHNOLOGY</strong>, puedes llevar estas capacidades
+                de Odoo a tu operación de forma estructurada y adaptada a tus procesos.
+                ¿Necesitas procesar un reembolso? Usa los monederos electrónicos
+                para incrementar la retención y mantener feliz a tu clientela.
+
+            </p>
+            
+            <p class="irode-lealtad-description" style="margin-top: 16px;">
+    Mejora la operación comercial con un <strong>software para tiendas</strong>
+    que permita centralizar ventas, clientes, promociones e información del negocio
+    desde una misma plataforma.
+</p>
+
+
+        </div>
+
+
+        
+
+        <div class="irode-lealtad-options">
+
+
+            
+
+            <div class="irode-lealtad-item">
+
+                <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png?height=256" alt="Cupones" class="irode-lealtad-star-img" loading="lazy" decoding="async">
+
+                <div class="irode-lealtad-item-text">
+                    Cupones
+                </div>
+
+            </div>
+
+
+            
+
+            <div class="irode-lealtad-item">
+
+                <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png?height=256" alt="Tarjetas de lealtad" class="irode-lealtad-star-img" loading="lazy" decoding="async">
+
+                <div class="irode-lealtad-item-text">
+                    Tarjetas de
+                    <span>lealtad</span>
+                </div>
+
+            </div>
+
+
+            
+
+            <div class="irode-lealtad-item">
+
+                <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png?height=256" alt="Promociones" class="irode-lealtad-star-img" loading="lazy" decoding="async">
+
+                <div class="irode-lealtad-item-text">
+                    Promociones
+                </div>
+
+            </div>
+
+
+            
+
+            <div class="irode-lealtad-item irode-lealtad-item-bottom">
+
+                <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png?height=256" alt="Monedero electrónico" class="irode-lealtad-star-img" loading="lazy" decoding="async">
+
+                <div class="irode-lealtad-item-text">
+                    Monedero
+                    <span>electrónico</span>
+                </div>
+
+            </div>
+
+
+            
+
+            <div class="irode-lealtad-item irode-lealtad-item-bottom">
+
+                <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png?height=256" alt="Tarjetas de regalo" class="irode-lealtad-star-img" loading="lazy" decoding="async">
+
+                <div class="irode-lealtad-item-text">
+                    Tarjetas de
+                    <span>regalo</span>
+                </div>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+
+/* =========================================================
+   RESET
+========================================================= */
+
+.irode-lealtad-section,
+.irode-lealtad-section *,
+.irode-lealtad-section *::before,
+.irode-lealtad-section *::after {
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   SECCIÓN
+========================================================= */
+
+.irode-lealtad-section {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    background: #ffffff;
+
+    overflow: hidden;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+}
+
+
+/* =========================================================
+   CONTENEDOR GENERAL
+========================================================= */
+
+.irode-lealtad-container {
+
+    width:
+        min(
+            1650px,
+            calc(100% - 240px)
+        );
+
+    min-height:
+        700px;
+
+    margin:
+        0 auto;
+
+    padding:
+        58px
+        0
+        70px;
+
+    display:
+        grid;
+
+    grid-template-columns:
+        47%
+        53%;
+
+    align-items:
+        center;
+
+    column-gap:
+        90px;
+}
+
+
+/* =========================================================
+   COLUMNA IZQUIERDA
+========================================================= */
+
+.irode-lealtad-content {
+
+    width:
+        100%;
+
+    max-width:
+        660px;
+
+    align-self:
+        start;
+}
+
+
+/* =========================================================
+   TÍTULO
+========================================================= */
+
+.irode-lealtad-title {
+
+    margin:
+        0;
+
+    padding:
+        0;
+
+    font-family:
+        "Caveat",
+        "Segoe Print",
+        "Comic Sans MS",
+        cursive;
+
+    font-size:
+        76px;
+
+    line-height:
+        1.16;
+
+    font-weight:
+        600;
+
+    letter-spacing:
+        -1.6px;
+
+    color:
+        #101827;
+}
+
+
+.irode-lealtad-title > span {
+
+    display:
+        block;
+}
+
+
+/* =========================================================
+   SUBRAYADO NARANJA
+========================================================= */
+
+.irode-lealtad-underline {
+
+    position:
+        relative;
+
+    width:
+        fit-content;
+}
+
+
+.irode-lealtad-underline::after {
+
+    content:
+        "";
+
+    position:
+        absolute;
+
+    left:
+        76px;
+
+    bottom:
+        -7px;
+
+    width:
+        238px;
+
+    height:
+        16px;
+
+    background:
+        #ffad22;
+
+    border-radius:
+        999px;
+
+    clip-path:
+        polygon(
+            0% 42%,
+            6% 70%,
+            12% 39%,
+            18% 72%,
+            24% 42%,
+            30% 69%,
+            36% 40%,
+            42% 68%,
+            48% 40%,
+            54% 67%,
+            60% 40%,
+            66% 68%,
+            72% 40%,
+            78% 67%,
+            84% 42%,
+            90% 64%,
+            96% 43%,
+            100% 55%,
+            100% 100%,
+            0% 100%
+        );
+}
+
+
+/* =========================================================
+   DESCRIPCIÓN
+========================================================= */
+
+.irode-lealtad-description {
+
+    max-width:
+        650px;
+
+    margin:
+        64px
+        0
+        0;
+
+    padding:
+        0;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    font-size:
+        20px;
+
+    line-height:
+        1.52;
+
+    font-weight:
+        400;
+
+    letter-spacing:
+        -.01em;
+
+    color:
+        #465265;
+}
+
+
+.irode-lealtad-description strong {
+
+    font-weight:
+        700;
+
+    color:
+        #374255;
+}
+
+
+/* =========================================================
+   COLUMNA DERECHA
+========================================================= */
+
+.irode-lealtad-options {
+
+    width:
+        100%;
+
+    display:
+        grid;
+
+    grid-template-columns:
+        repeat(3, 1fr);
+
+    grid-template-rows:
+        auto
+        auto;
+
+    column-gap:
+        82px;
+
+    row-gap:
+        62px;
+
+    align-items:
+        start;
+
+    justify-items:
+        center;
+
+    padding-top:
+        88px;
+}
+
+
+/* =========================================================
+   ITEMS
+========================================================= */
+
+.irode-lealtad-item {
+
+    width:
+        100%;
+
+    min-width:
+        160px;
+
+    display:
+        flex;
+
+    flex-direction:
+        column;
+
+    align-items:
+        center;
+
+    justify-content:
+        flex-start;
+
+    text-align:
+        center;
+}
+
+
+/* =========================================================
+   POSICIÓN SEGUNDA FILA
+========================================================= */
+
+.irode-lealtad-item-bottom:nth-of-type(4) {
+
+    grid-column:
+        1;
+}
+
+
+.irode-lealtad-item-bottom:nth-of-type(5) {
+
+    grid-column:
+        2;
+}
+
+
+/* =========================================================
+   IMAGEN DE ESTRELLAS
+========================================================= */
+
+.irode-lealtad-star-img {
+
+    width:
+        78px;
+
+    height:
+        78px;
+
+    object-fit:
+        contain;
+
+    object-position:
+        center;
+
+    display:
+        block;
+
+    margin:
+        0
+        auto
+        8px;
+
+    image-rendering:
+        auto;
+
+    backface-visibility:
+        hidden;
+
+    -webkit-backface-visibility:
+        hidden;
+
+    transform:
+        none;
+
+    filter:
+        none;
+}
+
+
+/* =========================================================
+   TEXTO DE OPCIONES
+========================================================= */
+
+.irode-lealtad-item-text {
+
+    font-family:
+        "Caveat",
+        "Segoe Print",
+        "Comic Sans MS",
+        cursive;
+
+    font-size:
+        32px;
+
+    line-height:
+        1.16;
+
+    font-weight:
+        600;
+
+    letter-spacing:
+        -.5px;
+
+    color:
+        #101827;
+
+    text-align:
+        center;
+}
+
+
+.irode-lealtad-item-text span {
+
+    display:
+        block;
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1400px) {
+
+    .irode-lealtad-container {
+
+        width:
+            calc(100% - 120px);
+
+        column-gap:
+            60px;
+    }
+
+
+    .irode-lealtad-title {
+
+        font-size:
+            68px;
+    }
+
+
+    .irode-lealtad-description {
+
+        font-size:
+            18px;
+
+        max-width:
+            590px;
+    }
+
+
+    .irode-lealtad-options {
+
+        column-gap:
+            48px;
+
+        row-gap:
+            52px;
+    }
+
+
+    .irode-lealtad-star-img {
+
+        width:
+            72px;
+
+        height:
+            72px;
+    }
+
+
+    .irode-lealtad-item-text {
+
+        font-size:
+            29px;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 992px) {
+
+    .irode-lealtad-container {
+
+        width:
+            calc(100% - 44px);
+
+        min-height:
+            auto;
+
+        grid-template-columns:
+            1fr;
+
+        gap:
+            52px;
+
+        padding:
+            45px
+            0
+            55px;
+    }
+
+
+    .irode-lealtad-content {
+
+        max-width:
+            760px;
+
+        margin:
+            0 auto;
+
+        text-align:
+            center;
+    }
+
+
+    .irode-lealtad-title {
+
+        font-size:
+            64px;
+    }
+
+
+    .irode-lealtad-underline {
+
+        margin:
+            0 auto;
+    }
+
+
+    .irode-lealtad-description {
+
+        max-width:
+            720px;
+
+        margin:
+            42px
+            auto
+            0;
+
+        font-size:
+            19px;
+    }
+
+
+    .irode-lealtad-options {
+
+        max-width:
+            760px;
+
+        margin:
+            0 auto;
+
+        padding-top:
+            0;
+
+        column-gap:
+            35px;
+
+        row-gap:
+            44px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .irode-lealtad-container {
+
+        width:
+            calc(100% - 32px);
+
+        display:
+            block;
+
+        padding:
+            38px
+            0
+            45px;
+    }
+
+
+    .irode-lealtad-content {
+
+        width:
+            100%;
+
+        max-width:
+            none;
+
+        margin:
+            0;
+
+        text-align:
+            left;
+    }
+
+
+    .irode-lealtad-title {
+
+        font-size:
+            50px;
+
+        line-height:
+            1.04;
+
+        letter-spacing:
+            -1.3px;
+
+        text-align:
+            left;
+    }
+
+
+    .irode-lealtad-underline {
+
+        margin:
+            0;
+    }
+
+
+    .irode-lealtad-underline::after {
+
+        left:
+            49px;
+
+        width:
+            160px;
+
+        height:
+            11px;
+
+        bottom:
+            -5px;
+    }
+
+
+    .irode-lealtad-description {
+
+        width:
+            100%;
+
+        max-width:
+            none;
+
+        margin:
+            38px
+            0
+            0;
+
+        font-size:
+            17px;
+
+        line-height:
+            1.55;
+
+        text-align:
+            left;
+    }
+
+
+    .irode-lealtad-options {
+
+        width:
+            100%;
+
+        max-width:
+            none;
+
+        margin-top:
+            55px;
+
+        padding:
+            0;
+
+        display:
+            grid;
+
+        grid-template-columns:
+            repeat(2, 1fr);
+
+        column-gap:
+            20px;
+
+        row-gap:
+            36px;
+    }
+
+
+    .irode-lealtad-item-bottom:nth-of-type(4),
+    .irode-lealtad-item-bottom:nth-of-type(5) {
+
+        grid-column:
+            auto;
+    }
+
+
+    .irode-lealtad-star-img {
+
+        width:
+            65px;
+
+        height:
+            65px;
+
+        margin-bottom:
+            6px;
+    }
+
+
+    .irode-lealtad-item-text {
+
+        font-size:
+            27px;
+
+        line-height:
+            1.1;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES PEQUEÑOS
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .irode-lealtad-container {
+
+        width:
+            calc(100% - 28px);
+    }
+
+
+    .irode-lealtad-title {
+
+        font-size:
+            48px;
+    }
+
+
+    .irode-lealtad-description {
+
+        font-size:
+            16px;
+    }
+
+
+    .irode-lealtad-options {
+
+        margin-top:
+            50px;
+
+        column-gap:
+            14px;
+
+        row-gap:
+            32px;
+    }
+
+
+    .irode-lealtad-star-img {
+
+        width:
+            60px;
+
+        height:
+            60px;
+    }
+
+
+    .irode-lealtad-item-text {
+
+        font-size:
+            25px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES MUY PEQUEÑOS
+========================================================= */
+
+@media (max-width: 360px) {
+
+    .irode-lealtad-container {
+
+        width:
+            calc(100% - 24px);
+    }
+
+
+    .irode-lealtad-title {
+
+        font-size:
+            44px;
+    }
+
+
+    .irode-lealtad-description {
+
+        font-size:
+            15.5px;
+    }
+
+
+    .irode-lealtad-item-text {
+
+        font-size:
+            23px;
+    }
+
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 7                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-canales-section">
+
+    <div class="irode-canales-container">
+
+
+        
+
+        <h2 class="irode-canales-title">
+
+            <span class="irode-canales-title-normal">
+                Venta
+            </span>
+
+            <span class="irode-canales-title-highlight">
+                entre canales
+            </span>
+
+        </h2>
+
+
+        
+
+        <div class="irode-canales-subtitle">
+
+            <p>
+                <strong>Haz clic y recoge.</strong>
+                Olvídate del caos en tus canales de venta. Deja que los clientes
+                ordenen en línea y vayan por sus productos a la tienda. La pantalla
+                de preparación te permite elaborar órdenes grandes por adelantado.
+            </p>
+
+        </div>
+
+
+        
+
+        <div class="irode-canales-visual">
+
+
+            
+
+            <div class="irode-canales-image-left-wrap">
+
+                <img src="https://www.irodetech.com/web/image/41626-d0166063/ChatGPT%20Image%2014%20sept%202026%2C%2004_46_27%20p.m..png" alt="Orden en línea" class="irode-canales-image-left" loading="eager" decoding="sync" fetchpriority="high">
+
+            </div>
+
+
+            
+
+            <div class="irode-canales-arrow-wrap">
+
+                <span class="irode-canales-arrow">
+                    →
+                </span>
+
+            </div>
+
+
+            
+
+            <div class="irode-canales-image-right-wrap">
+
+                <img src="https://www.irodetech.com/web/image/41627-a6bc05e2/ChatGPT%20Image%2014%20sept%202026%2C%2004_46_29%20p.m..png" alt="Pantalla de preparación" class="irode-canales-image-right" loading="eager" decoding="sync" fetchpriority="high">
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+
+/* =========================================================
+   RESET
+========================================================= */
+
+.irode-canales-section,
+.irode-canales-section *,
+.irode-canales-section *::before,
+.irode-canales-section *::after {
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   SECCIÓN
+========================================================= */
+
+.irode-canales-section {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    background: #ffffff;
+
+    overflow: hidden;
+
+    padding:
+        28px
+        0
+        52px;
+}
+
+
+/* =========================================================
+   CONTENEDOR
+========================================================= */
+
+.irode-canales-container {
+
+    width:
+        min(
+            1540px,
+            calc(100% - 120px)
+        );
+
+    margin:
+        0
+        auto;
+}
+
+
+/* =========================================================
+   TÍTULO
+========================================================= */
+
+.irode-canales-title {
+
+    margin:
+        0;
+
+    padding:
+        0;
+
+    text-align:
+        center;
+
+    font-family:
+        "Caveat",
+        "Segoe Print",
+        "Comic Sans MS",
+        cursive;
+
+    font-size:
+        76px;
+
+    line-height:
+        1;
+
+    font-weight:
+        600;
+
+    letter-spacing:
+        -1.6px;
+
+    color:
+        #101827;
+}
+
+
+.irode-canales-title-normal,
+.irode-canales-title-highlight {
+
+    display:
+        inline-block;
+}
+
+
+/* =========================================================
+   RESALTADO ROSADO
+========================================================= */
+
+.irode-canales-title-highlight {
+
+    position:
+        relative;
+
+    z-index:
+        1;
+}
+
+
+.irode-canales-title-highlight::before {
+
+    content:
+        "";
+
+    position:
+        absolute;
+
+    left:
+        -10px;
+
+    right:
+        -14px;
+
+    top:
+        50%;
+
+    height:
+        30px;
+
+    transform:
+        translateY(-44%)
+        rotate(-1.2deg);
+
+    background:
+        #ff7f87;
+
+    border-radius:
+        14px;
+
+    z-index:
+        -1;
+}
+
+
+/* =========================================================
+   SUBTÍTULO
+========================================================= */
+
+.irode-canales-subtitle {
+
+    width:
+        100%;
+
+    max-width:
+        1040px;
+
+    margin:
+        42px
+        auto
+        0;
+
+    text-align:
+        center;
+}
+
+
+.irode-canales-subtitle p {
+
+    margin:
+        0;
+
+    padding:
+        0;
+
+    font-family:
+        "Inter",
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    font-size:
+        20px;
+
+    line-height:
+        1.52;
+
+    font-weight:
+        400;
+
+    letter-spacing:
+        -.01em;
+
+    color:
+        #465265;
+}
+
+
+.irode-canales-subtitle strong {
+
+    font-weight:
+        700;
+
+    color:
+        #374255;
+}
+
+
+/* =========================================================
+   VISUAL
+========================================================= */
+
+.irode-canales-visual {
+
+    width:
+        100%;
+
+    margin:
+        72px
+        auto
+        0;
+
+    display:
+        flex;
+
+    align-items:
+        flex-end;
+
+    justify-content:
+        center;
+
+    gap:
+        26px;
+}
+
+
+/* =========================================================
+   IMAGEN IZQUIERDA
+========================================================= */
+
+.irode-canales-image-left-wrap {
+
+    width:
+        min(
+            500px,
+            31%
+        );
+
+    flex:
+        0 0 auto;
+
+    display:
+        flex;
+
+    justify-content:
+        center;
+
+    align-items:
+        center;
+}
+
+
+.irode-canales-image-left {
+
+    width:
+        auto;
+
+    max-width:
+        100%;
+
+    height:
+        auto;
+
+    max-height:
+        none;
+
+    display:
+        block;
+
+    margin:
+        0
+        auto;
+
+    object-fit:
+        contain;
+
+    object-position:
+        center;
+
+    image-rendering:
+        auto;
+
+    -webkit-backface-visibility:
+        hidden;
+
+    backface-visibility:
+        hidden;
+
+    transform:
+        none;
+
+    filter:
+        none;
+
+    opacity:
+        1;
+}
+
+
+/* =========================================================
+   FLECHA
+========================================================= */
+
+.irode-canales-arrow-wrap {
+
+    flex:
+        0 0 auto;
+
+    display:
+        flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    padding-bottom:
+        126px;
+}
+
+
+.irode-canales-arrow {
+
+    display:
+        inline-block;
+
+    font-family:
+        "Caveat",
+        "Segoe Print",
+        "Comic Sans MS",
+        cursive;
+
+    font-size:
+        78px;
+
+    line-height:
+        1;
+
+    font-weight:
+        700;
+
+    color:
+        #7f5573;
+
+    transform:
+        rotate(-5deg);
+}
+
+
+/* =========================================================
+   IMAGEN DERECHA
+========================================================= */
+
+.irode-canales-image-right-wrap {
+
+    width:
+        min(
+            760px,
+            49%
+        );
+
+    flex:
+        0 0 auto;
+
+    display:
+        flex;
+
+    justify-content:
+        center;
+
+    align-items:
+        center;
+}
+
+
+.irode-canales-image-right {
+
+    width:
+        auto;
+
+    max-width:
+        100%;
+
+    height:
+        auto;
+
+    max-height:
+        none;
+
+    display:
+        block;
+
+    margin:
+        0
+        auto;
+
+    object-fit:
+        contain;
+
+    object-position:
+        center;
+
+    image-rendering:
+        auto;
+
+    -webkit-backface-visibility:
+        hidden;
+
+    backface-visibility:
+        hidden;
+
+    transform:
+        none;
+
+    filter:
+        none;
+
+    opacity:
+        1;
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1300px) {
+
+    .irode-canales-container {
+
+        width:
+            calc(100% - 120px);
+    }
+
+
+    .irode-canales-title {
+
+        font-size:
+            68px;
+    }
+
+
+    .irode-canales-title-highlight::before {
+
+        height:
+            27px;
+    }
+
+
+    .irode-canales-subtitle {
+
+        max-width:
+            950px;
+
+        margin-top:
+            36px;
+    }
+
+
+    .irode-canales-subtitle p {
+
+        font-size:
+            18px;
+    }
+
+
+    .irode-canales-visual {
+
+        margin-top:
+            60px;
+
+        gap:
+            20px;
+    }
+
+
+    .irode-canales-arrow-wrap {
+
+        padding-bottom:
+            106px;
+    }
+
+
+    .irode-canales-arrow {
+
+        font-size:
+            70px;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 992px) {
+
+    .irode-canales-section {
+
+        padding:
+            26px
+            0
+            46px;
+    }
+
+
+    .irode-canales-container {
+
+        width:
+            calc(100% - 44px);
+    }
+
+
+    .irode-canales-title {
+
+        font-size:
+            64px;
+
+        line-height:
+            1;
+    }
+
+
+    .irode-canales-title-highlight::before {
+
+        height:
+            25px;
+
+        left:
+            -8px;
+
+        right:
+            -10px;
+    }
+
+
+    .irode-canales-subtitle {
+
+        max-width:
+            820px;
+
+        margin-top:
+            30px;
+    }
+
+
+    .irode-canales-subtitle p {
+
+        font-size:
+            19px;
+    }
+
+
+    .irode-canales-visual {
+
+        margin-top:
+            48px;
+
+        gap:
+            14px;
+    }
+
+
+    .irode-canales-image-left-wrap {
+
+        width:
+            33%;
+    }
+
+
+    .irode-canales-image-right-wrap {
+
+        width:
+            51%;
+    }
+
+
+    .irode-canales-arrow-wrap {
+
+        padding-bottom:
+            82px;
+    }
+
+
+    .irode-canales-arrow {
+
+        font-size:
+            64px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .irode-canales-section {
+
+        padding:
+            32px
+            0
+            42px;
+    }
+
+
+    .irode-canales-container {
+
+        width:
+            calc(100% - 32px);
+    }
+
+
+    .irode-canales-title {
+
+        font-size:
+            50px;
+
+        line-height:
+            .98;
+
+        letter-spacing:
+            -1.3px;
+
+        text-align:
+            left;
+    }
+
+
+    .irode-canales-title-highlight::before {
+
+        height:
+            19px;
+
+        left:
+            -6px;
+
+        right:
+            -8px;
+
+        border-radius:
+            10px;
+    }
+
+
+    .irode-canales-subtitle {
+
+        max-width:
+            none;
+
+        margin:
+            30px
+            0
+            0;
+
+        text-align:
+            left;
+    }
+
+
+    .irode-canales-subtitle p {
+
+        font-size:
+            17px;
+
+        line-height:
+            1.55;
+    }
+
+
+    .irode-canales-visual {
+
+        margin-top:
+            38px;
+
+        flex-direction:
+            column;
+
+        align-items:
+            center;
+
+        gap:
+            20px;
+    }
+
+
+    .irode-canales-image-left-wrap,
+    .irode-canales-image-right-wrap {
+
+        width:
+            100%;
+
+        max-width:
+            none;
+    }
+
+
+    .irode-canales-image-left,
+    .irode-canales-image-right {
+
+        width:
+            100%;
+
+        max-width:
+            100%;
+
+        height:
+            auto;
+    }
+
+
+    .irode-canales-arrow-wrap {
+
+        padding-bottom:
+            0;
+    }
+
+
+    .irode-canales-arrow {
+
+        font-size:
+            54px;
+
+        transform:
+            rotate(90deg);
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES PEQUEÑOS
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .irode-canales-container {
+
+        width:
+            calc(100% - 28px);
+    }
+
+
+    .irode-canales-title {
+
+        font-size:
+            48px;
+    }
+
+
+    .irode-canales-subtitle p {
+
+        font-size:
+            16px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES MUY PEQUEÑOS
+========================================================= */
+
+@media (max-width: 360px) {
+
+    .irode-canales-container {
+
+        width:
+            calc(100% - 24px);
+    }
+
+
+    .irode-canales-title {
+
+        font-size:
+            44px;
+    }
+
+
+    .irode-canales-subtitle p {
+
+        font-size:
+            15.5px;
+    }
+
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 8                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-funciones-section">
+
+    <div class="irode-funciones-container">
+
+        <h2 class="irode-funciones-title">
+            <span class="irode-funciones-title-line">
+                Todas las
+                <span class="irode-funciones-circle-word">
+                    funciones
+                    <svg class="irode-funciones-circle" viewBox="0 0 250 120" preserveAspectRatio="none" aria-hidden="true">
+                        <path d="
+                            M22 66
+                            C28 27,76 10,126 10
+                            C175 10,214 24,224 49
+                            C235 77,201 101,148 105
+                            C98 109,47 99,27 80
+                            C23 76,21 71,22 66
+                            " fill="none" stroke="#12cabb" stroke-width="6" stroke-linecap="round"></path>
+                        <path d="
+                            M31 60
+                            C42 29,82 17,126 17
+                            C168 17,201 29,214 50
+                            " fill="none" stroke="#12cabb" stroke-width="3" stroke-linecap="round"></path>
+                    </svg>
+                </span>
+            </span>
+
+            <span class="irode-funciones-title-line">
+                <span class="irode-funciones-underline-word">
+                    bien
+                    <svg class="irode-funciones-underline" viewBox="0 0 120 18" preserveAspectRatio="none" aria-hidden="true">
+                        <path d="
+                            M4 11
+                            C30 10,55 10,78 8
+                            C94 8,106 7,116 7
+                            " fill="none" stroke="#52b4f2" stroke-width="5" stroke-linecap="round"></path>
+                    </svg>
+                </span>
+                hechas<span class="irode-funciones-blue-dot">.</span>
+            </span>
+        </h2>
+
+        <div class="irode-funciones-grid">
+
+            <div class="irode-funciones-column">
+
+                <article class="irode-funcion-card irode-scroll-card">
+                    <div class="irode-card-corner"></div>
+                    <div class="irode-card-icon">
+                        <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png" alt="" loading="eager" decoding="async">
+                    </div>
+                    <h3>Todos los dispositivos son compatibles</h3>
+                    <p>Odoo funciona a la perfección en computadoras portátiles y de escritorio, tabletas y máquinas industriales. Sincroniza tus dispositivos con los lectores de código de barras y básculas.</p>
+                </article>
+
+                <article class="irode-funcion-card irode-scroll-card">
+                    <div class="irode-card-corner"></div>
+                    <div class="irode-card-icon">
+                        <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png" alt="" loading="lazy" decoding="async">
+                    </div>
+                    <h3>Programas de lealtad</h3>
+                    <p>Crea un programa de recompensas multiplataforma para que tus clientes vuelvan.</p>
+                </article>
+
+                <article class="irode-funcion-card irode-scroll-card">
+                    <div class="irode-card-corner"></div>
+                    <div class="irode-card-icon">
+                        <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png" alt="" loading="lazy" decoding="async">
+                    </div>
+                    <h3>Varios cajeros</h3>
+                    <p>Gestiona varias cuentas de cajero y protégelas con credenciales o códigos NIP.</p>
+                </article>
+
+                <article class="irode-funcion-card irode-scroll-card">
+                    <div class="irode-card-corner"></div>
+                    <div class="irode-card-icon">
+                        <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png" alt="" loading="lazy" decoding="async">
+                    </div>
+                    <h3>Facturación flexible</h3>
+                    <p>Imprime facturas al instante y envíalas por correo o con un código QR.</p>
+                </article>
+
+                <a href="https://www.irodetech.com/blindaje-fiscal-en-latinoamerica" target="_blank" rel="noopener noreferrer" class="irode-funciones-link irode-funciones-link-desktop">
+                    <span>Conoce todas las funciones</span>
+                    <span class="irode-funciones-link-arrow">→</span>
+                </a>
+
+            </div>
+
+            <div class="irode-funciones-column">
+
+                <article class="irode-funcion-card irode-scroll-card">
+                    <div class="irode-card-corner"></div>
+                    <div class="irode-card-icon">
+                        <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png" alt="" loading="eager" decoding="async">
+                    </div>
+                    <h3>Pagos sin conexión</h3>
+                    <p>Los pagos realizados sin conexión se sincronizan en automático cuando te vuelves a conectar.</p>
+                </article>
+
+                <article class="irode-funcion-card irode-card-main irode-scroll-card">
+                    <div class="irode-card-corner"></div>
+                    <div class="irode-card-icon">
+                        <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png" alt="" loading="lazy" decoding="async">
+                    </div>
+
+                    <h3>Pagos integrados</h3>
+
+                    <p>Usa efectivo, cheques, tarjetas de crédito y agrega otros métodos de pago con facilidad.</p>
+
+                    <p style="margin-top: 18px;">
+                        Centraliza la operación de tu negocio con un <strong>programa ERP</strong> que conecte ventas,
+                        inventario y procesos administrativos. Una <strong>caja registradora</strong> integrada facilita
+                        el cobro diario, mientras que un <strong>punto de venta abarrotes</strong> ayuda a gestionar
+                        productos, precios y existencias. Además, un <strong>sistema de ventas para negocio</strong>
+                        permite tener mayor control de cada transacción y los <strong>puntos de venta para negocios</strong>
+                        pueden operar de forma más ágil y centralizada.
+                    </p>
+
+                    <div class="irode-card-main-image">
+                        <img src="https://www.irodetech.com/web/image/41628-26e3eec6/Gemini_Generated_Image_uwd9tzuwd9tzuwd9.jpg?height=256" alt="Pagos integrados en Punto de Venta" loading="eager" decoding="sync" fetchpriority="high">
+                    </div>
+                </article>
+
+            </div>
+        </div>
+
+        <div class="irode-funciones-link-mobile-wrap">
+            <a href="https://www.irodetech.com/blindaje-fiscal-en-latinoamerica" target="_blank" rel="noopener noreferrer" class="irode-funciones-link irode-funciones-link-mobile">
+                <span>Conoce todas las funciones</span>
+                <span class="irode-funciones-link-arrow">→</span>
+            </a>
+        </div>
+
+    </div>
+</section>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+/* =========================================================
+   RESET
+========================================================= */
+.irode-funciones-section,
+.irode-funciones-section *,
+.irode-funciones-section *::before,
+.irode-funciones-section *::after {
+    box-sizing: border-box;
+}
+
+/* =========================================================
+   SECCIÓN
+========================================================= */
+.irode-funciones-section {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    padding: 95px 0 75px;
+    background: #f3f4f6;
+    border-radius: 170px 0 0 0;
+    overflow: hidden;
+}
+
+/* =========================================================
+   CONTENEDOR
+========================================================= */
+.irode-funciones-container {
+    width: min(1400px, calc(100% - 240px));
+    margin: 0 auto;
+}
+
+/* =========================================================
+   TÍTULO
+========================================================= */
+.irode-funciones-title {
+    margin: 0 0 72px;
+    padding: 0;
+    font-family: "Caveat", cursive;
+    font-size: clamp(58px, 4.6vw, 76px);
+    font-weight: 700;
+    line-height: 1.03;
+    letter-spacing: -.025em;
+    color: #111a2d;
+    text-align: left;
+}
+
+.irode-funciones-title-line {
+    display: block;
+}
+
+/* =========================================================
+   FUNCIONES CIRCULADO
+========================================================= */
+.irode-funciones-circle-word {
+    position: relative;
+    display: inline-block;
+    z-index: 2;
+}
+
+.irode-funciones-circle {
+    position: absolute;
+    left: -9%;
+    top: -25%;
+    width: 119%;
+    height: 126%;
+    overflow: visible;
+    z-index: -1;
+    pointer-events: none;
+    transform: rotate(-3deg);
+}
+
+/* =========================================================
+   BIEN SUBRAYADO
+========================================================= */
+.irode-funciones-underline-word {
+    position: relative;
+    display: inline-block;
+}
+
+.irode-funciones-underline {
+    position: absolute;
+    left: -3%;
+    bottom: -6px;
+    width: 108%;
+    height: 18px;
+    overflow: visible;
+}
+
+.irode-funciones-blue-dot {
+    color: #4eb4f2;
+}
+
+/* =========================================================
+   GRID
+========================================================= */
+.irode-funciones-grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 30px;
+    align-items: start;
+}
+
+/* =========================================================
+   COLUMNAS
+========================================================= */
+.irode-funciones-column {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+/* =========================================================
+   TARJETAS
+========================================================= */
+.irode-funcion-card {
+    position: relative;
+    width: 100%;
+    padding: 38px 36px 34px;
+    background: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(19,28,45,.10);
+    font-family: "Inter", Arial, sans-serif;
+    color: #172032;
+    transform-origin: center center;
+}
+
+/* =========================================================
+   ALTURA DE TARJETAS NORMALES
+========================================================= */
+.irode-funcion-card:not(.irode-card-main) {
+    min-height: 168px;
+}
+
+/* =========================================================
+   ESQUINA GRIS
+========================================================= */
+.irode-card-corner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 104px;
+    height: 94px;
+    background: #f7f7f8;
+    border-radius: 0 0 0 48px;
+    z-index: 1;
+}
+
+/* =========================================================
+   ICONO
+========================================================= */
+.irode-card-icon {
+    position: absolute;
+    top: 18px;
+    right: 21px;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 3;
+}
+
+.irode-card-icon img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    object-fit: contain;
+    display: block;
+    filter: none;
+    transform: none;
+    opacity: 1;
+    image-rendering: auto;
+}
+
+/* =========================================================
+   TÍTULO DE TARJETAS
+========================================================= */
+.irode-funcion-card h3 {
+    position: relative;
+    z-index: 2;
+    max-width: calc(100% - 90px);
+    margin: 0 0 22px;
+    padding: 0;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 23px;
+    line-height: 1.25;
+    font-weight: 700;
+    letter-spacing: -.025em;
+    color: #151d2d;
+}
+
+/* =========================================================
+   TEXTO
+========================================================= */
+.irode-funcion-card p {
+    position: relative;
+    z-index: 2;
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.52;
+    font-weight: 400;
+    letter-spacing: -.012em;
+    color: #252d3c;
+}
+
+.irode-funcion-card strong {
+    font-weight: 700;
+}
+
+/* =========================================================
+   TARJETA PRINCIPAL
+========================================================= */
+.irode-card-main {
+    padding-bottom: 0;
+}
+
+/* =========================================================
+   IMAGEN DE PAGOS INTEGRADOS
+========================================================= */
+.irode-card-main-image {
+    position: relative;
+    width: 100%;
+    margin-top: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 8px 8px 0 0;
+}
+
+.irode-card-main-image img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: none;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
+    object-position: center;
+    image-rendering: auto;
+    filter: none;
+    transform: none;
+    opacity: 1;
+}
+
+/* =========================================================
+   ENLACE
+========================================================= */
+.irode-funciones-link {
+    width: fit-content;
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+    font-family: "Caveat", cursive;
+    font-size: 29px;
+    line-height: 1;
+    font-weight: 600;
+    color: #744b70;
+    transition: transform .25s ease, opacity .25s ease;
+}
+
+.irode-funciones-link:hover {
+    transform: translateX(4px);
+    opacity: .88;
+}
+
+.irode-funciones-link-arrow {
+    position: relative;
+    top: -1px;
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.irode-funciones-link-desktop {
+    margin-top: 14px;
+}
+
+.irode-funciones-link-mobile-wrap {
+    display: none;
+}
+
+/* =========================================================
+   ANIMACIÓN
+========================================================= */
+.irode-scroll-card {
+    opacity: 0;
+    transform: translateY(45px) scale(.91);
+    transition: opacity .75s ease, transform .9s cubic-bezier(.22,.78,.22,1), box-shadow .8s ease;
+}
+
+.irode-scroll-card.irode-visible {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    box-shadow: 0 4px 12px rgba(19,28,45,.10);
+}
+
+@media (hover: hover) {
+    .irode-scroll-card.irode-visible:hover {
+        transform: scale(1.015);
+    }
+}
+
+/* =========================================================
+   RESPONSIVE LAPTOP
+========================================================= */
+@media (max-width: 1300px) {
+
+    .irode-funciones-container {
+        width: calc(100% - 120px);
+    }
+
+    .irode-funciones-title {
+        font-size: clamp(53px, 5vw, 68px);
+        margin-bottom: 62px;
+    }
+
+    .irode-funcion-card {
+        padding: 32px 30px 30px;
+    }
+
+    .irode-card-main {
+        padding-bottom: 0;
+    }
+
+    .irode-funcion-card h3 {
+        font-size: 21px;
+    }
+
+    .irode-funcion-card p {
+        font-size: 17px;
+    }
+}
+
+/* =========================================================
+   RESPONSIVE TABLET
+========================================================= */
+@media (max-width: 992px) {
+
+    .irode-funciones-section {
+        border-radius: 110px 0 0 0;
+        padding: 75px 0 60px;
+    }
+
+    .irode-funciones-container {
+        width: calc(100% - 44px);
+    }
+
+    .irode-funciones-title {
+        font-size: clamp(58px, 8.5vw, 78px);
+    }
+
+    .irode-funciones-grid {
+        gap: 22px;
+    }
+
+    .irode-card-corner {
+        width: 94px;
+        height: 86px;
+        border-radius: 0 0 0 44px;
+    }
+}
+
+/* =========================================================
+   RESPONSIVE MÓVIL
+========================================================= */
+@media (max-width: 768px) {
+
+    .irode-funciones-section {
+        padding: 58px 0 50px;
+        border-radius: 70px 0 0 0;
+    }
+
+    .irode-funciones-container {
+        width: calc(100% - 32px);
+        margin: 0 auto;
+    }
+
+    .irode-funciones-title {
+        width: 100%;
+        font-size: clamp(49px, 12.8vw, 64px);
+        line-height: 1.02;
+        margin: 0 0 46px;
+        text-align: left;
+    }
+    
+    .irode-funciones-grid {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 22px;
+    }
+
+    .irode-funciones-column {
+        width: 100%;
+        gap: 22px;
+    }
+    
+    .irode-funcion-card,
+    .irode-funcion-card:not(.irode-card-main) {
+        width: 100%;
+        min-height: auto;
+        padding: 27px 23px 27px;
+        border-radius: 10px;
+        box-shadow: 0 2px 6px rgba(19,28,45,.09);
+    }
+    
+    .irode-card-main {
+        padding-bottom: 0;
+    }
+    
+    .irode-card-corner,
+    .irode-card-icon {
+        display: none !important;
+    }
+    
+    .irode-funcion-card h3 {
+        max-width: 100%;
+        margin: 0 0 18px;
+        font-size: 20px;
+        line-height: 1.28;
+        letter-spacing: -.02em;
+    }
+    
+    .irode-funcion-card p {
+        font-size: 16px;
+        line-height: 1.55;
+        letter-spacing: -.008em;
+    }
+    
+    .irode-card-main-image {
+        width: 100%;
+        margin-top: 27px;
+    }
+    
+    .irode-card-main-image img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        object-fit: contain;
+        object-position: center;
+        image-rendering: auto;
+    }
+    
+    .irode-funciones-link-desktop {
+        display: none;
+    }
+    
+    .irode-funciones-link-mobile-wrap {
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        margin-top: 34px;
+    }
+    
+    .irode-funciones-link-mobile {
+        display: inline-flex;
+        font-size: 27px;
+        gap: 10px;
+    }
+    
+    .irode-funciones-link-arrow {
+        font-size: 32px;
+    }
+}
+
+/* =========================================================
+   MÓVILES PEQUEÑOS
+========================================================= */
+@media (max-width: 420px) {
+
+    .irode-funciones-section {
+        padding: 52px 0 44px;
+        border-radius: 60px 0 0 0;
+    }
+
+    .irode-funciones-container {
+        width: calc(100% - 28px);
+    }
+
+    .irode-funciones-title {
+        font-size: 48px;
+        margin-bottom: 40px;
+    }
+
+    .irode-funciones-grid {
+        gap: 18px;
+    }
+
+    .irode-funciones-column {
+        gap: 18px;
+    }
+
+    .irode-funcion-card {
+        padding: 24px 20px 24px;
+    }
+
+    .irode-card-main {
+        padding-bottom: 0;
+    }
+
+    .irode-funcion-card h3 {
+        font-size: 18px;
+        line-height: 1.3;
+        margin-bottom: 16px;
+    }
+
+    .irode-funcion-card p {
+        font-size: 15.5px;
+        line-height: 1.55;
+    }
+
+    .irode-card-main-image {
+        margin-top: 24px;
+    }
+
+    .irode-funciones-link-mobile-wrap {
+        margin-top: 30px;
+    }
+
+    .irode-funciones-link-mobile {
+        font-size: 25px;
+    }
+
+    .irode-funciones-link-arrow {
+        font-size: 29px;
+    }
+}
+
+/* =========================================================
+   MÓVILES MUY PEQUEÑOS
+========================================================= */
+@media (max-width: 360px) {
+
+    .irode-funciones-container {
+        width: calc(100% - 24px);
+    }
+
+    .irode-funciones-title {
+        font-size: 44px;
+    }
+}
+
+/* =========================================================
+   REDUCIR MOVIMIENTO
+========================================================= */
+@media (prefers-reduced-motion: reduce) {
+
+    .irode-scroll-card {
+        opacity: 1;
+        transform: none;
+        transition: none;
+    }
+}
+
+</style>
+
+<script>
+(function () {
+
+    const cards = document.querySelectorAll('.irode-scroll-card');
+
+    if (!cards.length) {
+        return;
+    }
+
+    if (!('IntersectionObserver' in window)) {
+        cards.forEach(function (card) {
+            card.classList.add('irode-visible');
+        });
+        return;
+    }
+
+    const observer = new IntersectionObserver(function (entries) {
+
+        entries.forEach(function (entry) {
+
+            if (entry.isIntersecting) {
+                entry.target.classList.add('irode-visible');
+                observer.unobserve(entry.target);
+            }
+
+        });
+
+    }, {
+        threshold: 0.15,
+        rootMargin: '0px 0px -25px 0px'
+    });
+
+    cards.forEach(function (card, index) {
+        card.style.transitionDelay = (index * 65) + 'ms';
+        observer.observe(card);
+    });
+
+})();
+</script>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 9                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="apps-necesidad-section">
+
+    <div class="apps-necesidad-container">
+
+
+        
+
+        <h2 class="apps-necesidad-title">
+
+            Una
+
+            <span class="apps-necesidad-underline">
+                aplicación
+            </span>
+
+            para cada
+
+            <span class="apps-necesidad-underline apps-necesidad-underline-2">
+                necesidad
+            </span>.
+
+        </h2>
+
+
+        
+
+        <p class="apps-necesidad-subtitle">
+            Crecemos contigo.
+        </p>
+
+
+        
+
+        <div class="apps-necesidad-grid">
+
+
+            
+
+            <article class="apps-necesidad-card">
+
+                <div class="apps-necesidad-icon">
+
+                    <img src="https://www.irodetech.com/web/image/41600-09f61d93/ChatGPT%20Image%2014%20sept%202026%2C%2002_11_07%20p.m..png" alt="Sitio web" class="apps-necesidad-icon-img" loading="lazy" decoding="async">
+
+                </div>
+
+
+                <div class="apps-necesidad-card-copy">
+
+                    <h3>
+                        Sitio web
+                    </h3>
+
+                    <p>
+                        Crea un sitio web increíble
+                    </p>
+
+                </div>
+
+            </article>
+
+
+            
+
+            <article class="apps-necesidad-card">
+
+                <div class="apps-necesidad-icon">
+
+                    <img src="https://www.irodetech.com/web/image/41598-d18da948/ChatGPT%20Image%2014%20sept%202026%2C%2002_11_10%20p.m..png" alt="Comercio electrónico" class="apps-necesidad-icon-img" loading="lazy" decoding="async">
+
+                </div>
+
+
+                <div class="apps-necesidad-card-copy">
+
+                    <h3>
+                        Comercio electrónico
+                    </h3>
+
+                    <p>
+                        Vende en línea
+                    </p>
+
+                </div>
+
+            </article>
+
+
+            
+
+            <article class="apps-necesidad-card">
+
+                <div class="apps-necesidad-icon">
+
+                    <img src="https://www.irodetech.com/web/image/41597-8c347ffc/ChatGPT%20Image%2014%20sept%202026%2C%2002_11_12%20p.m..png" alt="Inventario" class="apps-necesidad-icon-img" loading="lazy" decoding="async">
+
+                </div>
+
+
+                <div class="apps-necesidad-card-copy">
+
+                    <h3>
+                        Inventario
+                    </h3>
+
+                    <p>
+                        Rastrea tus existencias
+                    </p>
+
+                </div>
+
+            </article>
+
+
+            
+
+            <article class="apps-necesidad-card">
+
+                <div class="apps-necesidad-icon">
+
+                    <img src="https://www.irodetech.com/web/image/41596-da4e2ad3/ChatGPT%20Image%2014%20sept%202026%2C%2002_11_14%20p.m..png" alt="Marketing por correo" class="apps-necesidad-icon-img" loading="lazy" decoding="async">
+
+                </div>
+
+
+                <div class="apps-necesidad-card-copy">
+
+                    <h3>
+                        Marketing por correo
+                    </h3>
+
+                    <p>
+                        Crea campañas
+                    </p>
+
+                </div>
+
+            </article>
+
+
+            
+
+            <article class="apps-necesidad-card">
+
+                <div class="apps-necesidad-icon">
+
+                    <img src="https://www.irodetech.com/web/image/41599-a37e2e66/ChatGPT%20Image%2014%20sept%202026%2C%2002_11_16%20p.m..png" alt="CRM" class="apps-necesidad-icon-img" loading="lazy" decoding="async">
+
+                </div>
+
+
+                <div class="apps-necesidad-card-copy">
+
+                    <h3>
+                        CRM
+                    </h3>
+
+                    <p>
+                        Crea relaciones fuertes
+                    </p>
+
+                </div>
+
+            </article>
+
+
+            
+
+            <article class="apps-necesidad-card">
+
+                <div class="apps-necesidad-icon">
+
+                    <img src="https://www.irodetech.com/web/image/41555-fbde9e06/ChatGPT%20Image%2014%20sept%202026%2C%2010_03_06%20a.m..png" alt="Contabilidad" class="apps-necesidad-icon-img" loading="lazy" decoding="async">
+
+                </div>
+
+
+                <div class="apps-necesidad-card-copy">
+
+                    <h3>
+                        Contabilidad
+                    </h3>
+
+                    <p>
+                        Gestiona tus finanzas
+                    </p>
+
+                </div>
+
+            </article>
+
+
+        </div>
+
+
+        
+
+        <a href="https://www.irodetech.com/modulos-odoo" target="_blank" rel="noopener noreferrer" class="apps-necesidad-link">
+
+            <span>
+                Conoce todas las aplicaciones
+            </span>
+
+            <span class="apps-necesidad-arrow">
+                →
+            </span>
+
+        </a>
+
+
+    </div>
+
+</section>
+
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Lato:wght@400;700&display=swap');
+
+
+/* =========================================================
+   RESET
+========================================================= */
+
+.apps-necesidad-section,
+.apps-necesidad-section *,
+.apps-necesidad-section *::before,
+.apps-necesidad-section *::after {
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   SECCIÓN
+========================================================= */
+
+.apps-necesidad-section {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    padding:
+        78px
+        0
+        90px;
+
+    background:
+        #ffffff;
+
+    overflow:
+        hidden;
+}
+
+
+/* =========================================================
+   CONTENEDOR
+========================================================= */
+
+.apps-necesidad-container {
+
+    width:
+        min(
+            1575px,
+            calc(100% - 275px)
+        );
+
+    margin:
+        0 auto;
+}
+
+
+/* =========================================================
+   TÍTULO
+========================================================= */
+
+.apps-necesidad-title {
+
+    width:
+        100%;
+
+    margin:
+        0;
+
+    padding:
+        0;
+
+    font-family:
+        "Caveat",
+        cursive;
+
+    font-size:
+        clamp(
+            76px,
+            5.2vw,
+            96px
+        );
+
+    line-height:
+        .98;
+
+    font-weight:
+        600;
+
+    letter-spacing:
+        -.018em;
+
+    color:
+        #101827;
+
+    white-space:
+        nowrap;
+}
+
+
+/* =========================================================
+   SUBRAYADOS
+========================================================= */
+
+.apps-necesidad-underline {
+
+    position:
+        relative;
+
+    display:
+        inline-block;
+
+    z-index:
+        1;
+}
+
+
+.apps-necesidad-underline::after {
+
+    content:
+        "";
+
+    position:
+        absolute;
+
+    left:
+        1%;
+
+    bottom:
+        0;
+
+    width:
+        98%;
+
+    height:
+        12px;
+
+    background:
+        #55b5ed;
+
+    border-radius:
+        999px;
+
+    transform:
+        rotate(-1.7deg);
+
+    z-index:
+        -1;
+}
+
+
+.apps-necesidad-underline-2::after {
+
+    left:
+        1%;
+
+    width:
+        98%;
+
+    transform:
+        rotate(-1.9deg);
+}
+
+
+/* =========================================================
+   SUBTÍTULO
+========================================================= */
+
+.apps-necesidad-subtitle {
+
+    margin:
+        37px
+        0
+        0;
+
+    padding:
+        0;
+
+    font-family:
+        "Lato",
+        Arial,
+        sans-serif;
+
+    font-size:
+        29px;
+
+    line-height:
+        1.35;
+
+    font-weight:
+        400;
+
+    letter-spacing:
+        -.01em;
+
+    color:
+        #4a5568;
+}
+
+
+/* =========================================================
+   GRID
+========================================================= */
+
+.apps-necesidad-grid {
+
+    width:
+        100%;
+
+    margin-top:
+        64px;
+
+    display:
+        grid;
+
+    grid-template-columns:
+        repeat(
+            3,
+            minmax(0, 1fr)
+        );
+
+    gap:
+        28px
+        30px;
+}
+
+
+/* =========================================================
+   TARJETAS
+========================================================= */
+
+.apps-necesidad-card {
+
+    width:
+        100%;
+
+    min-height:
+        102px;
+
+    display:
+        flex;
+
+    align-items:
+        center;
+
+    padding:
+        12px
+        18px;
+
+    background:
+        #f7f8f9;
+
+    border-radius:
+        4px;
+
+    transition:
+        transform .22s ease,
+        box-shadow .22s ease;
+}
+
+
+@media (hover: hover) {
+
+    .apps-necesidad-card:hover {
+
+        transform:
+            translateY(-7px);
+
+        box-shadow:
+            0
+            10px
+            24px
+            rgba(20,30,45,.10);
+    }
+
+}
+
+
+/* =========================================================
+   ICONOS
+========================================================= */
+
+.apps-necesidad-icon {
+
+    width:
+        72px;
+
+    height:
+        72px;
+
+    flex:
+        0
+        0
+        72px;
+
+    display:
+        flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    background:
+        #ffffff;
+
+    border-radius:
+        4px;
+
+    box-shadow:
+        0
+        2px
+        7px
+        rgba(20,30,45,.10);
+}
+
+
+.apps-necesidad-icon-img {
+
+    width:
+        52px;
+
+    height:
+        52px;
+
+    display:
+        block;
+
+    object-fit:
+        contain;
+
+    object-position:
+        center;
+
+    image-rendering:
+        auto;
+
+    filter:
+        none;
+
+    transform:
+        none;
+}
+
+
+/* =========================================================
+   TEXTO TARJETAS
+========================================================= */
+
+.apps-necesidad-card-copy {
+
+    min-width:
+        0;
+
+    padding-left:
+        19px;
+
+    font-family:
+        "Lato",
+        Arial,
+        sans-serif;
+}
+
+
+.apps-necesidad-card-copy h3 {
+
+    margin:
+        0
+        0
+        6px;
+
+    padding:
+        0;
+
+    font-family:
+        "Lato",
+        Arial,
+        sans-serif;
+
+    font-size:
+        22px;
+
+    line-height:
+        1.12;
+
+    font-weight:
+        700;
+
+    letter-spacing:
+        -.01em;
+
+    color:
+        #101827;
+}
+
+
+.apps-necesidad-card-copy p {
+
+    margin:
+        0;
+
+    padding:
+        0;
+
+    font-family:
+        "Lato",
+        Arial,
+        sans-serif;
+
+    font-size:
+        16px;
+
+    line-height:
+        1.42;
+
+    font-weight:
+        400;
+
+    letter-spacing:
+        -.005em;
+
+    color:
+        #697487;
+}
+
+
+/* =========================================================
+   ENLACE INFERIOR
+========================================================= */
+
+.apps-necesidad-link {
+
+    width:
+        fit-content;
+
+    margin-top:
+        58px;
+
+    display:
+        inline-flex;
+
+    align-items:
+        center;
+
+    gap:
+        13px;
+
+    font-family:
+        "Caveat",
+        cursive;
+
+    font-size:
+        32px;
+
+    line-height:
+        1;
+
+    font-weight:
+        600;
+
+    letter-spacing:
+        -.01em;
+
+    color:
+        #7b4e70 !important;
+
+    text-decoration:
+        none !important;
+
+    transition:
+        transform .2s ease,
+        opacity .2s ease;
+}
+
+
+.apps-necesidad-link:hover {
+
+    color:
+        #7b4e70 !important;
+
+    text-decoration:
+        none !important;
+
+    transform:
+        translateX(4px);
+
+    opacity:
+        .9;
+}
+
+
+.apps-necesidad-arrow {
+
+    position:
+        relative;
+
+    top:
+        -1px;
+
+    font-family:
+        Arial,
+        sans-serif;
+
+    font-size:
+        41px;
+
+    line-height:
+        .8;
+
+    font-weight:
+        400;
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1400px) {
+
+    .apps-necesidad-container {
+
+        width:
+            calc(100% - 150px);
+    }
+
+
+    .apps-necesidad-title {
+
+        font-size:
+            clamp(
+                68px,
+                5vw,
+                84px
+            );
+
+        white-space:
+            nowrap;
+    }
+
+
+    .apps-necesidad-subtitle {
+
+        font-size:
+            25px;
+    }
+
+
+    .apps-necesidad-card {
+
+        min-height:
+            96px;
+    }
+
+
+    .apps-necesidad-icon {
+
+        width:
+            68px;
+
+        height:
+            68px;
+
+        flex-basis:
+            68px;
+    }
+
+
+    .apps-necesidad-icon-img {
+
+        width:
+            48px;
+
+        height:
+            48px;
+    }
+
+
+    .apps-necesidad-card-copy h3 {
+
+        font-size:
+            20px;
+    }
+
+
+    .apps-necesidad-card-copy p {
+
+        font-size:
+            15px;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 1050px) {
+
+    .apps-necesidad-section {
+
+        padding:
+            68px
+            0
+            70px;
+    }
+
+
+    .apps-necesidad-container {
+
+        width:
+            calc(100% - 60px);
+    }
+
+
+    .apps-necesidad-title {
+
+        font-size:
+            clamp(
+                54px,
+                7vw,
+                70px
+            );
+
+        white-space:
+            nowrap;
+    }
+
+
+    .apps-necesidad-grid {
+
+        grid-template-columns:
+            repeat(
+                2,
+                minmax(0,1fr)
+            );
+    }
+
+}
+
+
+/* =========================================================
+   MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .apps-necesidad-section {
+
+        padding:
+            60px
+            0
+            55px;
+    }
+
+
+    .apps-necesidad-container {
+
+        width:
+            calc(100% - 34px);
+
+        margin:
+            0 auto;
+    }
+
+
+    .apps-necesidad-title {
+
+        width:
+            100%;
+
+        max-width:
+            100%;
+
+        font-size:
+            clamp(
+                54px,
+                14vw,
+                70px
+            );
+
+        line-height:
+            1.02;
+
+        font-weight:
+            600;
+
+        letter-spacing:
+            -.025em;
+
+        white-space:
+            normal;
+    }
+
+
+    .apps-necesidad-underline::after {
+
+        height:
+            7px;
+
+        bottom:
+            0;
+    }
+
+
+    .apps-necesidad-subtitle {
+
+        margin-top:
+            45px;
+
+        font-size:
+            24px;
+
+        line-height:
+            1.35;
+    }
+
+
+    .apps-necesidad-grid {
+
+        margin-top:
+            88px;
+
+        display:
+            flex;
+
+        flex-direction:
+            column;
+
+        gap:
+            22px;
+    }
+
+
+    .apps-necesidad-card {
+
+        min-height:
+            116px;
+
+        padding:
+            15px
+            17px;
+    }
+
+
+    .apps-necesidad-icon {
+
+        width:
+            82px;
+
+        height:
+            82px;
+
+        flex:
+            0
+            0
+            82px;
+    }
+
+
+    .apps-necesidad-icon-img {
+
+        width:
+            59px;
+
+        height:
+            59px;
+    }
+
+
+    .apps-necesidad-card-copy {
+
+        padding-left:
+            18px;
+    }
+
+
+    .apps-necesidad-card-copy h3 {
+
+        margin-bottom:
+            8px;
+
+        font-size:
+            27px;
+    }
+
+
+    .apps-necesidad-card-copy p {
+
+        font-size:
+            16px;
+
+        line-height:
+            1.48;
+    }
+
+
+    .apps-necesidad-link {
+
+        margin-top:
+            44px;
+
+        font-size:
+            31px;
+    }
+
+
+    .apps-necesidad-arrow {
+
+        font-size:
+            36px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES PEQUEÑOS
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .apps-necesidad-container {
+
+        width:
+            calc(100% - 30px);
+    }
+
+
+    .apps-necesidad-title {
+
+        font-size:
+            54px;
+
+        line-height:
+            1.02;
+
+        white-space:
+            normal;
+    }
+
+
+    .apps-necesidad-subtitle {
+
+        margin-top:
+            42px;
+
+        font-size:
+            20px;
+    }
+
+
+    .apps-necesidad-grid {
+
+        margin-top:
+            70px;
+
+        gap:
+            19px;
+    }
+
+
+    .apps-necesidad-card {
+
+        min-height:
+            106px;
+
+        padding:
+            13px
+            14px;
+    }
+
+
+    .apps-necesidad-icon {
+
+        width:
+            74px;
+
+        height:
+            74px;
+
+        flex-basis:
+            74px;
+    }
+
+
+    .apps-necesidad-icon-img {
+
+        width:
+            53px;
+
+        height:
+            53px;
+    }
+
+
+    .apps-necesidad-card-copy {
+
+        padding-left:
+            15px;
+    }
+
+
+    .apps-necesidad-card-copy h3 {
+
+        font-size:
+            20px;
+    }
+
+
+    .apps-necesidad-card-copy p {
+
+        font-size:
+            14.5px;
+    }
+
+
+    .apps-necesidad-link {
+
+        font-size:
+            24px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES MUY PEQUEÑOS
+========================================================= */
+
+@media (max-width: 360px) {
+
+    .apps-necesidad-container {
+
+        width:
+            calc(100% - 24px);
+    }
+
+
+    .apps-necesidad-title {
+
+        font-size:
+            50px;
+
+        line-height:
+            1.02;
+
+        white-space:
+            normal;
+    }
+
+
+    .apps-necesidad-subtitle {
+
+        font-size:
+            18px;
+    }
+
+
+    .apps-necesidad-card {
+
+        min-height:
+            98px;
+
+        padding:
+            11px;
+    }
+
+
+    .apps-necesidad-icon {
+
+        width:
+            66px;
+
+        height:
+            66px;
+
+        flex-basis:
+            66px;
+    }
+
+
+    .apps-necesidad-icon-img {
+
+        width:
+            47px;
+
+        height:
+            47px;
+    }
+
+
+    .apps-necesidad-card-copy h3 {
+
+        font-size:
+            18px;
+    }
+
+
+    .apps-necesidad-card-copy p {
+
+        font-size:
+            13.5px;
+    }
+
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 10                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-software-section">
+
+    <div class="irode-software-container">
+
+        <h2 class="irode-software-title">
+            Un
+            <span class="irode-software-circle-word">
+                software
+                <svg class="irode-software-circle" viewBox="0 0 100 50" preserveAspectRatio="none" aria-hidden="true">
+                    <ellipse cx="50" cy="25" rx="46" ry="22" fill="none" stroke="#00E6B8" stroke-width="3" transform="rotate(-3 50 25)"></ellipse>
+                </svg>
+            </span>
+            empresarial <br>
+
+            <span class="irode-software-underline-word">
+                bien
+                <span class="irode-software-underline"></span>
+            </span>
+
+            hecho<span class="irode-software-dot">.</span>
+        </h2>
+
+
+        <div class="irode-software-grid">
+
+            <div class="irode-software-column">
+
+                <article class="irode-software-card">
+                    <h3>Código abierto con respaldo local</h3>
+
+                    <p>
+                        Para crear esta tecnología, Odoo colabora con una comunidad de más de 100,000 desarrolladores en todo el mundo. Nos une el objetivo de transformar a las empresas y empoderar a sus colaboradores.
+                    </p>
+
+                    <p>
+                        Al elegir a <strong>iRODE TECHNOLOGY</strong> como tu Partner Odoo, unes el poder de este ecosistema global con la experiencia de consultores especialistas que entienden el mercado Latinoamericano y aseguran una implementación exitosa de tu <strong>PdV para tiendas</strong>.
+                    </p>
+
+                    <p>
+                        Integra tu operación comercial con un <strong>punto de venta para tiendas</strong> que permita conectar ventas, productos e información del negocio en tiempo real.
+                    </p>
+
+                    <a href="https://api.whatsapp.com/send/?phone=50252121225&amp;text=Hola%20equipo%20iRODE%2C%20vengo%20de%20la%20secci%C3%B3n%20de%20PdV%20para%20tiendas%20y%20me%20gustar%C3%ADa%20hablar%20con%20un%20consultor.&amp;type=phone_number&amp;app_absent=0&amp;utm_source=Search+engine" target="_blank" rel="noopener noreferrer" class="irode-software-btn">
+                        Habla con un consultor
+                    </a>
+                </article>
+
+
+                <article class="irode-software-card">
+                    <h3>Personalización sin límites</h3>
+
+                    <p>
+                        Usa la aplicación Studio de Odoo para automatizar acciones, personalizar pantallas y elaborar tus propios reportes. Nuestro equipo técnico se encarga de adaptar estos flujos de trabajo a las normativas y procesos específicos de tu industria.
+                    </p>
+
+                    <p>
+                        Adapta los <strong>puntos de venta para tiendas y negocios</strong> a las necesidades específicas de cada operación y sus procesos comerciales.
+                    </p>
+                </article>
+
+            </div>
+
+
+            <div class="irode-software-column">
+
+                <article class="irode-software-card">
+                    <h3>Sin restricciones</h3>
+
+                    <p>
+                        Tus datos te pertenecen. No hay datos de formato propietario, solo PostgreSQL. Puedes elegir alojar el sistema en la infraestructura segura de Odoo en la nube o, si las políticas de tu empresa lo requieren, hacerlo de forma local (On-Premise) con nuestra asistencia.
+                    </p>
+
+                    <p>
+                        Un <strong>sistema PdV para tiendas</strong> permite centralizar la información comercial y mantener mayor control sobre las operaciones.
+                    </p>
+                </article>
+
+
+                <article class="irode-software-card">
+                    <h3>Excelente precio</h3>
+
+                    <p>
+                        Sin precios basados en el uso, sin venta de funciones adicionales por separado y sin contratos a largo plazo limitantes. Disfruta de un solo precio por usuario con acceso a todas las aplicaciones. Optimizamos tu inversión para que la transición digital sea rentable desde el primer día.
+                    </p>
+
+                    <p>
+                        Implementa un <strong>software de punto de venta para tiendas</strong> que concentre las herramientas necesarias para gestionar ventas de forma más eficiente.
+                    </p>
+
+                    <a href="https://api.whatsapp.com/send/?phone=50252121225&amp;text=Hola%20equipo%20iRODE%2C%20vengo%20de%20la%20secci%C3%B3n%20de%20PdV%20para%20tiendas%20y%20quiero%20consultar%20los%20precios.&amp;type=phone_number&amp;app_absent=0&amp;utm_source=Search+engine" target="_blank" rel="noopener noreferrer" class="irode-software-btn">
+                        Consulta los precios
+                    </a>
+                </article>
+
+
+                <article class="irode-software-card">
+                    <h3>Una propuesta de valor único</h3>
+
+                    <p>
+                        Odoo es el único software que combina una altísima facilidad de uso con una amplia cobertura de necesidades comerciales (Business Scope). Ya no tienes que elegir entre un sistema robusto o uno intuitivo; con iRODE obtienes ambos.
+                    </p>
+
+                    <p>
+                        Los <strong>sistemas POS y PdV para tiendas</strong> permiten agilizar las transacciones y conectar diferentes procesos comerciales desde una misma plataforma.
+                    </p>
+                </article>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+
+/* =========================================================
+   RESET
+========================================================= */
+
+.irode-software-section,
+.irode-software-section *,
+.irode-software-section *::before,
+.irode-software-section *::after {
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   SECCIÓN
+========================================================= */
+
+.irode-software-section {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    background: #ffffff;
+
+    padding:
+        90px
+        0
+        95px;
+
+    overflow: hidden;
+}
+
+
+/* =========================================================
+   CONTENEDOR
+   MISMO ESTÁNDAR DE MÁRGENES
+========================================================= */
+
+.irode-software-container {
+    width:
+        min(
+            1400px,
+            calc(100% - 240px)
+        );
+
+    margin:
+        0 auto;
+}
+
+
+/* =========================================================
+   TÍTULO
+========================================================= */
+
+.irode-software-title {
+    margin:
+        0
+        0
+        68px;
+
+    padding: 0;
+
+    font-family:
+        "Caveat",
+        cursive;
+
+    font-size:
+        clamp(
+            58px,
+            4.6vw,
+            76px
+        );
+
+    line-height:
+        1.02;
+
+    font-weight:
+        700;
+
+    letter-spacing:
+        -.025em;
+
+    color:
+        #111827;
+
+    text-align:
+        left;
+}
+
+
+/* =========================================================
+   SOFTWARE CIRCULADO
+========================================================= */
+
+.irode-software-circle-word {
+    position: relative;
+    display: inline-block;
+    white-space: nowrap;
+    z-index: 2;
+}
+
+.irode-software-circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 125%;
+    height: 140%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    pointer-events: none;
+}
+
+
+/* =========================================================
+   BIEN SUBRAYADO
+========================================================= */
+
+.irode-software-underline-word {
+    position: relative;
+    display: inline-block;
+}
+
+.irode-software-underline {
+    position: absolute;
+    left: 0;
+    bottom: 5px;
+    width: 100%;
+    height: 5px;
+    background: #55B4F4;
+    border-radius: 999px;
+    transform: rotate(-1deg);
+    z-index: -1;
+}
+
+.irode-software-dot {
+    color: #55B4F4;
+}
+
+
+/* =========================================================
+   GRID
+========================================================= */
+
+.irode-software-grid {
+    width: 100%;
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(2, minmax(0, 1fr));
+
+    gap: 30px;
+
+    align-items:
+        start;
+}
+
+
+/* =========================================================
+   COLUMNAS
+========================================================= */
+
+.irode-software-column {
+    width: 100%;
+
+    display: flex;
+
+    flex-direction:
+        column;
+
+    gap: 30px;
+}
+
+
+/* =========================================================
+   TARJETAS
+========================================================= */
+
+.irode-software-card {
+    width: 100%;
+
+    padding:
+        38px
+        36px;
+
+    background:
+        #ffffff;
+
+    border-radius:
+        12px;
+
+    box-shadow:
+        0 2px 8px rgba(19, 28, 45, .08);
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    color:
+        #172032;
+
+    text-align:
+        left;
+}
+
+
+/* =========================================================
+   TÍTULO TARJETAS
+========================================================= */
+
+.irode-software-card h3 {
+    margin:
+        0
+        0
+        18px;
+
+    padding: 0;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    font-size:
+        23px;
+
+    line-height:
+        1.25;
+
+    font-weight:
+        700;
+
+    letter-spacing:
+        -.02em;
+
+    color:
+        #111827;
+}
+
+
+/* =========================================================
+   TEXTO
+========================================================= */
+
+.irode-software-card p {
+    margin:
+        0
+        0
+        18px;
+
+    padding: 0;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    font-size:
+        18px;
+
+    line-height:
+        1.55;
+
+    font-weight:
+        400;
+
+    letter-spacing:
+        -.01em;
+
+    color:
+        #4b5563;
+}
+
+.irode-software-card p:last-of-type {
+    margin-bottom: 0;
+}
+
+
+/* =========================================================
+   BOTONES
+========================================================= */
+
+.irode-software-btn {
+    width: fit-content;
+
+    margin-top:
+        24px;
+
+    display:
+        inline-flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    padding:
+        12px
+        24px;
+
+    background:
+        #714B67;
+
+    color:
+        #ffffff !important;
+
+    text-decoration:
+        none !important;
+
+    border-radius:
+        6px;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    font-size:
+        15px;
+
+    font-weight:
+        600;
+
+    line-height:
+        1;
+
+    transition:
+        transform .2s ease,
+        background-color .2s ease;
+}
+
+.irode-software-btn:hover {
+    background:
+        #684460;
+
+    color:
+        #ffffff !important;
+
+    transform:
+        translateY(-1px);
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1300px) {
+
+    .irode-software-container {
+        width:
+            calc(100% - 120px);
+    }
+
+    .irode-software-title {
+        font-size:
+            clamp(
+                53px,
+                5vw,
+                68px
+            );
+
+        margin-bottom:
+            60px;
+    }
+
+    .irode-software-card {
+        padding:
+            34px
+            30px;
+    }
+
+    .irode-software-card h3 {
+        font-size:
+            21px;
+    }
+
+    .irode-software-card p {
+        font-size:
+            17px;
+    }
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 992px) {
+
+    .irode-software-section {
+        padding:
+            75px
+            0
+            70px;
+    }
+
+    .irode-software-container {
+        width:
+            calc(100% - 44px);
+    }
+
+    .irode-software-title {
+        font-size:
+            clamp(
+                58px,
+                8.5vw,
+                78px
+            );
+
+        margin-bottom:
+            52px;
+    }
+
+    .irode-software-grid {
+        gap:
+            22px;
+    }
+
+    .irode-software-column {
+        gap:
+            22px;
+    }
+
+    .irode-software-card {
+        padding:
+            30px
+            25px;
+    }
+}
+
+
+/* =========================================================
+   MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .irode-software-section {
+        padding:
+            58px
+            0
+            52px;
+    }
+
+    .irode-software-container {
+        width:
+            calc(100% - 32px);
+
+        margin:
+            0 auto;
+    }
+
+    .irode-software-title {
+        width:
+            100%;
+
+        margin:
+            0
+            0
+            44px;
+
+        font-size:
+            clamp(
+                49px,
+                12.8vw,
+                64px
+            );
+
+        line-height:
+            1.02;
+
+        letter-spacing:
+            -.025em;
+    }
+
+    .irode-software-grid {
+        display:
+            flex;
+
+        flex-direction:
+            column;
+
+        gap:
+            20px;
+    }
+
+    .irode-software-column {
+        width:
+            100%;
+
+        gap:
+            20px;
+    }
+
+    .irode-software-card {
+        width:
+            100%;
+
+        padding:
+            27px
+            23px;
+
+        border-radius:
+            10px;
+    }
+
+    .irode-software-card h3 {
+        margin-bottom:
+            16px;
+
+        font-size:
+            20px;
+
+        line-height:
+            1.3;
+    }
+
+    .irode-software-card p {
+        margin-bottom:
+            16px;
+
+        font-size:
+            16px;
+
+        line-height:
+            1.55;
+    }
+
+    .irode-software-btn {
+        margin-top:
+            20px;
+
+        padding:
+            12px
+            20px;
+
+        font-size:
+            15px;
+    }
+}
+
+
+/* =========================================================
+   MÓVILES PEQUEÑOS
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .irode-software-container {
+        width:
+            calc(100% - 28px);
+    }
+
+    .irode-software-title {
+        font-size:
+            48px;
+
+        margin-bottom:
+            40px;
+    }
+
+    .irode-software-card {
+        padding:
+            24px
+            20px;
+    }
+
+    .irode-software-card h3 {
+        font-size:
+            18px;
+    }
+
+    .irode-software-card p {
+        font-size:
+            15.5px;
+    }
+
+    .irode-software-btn {
+        width:
+            100%;
+
+        text-align:
+            center;
+    }
+}
+
+
+/* =========================================================
+   MÓVILES MUY PEQUEÑOS
+========================================================= */
+
+@media (max-width: 360px) {
+
+    .irode-software-container {
+        width:
+            calc(100% - 24px);
+    }
+
+    .irode-software-title {
+        font-size:
+            44px;
+    }
+
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 11                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="banner-imagen-full">
+
+    <div class="banner-imagen-full-contenedor">
+
+        <img src="https://www.irodetech.com/web/image/41431-ea303f85/ChatGPT%20Image%2011%20sept%202026%2C%2002_38_24%20p.m..png" alt="" class="banner-imagen-full-img" loading="eager" fetchpriority="high" decoding="async">
+
+    </div>
+
+</section>
+
+
+<style>
+
+/* =========================================================
+   BANNER
+========================================================= */
+
+.banner-imagen-full {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    padding:
+        30px
+        0;
+
+    background: #ffffff;
+
+    box-sizing: border-box;
+
+    overflow: hidden;
+}
+
+
+/* =========================================================
+   CONTENEDOR
+   MARGEN A AMBOS LADOS
+========================================================= */
+
+.banner-imagen-full-contenedor {
+
+    width:
+        min(
+            1680px,
+            calc(100% - 120px)
+        );
+
+    margin:
+        0 auto;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   IMAGEN
+   SIN RECORTES Y EN MÁXIMA CALIDAD
+========================================================= */
+
+.banner-imagen-full-img {
+
+    width: 100%;
+
+    max-width: 100%;
+
+    height: auto;
+
+    display: block;
+
+    object-fit: contain;
+
+    object-position: center center;
+
+    image-rendering: auto;
+
+    filter: none !important;
+
+    transform: none !important;
+
+    opacity: 1;
+
+    backface-visibility: hidden;
+
+    -webkit-backface-visibility: hidden;
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1400px) {
+
+    .banner-imagen-full-contenedor {
+
+        width:
+            calc(100% - 90px);
+    }
+
+}
+
+
+/* =========================================================
+   OCULTAR COMPLETAMENTE EN MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .banner-imagen-full {
+
+        display: none !important;
+    }
+
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 11                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="testimonio-seccion">
+
+    <div class="testimonio-banner">
+
+
+        
+
+        <img src="https://www.irodetech.com/web/image/41384-8ddbd975/ChatGPT%20Image%2011%20sept%202026%2C%2011_09_46%20a.m..png" alt="Comillas" class="testimonio-comillas" loading="lazy">
+
+
+        
+
+        <div class="testimonio-contenedor">
+
+
+            
+
+            <div class="testimonio-texto">
+
+                <p>
+                    Trabajar con Odoo nos permitió digitalizar todos nuestros
+                    procesos internos, trabajar de forma más eficiente y por fin
+                    logramos alcanzar una trazabilidad completa en el ciclo de vida
+                    de nuestros productos.
+                </p>
+
+            </div>
+
+
+            
+
+            <div class="testimonio-persona">
+
+
+                
+
+                <img src="https://www.irodetech.com/web/image/41631-9a14d5cd/ChatGPT%20Image%2014%20sept%202026%2C%2005_13_47%20p.m..png" alt="Alexandre Helson" class="testimonio-avatar" loading="lazy">
+
+
+                <h3>
+                    Alexandre Helson
+                </h3>
+
+
+                <p class="testimonio-cargo">
+                    Director general de Maison Dandoy
+                </p>
+
+
+                
+
+                <div class="testimonio-logo-wrap">
+
+                    <img src="https://www.irodetech.com/web/image/41632-05ea8836/ChatGPT%20Image%2014%20sept%202026%2C%2005_13_52%20p.m..png?height=256" alt="Maison Dandoy" class="testimonio-logo" loading="lazy">
+
+                </div>
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<style>
+
+/* =========================================
+   RESET
+========================================= */
+
+.testimonio-seccion,
+.testimonio-seccion *,
+.testimonio-seccion *::before,
+.testimonio-seccion *::after {
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================
+   FONDO GENERAL
+========================================= */
+
+.testimonio-seccion {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    background: #ffffff;
+
+    overflow: hidden;
+
+    padding:
+        45px
+        0
+        55px;
+}
+
+
+/* =========================================
+   CONTENEDOR GENERAL
+========================================= */
+
+.testimonio-banner {
+
+    width: 100%;
+
+    max-width: 1560px;
+
+    margin:
+        0
+        auto;
+
+    padding:
+        0
+        100px;
+
+    position:
+        relative;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    background:
+        transparent;
+}
+
+
+/* =========================================
+   TARJETA PRINCIPAL
+========================================= */
+
+.testimonio-contenedor {
+
+    width:
+        100%;
+
+    min-height:
+        320px;
+
+    background:
+        #f2f3f5;
+
+    border-radius:
+        14px;
+
+    display:
+        flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        space-between;
+
+    padding:
+        55px
+        68px
+        52px;
+}
+
+
+/* =========================================
+   COMILLAS
+========================================= */
+
+.testimonio-comillas {
+
+    position:
+        absolute;
+
+    top:
+        -35px;
+
+    left:
+        155px;
+
+    width:
+        72px;
+
+    height:
+        auto;
+
+    object-fit:
+        contain;
+
+    z-index:
+        2;
+}
+
+
+/* =========================================
+   TEXTO PRINCIPAL
+========================================= */
+
+.testimonio-texto {
+
+    width:
+        70%;
+
+    max-width:
+        940px;
+}
+
+
+.testimonio-texto p {
+
+    margin:
+        0;
+
+    font-size:
+        27px;
+
+    line-height:
+        1.48;
+
+    font-weight:
+        700;
+
+    color:
+        #07162e;
+
+    letter-spacing:
+        -0.35px;
+}
+
+
+/* =========================================
+   PERFIL
+========================================= */
+
+.testimonio-persona {
+
+    width:
+        25%;
+
+    min-width:
+        250px;
+
+    display:
+        flex;
+
+    flex-direction:
+        column;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    text-align:
+        center;
+
+    margin-top:
+        -20px;
+}
+
+
+/* =========================================
+   AVATAR
+========================================= */
+
+.testimonio-avatar {
+
+    width:
+        100px;
+
+    height:
+        100px;
+
+    border-radius:
+        50%;
+
+    object-fit:
+        cover;
+
+    object-position:
+        center;
+
+    display:
+        block;
+
+    margin-bottom:
+        20px;
+}
+
+
+/* =========================================
+   NOMBRE
+========================================= */
+
+.testimonio-persona h3 {
+
+    margin:
+        0
+        0
+        7px;
+
+    padding:
+        0;
+
+    color:
+        #00122e;
+
+    font-size:
+        18px;
+
+    line-height:
+        1.2;
+
+    font-weight:
+        700;
+}
+
+
+/* =========================================
+   CARGO
+========================================= */
+
+.testimonio-cargo {
+
+    margin:
+        0;
+
+    max-width:
+        260px;
+
+    color:
+        #00122e;
+
+    font-size:
+        15px;
+
+    line-height:
+        1.4;
+
+    font-weight:
+        400;
+}
+
+
+/* =========================================
+   LOGO EMPRESA
+========================================= */
+
+.testimonio-logo-wrap {
+
+    margin-top:
+        20px;
+
+    min-width:
+        115px;
+
+    min-height:
+        62px;
+
+    padding:
+        8px
+        12px;
+
+    display:
+        flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    background:
+        #ffffff;
+
+    border-radius:
+        5px;
+
+    box-shadow:
+        0
+        8px
+        18px
+        rgba(15,23,42,.10);
+}
+
+
+.testimonio-logo {
+
+    width:
+        auto;
+
+    max-width:
+        105px;
+
+    max-height:
+        48px;
+
+    height:
+        auto;
+
+    display:
+        block;
+
+    object-fit:
+        contain;
+
+    object-position:
+        center;
+
+    image-rendering:
+        auto;
+
+    transform:
+        none;
+
+    filter:
+        none;
+}
+
+
+/* =========================================
+   TABLET
+========================================= */
+
+@media (max-width: 1100px) {
+
+    .testimonio-seccion {
+
+        padding:
+            38px
+            0
+            48px;
+    }
+
+
+    .testimonio-banner {
+
+        padding:
+            0
+            60px;
+    }
+
+
+    .testimonio-contenedor {
+
+        min-height:
+            290px;
+
+        padding:
+            45px
+            40px;
+    }
+
+
+    .testimonio-comillas {
+
+        left:
+            100px;
+
+        width:
+            62px;
+    }
+
+
+    .testimonio-texto {
+
+        width:
+            67%;
+
+        max-width:
+            none;
+    }
+
+
+    .testimonio-texto p {
+
+        font-size:
+            22px;
+
+        line-height:
+            1.5;
+    }
+
+
+    .testimonio-persona {
+
+        width:
+            28%;
+
+        min-width:
+            210px;
+    }
+
+
+    .testimonio-avatar {
+
+        width:
+            82px;
+
+        height:
+            82px;
+    }
+
+
+    .testimonio-persona h3 {
+
+        font-size:
+            15px;
+    }
+
+
+    .testimonio-cargo {
+
+        font-size:
+            13px;
+    }
+
+
+    .testimonio-logo-wrap {
+
+        margin-top:
+            15px;
+
+        min-width:
+            100px;
+
+        min-height:
+            54px;
+    }
+
+
+    .testimonio-logo {
+
+        max-width:
+            90px;
+
+        max-height:
+            40px;
+    }
+
+}
+
+
+/* =========================================
+   MÓVIL
+========================================= */
+
+@media (max-width: 767px) {
+
+    .testimonio-seccion {
+
+        padding:
+            35px
+            0;
+    }
+
+
+    .testimonio-banner {
+
+        margin:
+            0;
+
+        padding:
+            0
+            30px;
+    }
+
+
+    .testimonio-contenedor {
+
+        min-height:
+            auto;
+
+        padding:
+            52px
+            24px
+            30px;
+
+        flex-direction:
+            column;
+
+        align-items:
+            flex-start;
+
+        border-radius:
+            13px;
+    }
+
+
+    .testimonio-comillas {
+
+        width:
+            52px;
+
+        top:
+            -24px;
+
+        left:
+            52px;
+    }
+
+
+    .testimonio-texto {
+
+        width:
+            100%;
+
+        max-width:
+            none;
+    }
+
+
+    .testimonio-texto p {
+
+        font-size:
+            18px;
+
+        line-height:
+            1.48;
+
+        letter-spacing:
+            -0.1px;
+    }
+
+
+    .testimonio-persona {
+
+        width:
+            100%;
+
+        min-width:
+            0;
+
+        margin-top:
+            34px;
+
+        align-items:
+            flex-start;
+
+        text-align:
+            left;
+
+        position:
+            relative;
+
+        padding-left:
+            72px;
+
+        min-height:
+            120px;
+    }
+
+
+    .testimonio-avatar {
+
+        position:
+            absolute;
+
+        left:
+            0;
+
+        top:
+            0;
+
+        width:
+            56px;
+
+        height:
+            56px;
+
+        margin:
+            0;
+    }
+
+
+    .testimonio-persona h3 {
+
+        font-size:
+            14px;
+    }
+
+
+    .testimonio-cargo {
+
+        max-width:
+            240px;
+
+        font-size:
+            12px;
+    }
+
+
+    .testimonio-logo-wrap {
+
+        margin-top:
+            14px;
+
+        min-width:
+            92px;
+
+        min-height:
+            48px;
+
+        padding:
+            6px
+            10px;
+    }
+
+
+    .testimonio-logo {
+
+        max-width:
+            82px;
+
+        max-height:
+            36px;
+    }
+
+}
+
+
+/* =========================================
+   MÓVILES PEQUEÑOS
+========================================= */
+
+@media (max-width: 480px) {
+
+    .testimonio-seccion {
+
+        padding:
+            30px
+            0;
+    }
+
+
+    .testimonio-banner {
+
+        padding:
+            0
+            26px;
+    }
+
+
+    .testimonio-contenedor {
+
+        padding:
+            46px
+            20px
+            28px;
+    }
+
+
+    .testimonio-texto p {
+
+        font-size:
+            17px;
+
+        line-height:
+            1.5;
+    }
+
+
+    .testimonio-comillas {
+
+        left:
+            46px;
+
+        width:
+            48px;
+    }
+
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 12                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-revolucion-section">
+
+    <div class="irode-revolucion-container">
+
+
+        
+
+        <img class="irode-revolucion-rays irode-revolucion-rays-left" src="https://www.irodetech.com/web/image/41392-255dec44/ChatGPT%20Image%2011%20sept%202026%2C%2011_46_01%20a.m..png" alt="" loading="lazy">
+
+
+        
+
+        <img class="irode-revolucion-rays irode-revolucion-rays-right" src="https://www.irodetech.com/web/image/41393-677eebb7/ChatGPT%20Image%2011%20sept%202026%2C%2011_47_09%20a.m..png" alt="" loading="lazy">
+
+
+        
+
+        <h2 class="irode-revolucion-title">
+
+            <span>
+                Libera
+            </span>
+
+            <span>
+                tu
+
+                <strong class="irode-revolucion-accent">
+                    potencial de crecimiento
+                </strong>
+
+            </span>
+
+        </h2>
+
+
+        
+
+        <a href="https://www.irodetech.com/appointment/8" class="irode-revolucion-btn" target="_blank" rel="noopener">
+
+            Comienza ahora
+
+        </a>
+
+
+        
+
+        <div class="irode-revolucion-bottom">
+
+            <div class="irode-revolucion-arrow">
+                ↓
+            </div>
+
+            <p>
+                No necesitas tarjeta de crédito
+            </p>
+
+            <p>
+                Recibe acceso instantáneo
+            </p>
+
+        </div>
+
+
+    </div>
+
+</section>
+
+
+<style>
+
+@import url(
+    'https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap'
+);
+
+
+/* =========================================================
+   RESET
+========================================================= */
+
+.irode-revolucion-section,
+.irode-revolucion-section *,
+.irode-revolucion-section *::before,
+.irode-revolucion-section *::after {
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   SECCIÓN
+========================================================= */
+
+.irode-revolucion-section {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    padding: 0;
+
+    background: #ffffff;
+
+    overflow: hidden;
+}
+
+
+/* =========================================================
+   CONTENEDOR
+========================================================= */
+
+.irode-revolucion-container {
+
+    width: 100%;
+
+    height: 690px;
+
+    position: relative;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    padding:
+        0
+        20px;
+
+    background: #ffffff;
+}
+
+
+/* =========================================================
+   TÍTULO
+========================================================= */
+
+.irode-revolucion-title {
+
+    position: relative;
+
+    z-index: 5;
+
+    margin:
+        218px
+        0
+        66px;
+
+    padding: 0;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    font-family:
+        "Caveat",
+        cursive;
+
+    font-size: 100px;
+
+    line-height: 1;
+
+    font-weight: 600;
+
+    letter-spacing: -.025em;
+
+    text-align: center;
+
+    color: #101827;
+}
+
+
+.irode-revolucion-title span {
+
+    display: block;
+}
+
+
+/* =========================================================
+   TEXTO TURQUESA
+========================================================= */
+
+.irode-revolucion-accent {
+
+    color: #09cdb1;
+
+    font: inherit;
+
+    font-weight: inherit;
+}
+
+
+/* =========================================================
+   RAYITOS
+========================================================= */
+
+.irode-revolucion-rays {
+
+    position: absolute;
+
+    height: auto;
+
+    object-fit: contain;
+
+    pointer-events: none;
+
+    z-index: 2;
+
+    image-rendering: auto;
+
+    transform: none;
+
+    filter: none;
+}
+
+
+/* IZQUIERDA */
+
+.irode-revolucion-rays-left {
+
+    width: 250px;
+
+    left:
+        calc(50% - 390px);
+
+    top: 105px;
+}
+
+
+/* DERECHA */
+
+.irode-revolucion-rays-right {
+
+    width: 135px;
+
+    left:
+        calc(50% + 255px);
+
+    top: 145px;
+}
+
+
+/* =========================================================
+   BOTÓN
+========================================================= */
+
+.irode-revolucion-btn {
+
+    width: 365px;
+
+    height: 77px;
+
+    flex-shrink: 0;
+
+    position: relative;
+
+    z-index: 5;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    padding:
+        0
+        28px;
+
+    border: 0;
+
+    border-radius: 5px;
+
+    background: #795472;
+
+    color: #ffffff !important;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    font-size: 23px;
+
+    line-height: 1;
+
+    font-weight: 700;
+
+    text-align: center;
+
+    text-decoration: none !important;
+
+    box-shadow: none;
+
+    transition:
+        transform .18s ease,
+        background .18s ease,
+        box-shadow .18s ease;
+}
+
+
+.irode-revolucion-btn:hover {
+
+    background: #684760;
+
+    color: #ffffff !important;
+
+    text-decoration: none !important;
+
+    transform:
+        translateY(-2px);
+
+    box-shadow:
+        0
+        10px
+        24px
+        rgba(75,50,72,.14);
+}
+
+
+/* =========================================================
+   BLOQUE INFERIOR
+========================================================= */
+
+.irode-revolucion-bottom {
+
+    position: relative;
+
+    z-index: 5;
+
+    margin-top: 12px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    color: #374255;
+}
+
+
+/* =========================================================
+   FLECHA
+========================================================= */
+
+.irode-revolucion-arrow {
+
+    height: 48px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    margin:
+        0
+        0
+        6px;
+
+    font-family:
+        Arial,
+        sans-serif;
+
+    font-size: 46px;
+
+    line-height: 1;
+
+    font-weight: 700;
+
+    color: #09cdb1;
+}
+
+
+/* =========================================================
+   TEXTOS
+========================================================= */
+
+.irode-revolucion-bottom p {
+
+    margin: 0;
+
+    padding: 0;
+
+    font-size: 18px;
+
+    line-height: 1.55;
+
+    font-weight: 400;
+
+    text-align: center;
+}
+
+
+.irode-revolucion-bottom p + p {
+
+    margin-top: 0;
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1400px) {
+
+    .irode-revolucion-container {
+
+        height: 630px;
+    }
+
+
+    .irode-revolucion-title {
+
+        margin-top: 185px;
+
+        margin-bottom: 58px;
+
+        font-size:
+            clamp(
+                78px,
+                7vw,
+                92px
+            );
+    }
+
+
+    .irode-revolucion-rays-left {
+
+        width: 225px;
+
+        left:
+            calc(50% - 350px);
+
+        top: 92px;
+    }
+
+
+    .irode-revolucion-rays-right {
+
+        width: 125px;
+
+        left:
+            calc(50% + 225px);
+
+        top: 128px;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 992px) {
+
+    .irode-revolucion-container {
+
+        height: 585px;
+    }
+
+
+    .irode-revolucion-title {
+
+        margin-top: 150px;
+
+        margin-bottom: 52px;
+
+        font-size:
+            clamp(
+                65px,
+                9vw,
+                80px
+            );
+    }
+
+
+    .irode-revolucion-rays-left {
+
+        width: 180px;
+
+        left:
+            calc(50% - 280px);
+
+        top: 76px;
+    }
+
+
+    .irode-revolucion-rays-right {
+
+        width: 105px;
+
+        left:
+            calc(50% + 175px);
+
+        top: 102px;
+    }
+
+
+    .irode-revolucion-btn {
+
+        width: 345px;
+
+        height: 70px;
+
+        font-size: 21px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .irode-revolucion-container {
+
+        height: auto;
+
+        min-height: auto;
+
+        padding:
+            34px
+            14px
+            6px;
+
+        justify-content: flex-start;
+    }
+
+
+    .irode-revolucion-title {
+
+        width: 100%;
+
+        margin:
+            82px
+            0
+            30px;
+
+        font-size:
+            clamp(
+                42px,
+                11vw,
+                52px
+            );
+
+        line-height: 1.03;
+
+        text-align: center;
+    }
+
+
+    .irode-revolucion-rays-left {
+
+        width: 90px;
+
+        left: 4%;
+
+        top: 52px;
+    }
+
+
+    .irode-revolucion-rays-right {
+
+        width: 62px;
+
+        left: auto;
+
+        right: 7%;
+
+        top: 82px;
+    }
+
+
+    .irode-revolucion-btn {
+
+        width:
+            calc(100% - 12px);
+
+        max-width: 345px;
+
+        height: 58px;
+
+        padding:
+            0
+            18px;
+
+        font-size: 17px;
+
+        border-radius: 5px;
+    }
+
+
+    .irode-revolucion-bottom {
+
+        width: 100%;
+
+        margin-top: 8px;
+
+        padding-bottom: 0;
+    }
+
+
+    .irode-revolucion-arrow {
+
+        height: 34px;
+
+        font-size: 34px;
+
+        margin:
+            0
+            0
+            5px;
+    }
+
+
+    .irode-revolucion-bottom p {
+
+        width: 100%;
+
+        margin: 0;
+
+        font-size: 14px;
+
+        line-height: 1.45;
+
+        text-align: center;
+
+        white-space: normal;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES PEQUEÑOS
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .irode-revolucion-container {
+
+        padding:
+            28px
+            10px
+            4px;
+    }
+
+
+    .irode-revolucion-title {
+
+        margin:
+            74px
+            0
+            26px;
+
+        font-size: 42px;
+
+        line-height: 1.03;
+    }
+
+
+    .irode-revolucion-rays-left {
+
+        width: 80px;
+
+        left: 3%;
+
+        top: 48px;
+    }
+
+
+    .irode-revolucion-rays-right {
+
+        width: 56px;
+
+        right: 5%;
+
+        top: 76px;
+    }
+
+
+    .irode-revolucion-btn {
+
+        width:
+            calc(100% - 4px);
+
+        max-width: none;
+
+        height: 56px;
+
+        font-size: 16px;
+
+        padding:
+            0
+            14px;
+    }
+
+
+    .irode-revolucion-bottom {
+
+        margin-top: 6px;
+    }
+
+
+    .irode-revolucion-arrow {
+
+        height: 31px;
+
+        font-size: 31px;
+    }
+
+
+    .irode-revolucion-bottom p {
+
+        font-size: 13px;
+
+        line-height: 1.4;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES MUY PEQUEÑOS
+========================================================= */
+
+@media (max-width: 360px) {
+
+    .irode-revolucion-title {
+
+        margin-top: 68px;
+
+        font-size: 38px;
+    }
+
+
+    .irode-revolucion-rays-left {
+
+        width: 72px;
+    }
+
+
+    .irode-revolucion-rays-right {
+
+        width: 50px;
+
+        top: 70px;
+    }
+
+
+    .irode-revolucion-btn {
+
+        height: 54px;
+
+        font-size: 15px;
+    }
+
+
+    .irode-revolucion-bottom p {
+
+        font-size: 12.5px;
+    }
+
+}
+
+</style>
