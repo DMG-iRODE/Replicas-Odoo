@@ -1,0 +1,7240 @@
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 1                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-inv-page">
+
+    <div class="irode-inv-hero">
+
+        <h1 class="irode-inv-title">
+            Contabilidad 
+            <span class="irode-inv-title-accent">sin complicaciones</span>
+        </h1>
+
+        <p class="irode-inv-description">
+            Imagina poder gestionar toda tu contabilidad <strong>desde una sola plataforma con IA</strong> para todas tus operaciones financieras. Desde la conciliación y gastos, hasta declaraciones y la creación de reportes en tiempo real. Rápida, completa y fácil de usar.
+        </p>
+
+
+        <div class="irode-inv-buttons">
+
+            <a href="https://www.irodetech.com/appointment/8" target="_blank" rel="noopener noreferrer" class="irode-inv-btn irode-inv-btn-primary">
+
+                Comienza ahora
+
+            </a>
+
+
+            <a href="https://api.whatsapp.com/send/?phone=50252121225&amp;text=Hola%20equipo%20iRODE%2C%20me%20gustar%C3%ADa%20hablar%20sobre%20una%20soluci%C3%B3n%20Odoo%20para%20llevar%20la%20contabilidad%20sin%20complicaciones&amp;type=phone_number&amp;app_absent=0&amp;utm_source=Search+engine" target="_blank" rel="noopener noreferrer" class="irode-inv-btn irode-inv-btn-secondary">
+
+                Contacta a un consultor
+
+            </a>
+
+        </div>
+
+
+        <div class="irode-inv-footnote">
+
+            <span>
+                Implementaciones exitosas, capacitaciones presenciales y acompañamiento continuo.
+            </span>
+
+            <span class="irode-inv-tooltip-trigger">
+
+                Conoce cómo trabajamos.
+
+                <span class="irode-inv-tooltip">
+                    Con iRODE Technology implementas Odoo para mejorar inventarios,
+                    trazabilidad y operaciones de almacén, acompañado por consultores
+                    especializados durante todo el proceso.
+                </span>
+
+            </span>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+
+/* =========================================================
+   RESET
+========================================================= */
+
+.irode-inv-page,
+.irode-inv-page *,
+.irode-inv-page *::before,
+.irode-inv-page *::after {
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   SECCIÓN GENERAL
+========================================================= */
+
+.irode-inv-page {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    background: #ffffff;
+
+    overflow: visible;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    padding:
+        50px
+        0
+        65px;
+}
+
+
+/* =========================================================
+   HERO
+========================================================= */
+
+.irode-inv-hero {
+
+    width:
+        min(
+            1400px,
+            calc(100% - 240px)
+        );
+
+    margin:
+        0 auto;
+
+    text-align:
+        center;
+}
+
+
+/* =========================================================
+   TÍTULO
+   MISMO TAMAÑO QUE EL SEGUNDO CÓDIGO
+========================================================= */
+
+.irode-inv-title {
+
+    margin: 0;
+
+    padding: 0;
+
+    font-family:
+        "Caveat",
+        "Segoe Print",
+        "Comic Sans MS",
+        cursive;
+
+    
+
+    line-height:
+        .95;
+
+    font-weight:
+        600;
+
+    letter-spacing:
+        -2px;
+
+    color:
+        #101827;
+}
+
+
+.irode-inv-title-accent {
+
+    color:
+        #0fc6b3;
+}
+
+
+/* =========================================================
+   DESCRIPCIÓN
+========================================================= */
+
+.irode-inv-description {
+
+    max-width:
+        1180px;
+
+    margin:
+        36px
+        auto
+        0;
+
+    padding: 0;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    
+
+    line-height:
+        1.38;
+
+    font-weight:
+        400;
+
+    letter-spacing:
+        -.015em;
+
+    color:
+        #475569;
+}
+
+
+/* =========================================================
+   BOTONES
+========================================================= */
+
+.irode-inv-buttons {
+
+    margin-top:
+        52px;
+
+    display:
+        flex;
+
+    justify-content:
+        center;
+
+    align-items:
+        center;
+
+    gap:
+        14px;
+}
+
+
+.irode-inv-btn {
+
+    width:
+        310px;
+
+    height:
+        60px;
+
+    display:
+        inline-flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    padding:
+        0
+        18px;
+
+    border-radius:
+        4px;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    
+
+    line-height:
+        1;
+
+    font-weight:
+        700;
+
+    text-align:
+        center;
+
+    text-decoration:
+        none !important;
+
+    transition:
+        transform .18s ease,
+        background-color .18s ease;
+}
+
+
+/* =========================================================
+   BOTÓN PRINCIPAL
+========================================================= */
+
+.irode-inv-btn-primary {
+
+    background:
+        #7b4e70;
+
+    color:
+        #ffffff !important;
+}
+
+
+.irode-inv-btn-primary:hover {
+
+    background:
+        #704965;
+
+    color:
+        #ffffff !important;
+
+    transform:
+        translateY(-1px);
+}
+
+
+/* =========================================================
+   BOTÓN SECUNDARIO
+========================================================= */
+
+.irode-inv-btn-secondary {
+
+    background:
+        #f5f6f7;
+
+    color:
+        #7b4e70 !important;
+}
+
+
+.irode-inv-btn-secondary:hover {
+
+    background:
+        #eeeeF1;
+
+    color:
+        #7b4e70 !important;
+
+    transform:
+        translateY(-1px);
+}
+
+
+/* =========================================================
+   TEXTO INFERIOR
+========================================================= */
+
+.irode-inv-footnote {
+
+    margin-top:
+        16px;
+
+    display:
+        flex;
+
+    justify-content:
+        center;
+
+    align-items:
+        center;
+
+    flex-wrap:
+        wrap;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    
+
+    line-height:
+        1.45;
+
+    font-weight:
+        400;
+
+    color:
+        #475569;
+}
+
+
+/* =========================================================
+   CONOCE CÓMO TRABAJAMOS
+========================================================= */
+
+.irode-inv-tooltip-trigger {
+
+    position:
+        relative;
+
+    display:
+        inline-block;
+
+    margin-left:
+        5px;
+
+    color:
+        #7b4e70;
+
+    font-weight:
+        700;
+
+    cursor:
+        pointer;
+}
+
+
+/* =========================================================
+   GLOBO
+========================================================= */
+
+.irode-inv-tooltip {
+
+    position:
+        absolute;
+
+    left:
+        calc(100% + 12px);
+
+    top:
+        50%;
+
+    width:
+        285px;
+
+    transform:
+        translateY(-50%)
+        translateX(-5px);
+
+    padding:
+        14px
+        16px;
+
+    background:
+        #000000;
+
+    color:
+        #ffffff;
+
+    border-radius:
+        10px;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    
+
+    line-height:
+        1.5;
+
+    font-weight:
+        500;
+
+    text-align:
+        left;
+
+    opacity:
+        0;
+
+    visibility:
+        hidden;
+
+    pointer-events:
+        none;
+
+    z-index:
+        9999;
+
+    transition:
+        opacity .16s ease,
+        visibility .16s ease,
+        transform .16s ease;
+}
+
+
+.irode-inv-tooltip::before {
+
+    content:
+        "";
+
+    position:
+        absolute;
+
+    left:
+        -8px;
+
+    top:
+        50%;
+
+    transform:
+        translateY(-50%);
+
+    width:
+        0;
+
+    height:
+        0;
+
+    border-top:
+        8px solid transparent;
+
+    border-bottom:
+        8px solid transparent;
+
+    border-right:
+        9px solid #000000;
+}
+
+
+.irode-inv-tooltip-trigger:hover
+.irode-inv-tooltip {
+
+    opacity:
+        1;
+
+    visibility:
+        visible;
+
+    transform:
+        translateY(-50%)
+        translateX(0);
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1300px) {
+
+    .irode-inv-hero {
+
+        width:
+            calc(100% - 120px);
+    }
+
+
+    .irode-inv-title {
+
+        
+    }
+
+
+    .irode-inv-description {
+
+        
+    }
+
+
+    .irode-inv-btn {
+
+        width:
+            285px;
+
+        height:
+            58px;
+
+        
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 992px) {
+
+    .irode-inv-page {
+
+        padding:
+            45px
+            0
+            60px;
+    }
+
+
+    .irode-inv-hero {
+
+        width:
+            calc(100% - 44px);
+    }
+
+
+    .irode-inv-title {
+
+        
+
+        line-height:
+            .98;
+    }
+
+
+    .irode-inv-description {
+
+        max-width:
+            820px;
+
+        
+    }
+
+
+    .irode-inv-buttons {
+
+        margin-top:
+            44px;
+    }
+
+
+    .irode-inv-btn {
+
+        width:
+            270px;
+
+        height:
+            56px;
+
+        
+    }
+
+}
+
+
+/* =========================================================
+   MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .irode-inv-page {
+
+        padding:
+            38px
+            0
+            45px;
+    }
+
+
+    .irode-inv-hero {
+
+        width:
+            calc(100% - 32px);
+
+        text-align:
+            left;
+    }
+
+
+    .irode-inv-title {
+
+        
+
+        line-height:
+            .98;
+
+        font-weight:
+            600;
+
+        letter-spacing:
+            -1.3px;
+
+        text-align:
+            left;
+    }
+
+
+    .irode-inv-description {
+
+        margin-top:
+            34px;
+
+        
+
+        line-height:
+            1.55;
+
+        text-align:
+            left;
+    }
+
+
+    .irode-inv-buttons {
+
+        margin-top:
+            38px;
+
+        flex-direction:
+            column;
+
+        align-items:
+            stretch;
+
+        gap:
+            9px;
+    }
+
+
+    .irode-inv-btn {
+
+        width:
+            100%;
+
+        height:
+            52px;
+
+        
+    }
+
+
+    .irode-inv-footnote {
+
+        margin-top:
+            14px;
+
+        display:
+            block;
+
+        
+
+        line-height:
+            1.5;
+
+        text-align:
+            left;
+    }
+
+
+    .irode-inv-tooltip-trigger {
+
+        display:
+            block;
+
+        width:
+            fit-content;
+
+        margin:
+            4px
+            0
+            0;
+    }
+
+
+    .irode-inv-tooltip {
+
+        left:
+            0;
+
+        top:
+            calc(100% + 12px);
+
+        width:
+            min(
+                280px,
+                84vw
+            );
+
+        transform:
+            translateY(-4px);
+    }
+
+
+    .irode-inv-tooltip::before {
+
+        left:
+            22px;
+
+        top:
+            -8px;
+
+        transform:
+            none;
+
+        border-left:
+            8px solid transparent;
+
+        border-right:
+            8px solid transparent;
+
+        border-bottom:
+            9px solid #000000;
+
+        border-top:
+            0;
+    }
+
+
+    .irode-inv-tooltip-trigger:hover
+    .irode-inv-tooltip {
+
+        transform:
+            translateY(0);
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES PEQUEÑOS
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .irode-inv-hero {
+
+        width:
+            calc(100% - 28px);
+    }
+
+
+    .irode-inv-title {
+
+        
+
+        line-height:
+            .98;
+    }
+
+
+    .irode-inv-description {
+
+        
+    }
+
+
+    .irode-inv-btn {
+
+        height:
+            50px;
+
+        
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES MUY PEQUEÑOS
+========================================================= */
+
+@media (max-width: 360px) {
+
+    .irode-inv-hero {
+
+        width:
+            calc(100% - 24px);
+    }
+
+
+    .irode-inv-title {
+
+        
+
+        line-height:
+            .98;
+    }
+
+
+    .irode-inv-btn {
+
+        height:
+            48px;
+
+        
+    }
+
+}
+
+
+/* Tamaños de letra del segundo código */
+.irode-inv-title { font-size: 96px; }
+.irode-inv-description { font-size: 22px; }
+.irode-inv-btn { font-size: 18px; }
+.irode-inv-footnote { font-size: 16px; }
+.irode-inv-tooltip { font-size: 13px; }
+@media (max-width: 1300px) {
+.irode-inv-title { font-size: 88px; }
+.irode-inv-description { font-size: 20px; }
+.irode-inv-btn { font-size: 17px; }
+}
+@media (max-width: 1000px) {
+.irode-inv-title { font-size: 72px; }
+.irode-inv-description { font-size: 18px; }
+.irode-inv-btn { font-size: 16.5px; }
+.irode-inv-footnote { font-size: 15px; }
+}
+@media (max-width: 768px) {
+.irode-inv-title { font-size: clamp(43px, 12vw, 54px); }
+.irode-inv-description { font-size: 15.5px; }
+.irode-inv-btn { font-size: 15px; }
+.irode-inv-footnote { font-size: 13.5px; }
+.irode-inv-tooltip { font-size: 12px; }
+}
+@media (max-width: 420px) {
+.irode-inv-title { font-size: 46px; }
+.irode-inv-description { font-size: 14.5px; }
+.irode-inv-btn { font-size: 14.5px; }
+.irode-inv-footnote { font-size: 12.8px; }
+.irode-inv-tooltip { font-size: 11.5px; }
+}
+@media (max-width: 360px) {
+.irode-inv-title { font-size: 42px; }
+.irode-inv-description { font-size: 14px; }
+.irode-inv-btn { font-size: 14px; }
+.irode-inv-footnote { font-size: 12.3px; }
+.irode-inv-tooltip { font-size: 11px; }
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 2                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-mes-section">
+
+    <div class="irode-mes-bg"></div>
+    <div class="irode-mobile-gray"></div>
+    <div class="irode-mobile-white-cut"></div>
+
+    <div class="irode-mes-content">
+
+        <img class="irode-mes-rays" src="https://www.irodetech.com/web/image/42740-1d2f9bab/ChatGPT%20Image%20Sep%2028%2C%202026%2C%2001_43_40%20PM.png" alt="" loading="lazy" decoding="async">
+
+        <div class="irode-mes-video-card">
+            <iframe class="irode-mes-inline-video" src="https://www.youtube.com/embed/QGcpONNTdYM?si=9UgwvDDuP5BCLc3m&amp;autoplay=1&amp;mute=1&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" title="MES de fabricación" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+            </iframe>
+        </div>
+
+        <div class="irode-callout-area">
+            <div class="irode-callout-composition">
+
+                <div class="irode-callout-art">
+
+                    <img class="irode-mes-green-brush" src="https://www.irodetech.com/web/image/42741-ca35304e/ChatGPT%20Image%20Sep%2028%2C%202026%2C%2001_42_09%20PM.png" alt="" loading="lazy" decoding="async">
+
+                    <img class="irode-mes-avatar" src="https://www.irodetech.com/web/image/41344-29aafd88/ChatGPT%20Image%2011%20sept%202026%2C%2008_29_18%20a.m..png" alt="" loading="lazy" decoding="async">
+
+                    <img class="irode-mes-smiley-bubble" src="https://www.irodetech.com/web/image/41351-9b1f2934/ChatGPT%20Image%2011%20sept%202026%2C%2008_55_19%20a.m..png" alt="" loading="lazy" decoding="async">
+
+                </div>
+
+                <div class="irode-message-bubble">
+
+                    <span class="irode-message-normal">
+                        ¿Estás buscando nuestra como mejorar tu contabilidad?
+                    </span>
+
+                    <a class="irode-message-link" href="https://www.irodetech.com/software-contabilidad" target="_blank" rel="noopener noreferrer">
+                        Descubre cómo...
+                    </a>
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<style>
+/* GENERAL */
+.irode-mes-section,
+.irode-mes-section *,
+.irode-mes-section *::before,
+.irode-mes-section *::after {
+    box-sizing: border-box;
+}
+
+.irode-mes-section {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    background: #ffffff;
+    overflow: hidden;
+}
+
+/* FONDO GRIS */
+.irode-mes-bg {
+    position: absolute;
+    width: 125%;
+    height: 600px;
+    left: -12.5%;
+    top: 165px;
+    background: #f4f5f7;
+    border-radius: 50% 50% 0 0 / 17% 17% 0 0;
+    z-index: 0;
+    pointer-events: none;
+}
+
+.irode-mobile-gray,
+.irode-mobile-white-cut {
+    display: none;
+}
+
+/* CONTENIDO */
+.irode-mes-content {
+    width: 100%;
+    position: relative;
+    z-index: 2;
+    padding: 55px 30px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* VIDEO CON CONTORNO CELESTE SUAVE */
+.irode-mes-video-card {
+    width: min(1120px, 75vw);
+    position: relative;
+    margin: 0 auto;
+    background: #ffffff;
+    border: 2px solid #c4e9f8;
+    border-radius: 11px;
+    overflow: hidden;
+    box-shadow:
+        0 0 0 4px rgba(196,233,248,.16),
+        0 11px 32px rgba(20,25,35,.10),
+        0 2px 6px rgba(20,25,35,.05);
+    z-index: 5;
+}
+
+.irode-mes-inline-video {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    display: block;
+    border: 0;
+    background: #000000;
+}
+
+/* RAYOS */
+.irode-mes-rays {
+    position: absolute;
+    width: 110px;
+    height: auto;
+    left: max(12px, calc(50% - 625px));
+    top: 8px;
+    object-fit: contain;
+    z-index: 9;
+    pointer-events: none;
+}
+
+/* BLOQUE DEL MENSAJE */
+.irode-callout-area {
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    padding: 14px 20px 28px;
+    z-index: 8;
+}
+
+.irode-callout-composition {
+    width: 560px;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    position: relative;
+    overflow: visible;
+}
+
+/* IMÁGENES */
+.irode-callout-art {
+    position: relative;
+    width: 150px;
+    height: 120px;
+    flex: 0 0 150px;
+    overflow: visible;
+    pointer-events: none;
+}
+
+.irode-callout-art img {
+    position: absolute;
+    display: block;
+    max-width: none;
+    object-fit: contain;
+    pointer-events: none;
+}
+
+.irode-mes-green-brush {
+    width: 150px;
+    height: 84px;
+    left: 0;
+    top: 30px;
+    transform: rotate(-4deg);
+    z-index: 1;
+}
+
+.irode-mes-avatar {
+    width: 56px;
+    height: 56px;
+    left: 23px;
+    top: 48px;
+    object-fit: contain;
+    z-index: 3;
+    filter: drop-shadow(0 4px 7px rgba(0,0,0,.12));
+}
+
+.irode-mes-smiley-bubble {
+    width: 58px;
+    height: 58px;
+    left: 72px;
+    top: 3px;
+    z-index: 4;
+}
+
+/* BURBUJA */
+.irode-message-bubble {
+    position: relative;
+    flex: 1 1 0;
+    min-width: 0;
+    min-height: 66px;
+    padding: 12px 20px;
+    background: #ffffff;
+    border: none;
+    border-radius: 999px;
+    box-shadow:
+        0 10px 22px rgba(20,30,45,.08),
+        0 3px 8px rgba(20,30,45,.04);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    z-index: 5;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.irode-message-normal {
+    color: #1d2533;
+    font-size: 14px;
+    line-height: 1.3;
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: -.1px;
+    white-space: normal;
+}
+
+/* ENLACE A CONTABILIDAD */
+.irode-message-link {
+    color: #795371 !important;
+    font-size: 14px;
+    line-height: 1.3;
+    font-weight: 700;
+    font-style: italic;
+    letter-spacing: -.1px;
+    text-decoration: underline !important;
+    text-underline-offset: 3px;
+    cursor: pointer;
+}
+
+.irode-message-link:hover {
+    color: #684760 !important;
+    text-decoration: underline !important;
+}
+
+/* TABLET */
+@media (max-width: 1200px) {
+    .irode-mes-video-card {
+        width: 82vw;
+    }
+
+    .irode-mes-rays {
+        left: 3%;
+        width: 100px;
+    }
+}
+
+/* MÓVIL */
+@media (max-width: 768px) {
+    .irode-mes-bg {
+        display: none;
+    }
+
+    .irode-mes-content {
+        padding: 32px 12px 0;
+    }
+
+    .irode-mobile-gray {
+        display: block;
+        position: absolute;
+        width: 170%;
+        left: -35%;
+        top: 95px;
+        height: 300px;
+        background: #f4f5f7;
+        border-radius: 50% 50% 0 0 / 17% 17% 0 0;
+        z-index: 0;
+        pointer-events: none;
+    }
+
+    .irode-mobile-white-cut {
+        display: block;
+        position: absolute;
+        left: 0;
+        width: 100%;
+        top: 0;
+        height: 0;
+        background: #ffffff;
+        z-index: 1;
+        pointer-events: none;
+    }
+
+    .irode-mes-video-card {
+        width: 100%;
+        border: 1.5px solid #c4e9f8;
+        border-radius: 7px;
+        box-shadow:
+            0 0 0 3px rgba(196,233,248,.16),
+            0 8px 22px rgba(20,25,35,.08);
+    }
+
+    .irode-mes-rays {
+        width: 40px;
+        left: 8px;
+        top: 3px;
+    }
+
+    .irode-callout-area {
+        margin-top: 16px;
+        padding: 8px 6px 22px;
+    }
+
+    .irode-callout-composition {
+        width: 440px;
+        gap: 10px;
+    }
+
+    .irode-callout-art {
+        width: 108px;
+        height: 92px;
+        flex-basis: 108px;
+    }
+
+    .irode-mes-green-brush {
+        width: 108px;
+        height: 64px;
+        left: 0;
+        top: 24px;
+    }
+
+    .irode-mes-avatar {
+        width: 43px;
+        height: 43px;
+        left: 14px;
+        top: 36px;
+    }
+
+    .irode-mes-smiley-bubble {
+        width: 43px;
+        height: 43px;
+        left: 53px;
+        top: 3px;
+    }
+
+    .irode-message-bubble {
+        min-height: 60px;
+        padding: 10px 14px;
+        gap: 3px;
+    }
+
+    .irode-message-normal,
+    .irode-message-link {
+        font-size: 12px;
+        line-height: 1.3;
+    }
+}
+
+/* TELÉFONOS PEQUEÑOS */
+@media (max-width: 420px) {
+    .irode-mes-content {
+        padding: 30px 10px 0;
+    }
+
+    .irode-callout-area {
+        padding: 8px 4px 20px;
+    }
+
+    .irode-callout-composition {
+        gap: 8px;
+    }
+
+    .irode-callout-art {
+        width: 92px;
+        height: 82px;
+        flex-basis: 92px;
+    }
+
+    .irode-mes-green-brush {
+        width: 92px;
+        height: 55px;
+        top: 22px;
+    }
+
+    .irode-mes-avatar {
+        width: 37px;
+        height: 37px;
+        left: 12px;
+        top: 33px;
+    }
+
+    .irode-mes-smiley-bubble {
+        width: 38px;
+        height: 38px;
+        left: 45px;
+        top: 3px;
+    }
+
+    .irode-message-bubble {
+        min-height: 58px;
+        padding: 9px 12px;
+    }
+
+    .irode-message-normal,
+    .irode-message-link {
+        font-size: 11px;
+    }
+
+    .irode-mobile-gray {
+        width: 180%;
+        left: -40%;
+    }
+}
+
+/* MÓVILES MUY PEQUEÑOS */
+@media (max-width: 360px) {
+    .irode-callout-composition {
+        gap: 6px;
+    }
+
+    .irode-callout-art {
+        width: 80px;
+        height: 74px;
+        flex-basis: 80px;
+    }
+
+    .irode-mes-green-brush {
+        width: 80px;
+        height: 49px;
+        top: 20px;
+    }
+
+    .irode-mes-avatar {
+        width: 33px;
+        height: 33px;
+        left: 10px;
+        top: 29px;
+    }
+
+    .irode-mes-smiley-bubble {
+        width: 34px;
+        height: 34px;
+        left: 39px;
+        top: 2px;
+    }
+
+    .irode-message-bubble {
+        padding: 8px 10px;
+    }
+
+    .irode-message-normal,
+    .irode-message-link {
+        font-size: 10.5px;
+    }
+}
+</style>
+
+<script>
+(function () {
+    function ajustarFondosMes() {
+        document.querySelectorAll(".irode-mes-section").forEach(function (section) {
+            var grayDesktop = section.querySelector(".irode-mes-bg");
+            var grayMobile = section.querySelector(".irode-mobile-gray");
+            var whiteCut = section.querySelector(".irode-mobile-white-cut");
+            var video = section.querySelector(".irode-mes-video-card");
+            var callout = section.querySelector(".irode-callout-composition");
+
+            if (!grayDesktop || !grayMobile || !whiteCut || !video || !callout) {
+                return;
+            }
+
+            var sectionRect = section.getBoundingClientRect();
+            var videoRect = video.getBoundingClientRect();
+            var calloutRect = callout.getBoundingClientRect();
+
+            if (window.innerWidth > 768) {
+                grayMobile.style.top = "";
+                grayMobile.style.height = "";
+                whiteCut.style.top = "";
+                whiteCut.style.height = "";
+
+                var calloutCenter =
+                    calloutRect.top - sectionRect.top + calloutRect.height / 2;
+
+                grayDesktop.style.height =
+                    Math.max(calloutCenter - 165, 0) + "px";
+            } else {
+                grayDesktop.style.height = "";
+
+                var grayTop =
+                    videoRect.top - sectionRect.top + videoRect.height * .28;
+
+                var grayBottom =
+                    calloutRect.top - sectionRect.top + calloutRect.height * .55;
+
+                grayMobile.style.top = grayTop + "px";
+                grayMobile.style.height =
+                    Math.max(grayBottom - grayTop, 0) + "px";
+
+                whiteCut.style.top = grayBottom + "px";
+                whiteCut.style.height =
+                    Math.max(0, section.scrollHeight - grayBottom) + "px";
+            }
+        });
+    }
+
+    function iniciarMes() {
+        ajustarFondosMes();
+
+        if ("ResizeObserver" in window) {
+            var observer = new ResizeObserver(ajustarFondosMes);
+
+            document.querySelectorAll(
+                ".irode-mes-section .irode-mes-video-card, " +
+                ".irode-mes-section .irode-callout-composition"
+            ).forEach(function (element) {
+                observer.observe(element);
+            });
+        }
+
+        document.querySelectorAll(".irode-mes-section img").forEach(function (img) {
+            img.addEventListener("load", ajustarFondosMes);
+        });
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", iniciarMes);
+    } else {
+        iniciarMes();
+    }
+
+    window.addEventListener("load", ajustarFondosMes);
+    window.addEventListener("resize", ajustarFondosMes);
+})();
+</script>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 3                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&amp;family=Inter:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+
+<section class="ordenes-banner irode-pos-showcase" aria-label="Descubre lo que realmente puedes lograr">
+    <div class="ordenes-container irode-pos-showcase-inner">
+
+        <div class="ordenes-title-center-wrap">
+            <h2 class="ordenes-title">
+                Descubre lo que realmente puedes
+                <span class="ordenes-underlined">lograr</span>
+            </h2>
+        </div>
+
+        <div class="irode-banner-grid">
+
+            <div class="irode-banner-left">
+                <div class="irode-banner-card irode-pos-main-stage">
+                    <div class="irode-pos-main-image-wrap">
+
+                        <!-- COMPUTADORAS Y TABLETS -->
+                        <img src="https://www.irodetech.com/web/image/42747-b56c4ec4/ChatGPT%20Image%20Sep%2028%2C%202026%2C%2002_05_00%20PM.png" alt="Factura" class="irode-pos-main-image" loading="eager" decoding="async" fetchpriority="high">
+
+                        <button type="button" class="irode-pos-round-btn irode-pos-video-open" aria-label="Abrir video de facturación">
+                            <img src="https://www.irodetech.com/web/image/42358-b6e11a16/ChatGPT%20Image%2024%20sept%202026%2C%2010_41_06%20a.m..png" alt="" class="irode-pos-play-icon" loading="lazy">
+                        </button>
+
+                        <!-- VIDEO VISIBLE DIRECTAMENTE EN MÓVILES -->
+                        <iframe class="irode-pos-mobile-video" src="https://www.youtube.com/embed/5S-1uDGD4GA?playsinline=1&amp;rel=0" title="Video de facturación en Odoo" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+                        </iframe>
+
+                    </div>
+                </div>
+
+                <div class="ordenes-arrow-under-video">
+                    <img src="https://www.irodetech.com/web/image/42748-c9dee371/ChatGPT%20Image%20Sep%2028%2C%202026%2C%2002_09_07%20PM.png" alt="" class="ordenes-arrow-img" loading="lazy">
+                </div>
+            </div>
+
+            <div class="irode-banner-right">
+
+                <div class="irode-banner-header-row">
+                    <div class="irode-banner-timer-wrap">
+                        <img src="https://www.irodetech.com/web/image/42745-27d189a1/ChatGPT%20Image%20Sep%2028%2C%202026%2C%2001_55_43%20PM.png" alt="Cronómetro" class="irode-banner-timer-icon" loading="lazy">
+                    </div>
+
+                    <h3 class="irode-banner-main-title">
+                        Crea tus facturas en
+                        <span>5 segundos</span>
+                    </h3>
+                </div>
+
+                <div class="irode-banner-text-block">
+                    <p class="ordenes-description">
+                        <strong>La velocidad importa.</strong>
+                        Procesa todas tus operaciones al instante.
+                        Haz que tu equipo de contabilidad haga mucho más
+                        en menos tiempo.
+                    </p>
+
+                    <p class="ordenes-description ordenes-description-second">
+                        Una interfaz rápida hace toda la diferencia.
+                    </p>
+
+                    <p class="ordenes-description ordenes-description-second">
+                        Conecta tu <strong>contabilidad electronica</strong>
+                        con la <strong>facturación electrónica</strong>
+                        y simplifica la gestión de tus comprobantes.
+                        Con iRODE, puedes integrar <strong>FEL Guatemala</strong>
+                        a tu operación en Odoo para mantener tus facturas
+                        y registros contables organizados en un mismo sistema.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<div class="irode-pos-video-modal" aria-hidden="true">
+    <div class="irode-pos-video-backdrop"></div>
+
+    <div class="irode-pos-video-dialog" role="dialog" aria-modal="true" aria-label="Video de Facturación">
+
+        <button type="button" class="irode-pos-video-close" aria-label="Cerrar video">
+            ×
+        </button>
+
+        <div class="irode-pos-video-frame-wrap">
+            <iframe width="560" height="315" class="irode-pos-video-frame" src="" title="Video de facturación" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+            </iframe>
+        </div>
+    </div>
+</div>
+
+<style>
+/* RESET */
+.ordenes-banner,
+.ordenes-banner *,
+.ordenes-banner *::before,
+.ordenes-banner *::after {
+    box-sizing: border-box;
+}
+
+/* SECCIÓN */
+.ordenes-banner {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 58px 0 145px;
+    background: #ffffff;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+/* CONTENEDOR */
+.ordenes-container {
+    width: min(1400px, calc(100% - 240px));
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+}
+
+/* TÍTULO SUPERIOR */
+.ordenes-title-center-wrap {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    margin-bottom: 45px;
+}
+
+.ordenes-title {
+    margin: 0 auto;
+    max-width: 1100px;
+    font-family: "Caveat", cursive;
+    font-size: 68px;
+    line-height: 1.04;
+    font-weight: 700;
+    letter-spacing: 0;
+    color: #101a2d;
+    display: inline-block;
+}
+
+/* SUBRAYADO ROSA */
+.ordenes-underlined {
+    position: relative;
+    display: inline-block;
+}
+
+.ordenes-underlined::after {
+    content: "";
+    position: absolute;
+    left: 5px;
+    right: -8px;
+    bottom: -4px;
+    height: 7px;
+    background: #ff7f86;
+    border-radius: 999px;
+    transform: rotate(-1.8deg);
+}
+
+/* TEXTO */
+.ordenes-description {
+    max-width: 650px;
+    margin: 0;
+    font-size: 22px;
+    line-height: 1.55;
+    font-weight: 400;
+    color: #475569;
+    letter-spacing: -.012em;
+}
+
+.ordenes-description strong {
+    color: #354156;
+    font-weight: 700;
+}
+
+.ordenes-description-second {
+    margin-top: 24px;
+}
+
+/* GRID */
+.irode-banner-grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 46% 54%;
+    gap: 0;
+    align-items: start;
+    margin-top: 45px;
+}
+
+/* COLUMNA IZQUIERDA */
+.irode-banner-left {
+    width: 100%;
+    position: relative;
+    z-index: 5;
+    padding-right: 55px;
+    padding-top: 35px;
+}
+
+/* IMAGEN / VIDEO */
+.irode-banner-card {
+    width: 100%;
+    position: relative;
+}
+
+.irode-pos-main-image-wrap {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    margin: 0;
+    position: relative;
+    background: #ffffff;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid #D9F2FF;
+    box-shadow:
+        0 14px 34px rgba(81,190,232,.16),
+        0 4px 10px rgba(81,190,232,.09);
+}
+
+.irode-pos-main-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+/* VIDEO PARA MÓVILES */
+.irode-pos-showcase .irode-pos-mobile-video {
+    display: none;
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    background: #000000;
+}
+
+/* FLECHA DEBAJO DEL VIDEO */
+.ordenes-arrow-under-video {
+    position: relative;
+    width: 110px;
+    height: auto;
+    margin: 35px auto 0;
+    pointer-events: none;
+    z-index: 3;
+}
+
+.ordenes-arrow-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+/* BOTÓN PLAY */
+.irode-pos-round-btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    flex: 0 0 auto;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    text-decoration: none !important;
+    background: #ffffff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 76px;
+    height: 76px;
+    border-radius: 50%;
+    box-shadow:
+        0 0 0 10px rgba(255,255,255,.50),
+        0 7px 20px rgba(20,33,48,.10);
+    transition: transform .2s ease, box-shadow .2s ease;
+    z-index: 10;
+}
+
+.irode-pos-round-btn:hover {
+    transform: translate(-50%, -50%) translateY(-2px);
+}
+
+.irode-pos-play-icon {
+    display: block;
+    width: 34px;
+    height: 34px;
+    object-fit: contain;
+}
+
+/* COLUMNA DERECHA */
+.irode-banner-right {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    position: relative;
+    z-index: 5;
+    padding-left: 55px;
+    padding-top: 0;
+}
+
+/* RELOJ Y TÍTULO */
+.irode-banner-header-row {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 22px;
+    margin-bottom: 35px;
+    flex-wrap: nowrap;
+}
+
+.irode-banner-timer-wrap {
+    width: 76px;
+    height: 76px;
+    flex: 0 0 76px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.irode-banner-timer-icon {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: contain;
+}
+
+.irode-banner-main-title {
+    margin: 0;
+    padding: 0;
+    max-width: 620px;
+    font-family: "Caveat", cursive;
+    font-size: clamp(58px, 4.6vw, 76px);
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: -.025em;
+    color: #111827;
+    text-align: left;
+    flex: 1;
+}
+
+.irode-banner-main-title span {
+    white-space: nowrap;
+}
+
+.irode-banner-text-block {
+    width: 100%;
+    max-width: 650px;
+}
+
+/* MODAL */
+.irode-pos-video-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 999999;
+    display: none;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 88px 0 24px;
+    overflow: hidden;
+}
+
+.irode-pos-video-modal.is-open {
+    display: flex;
+}
+
+.irode-pos-video-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,.50);
+}
+
+.irode-pos-video-dialog {
+    width: min(1365px, 74.5vw);
+    height: calc(100vh - 138px);
+    position: relative;
+    z-index: 2;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    border: 0;
+    overflow-y: auto;
+}
+
+.irode-pos-video-close {
+    width: 58px;
+    height: 58px;
+    position: fixed;
+    right: calc(12.75vw - 2px);
+    top: 48px;
+    z-index: 1000001;
+    border: 0;
+    border-radius: 50%;
+    background: #ffffff;
+    color: #111111;
+    font-size: 47px;
+    font-weight: 200;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 0 4px;
+}
+
+.irode-pos-video-frame-wrap {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: #000000;
+}
+
+.irode-pos-video-frame {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+body.irode-video-modal-open {
+    overflow: hidden;
+}
+
+/* LAPTOP */
+@media (max-width: 1300px) {
+    .ordenes-container {
+        width: calc(100% - 120px);
+    }
+
+    .ordenes-title {
+        font-size: 59px;
+    }
+
+    .ordenes-description {
+        font-size: 20px;
+    }
+
+    .irode-banner-left {
+        padding-right: 35px;
+        padding-top: 30px;
+    }
+
+    .irode-banner-right {
+        padding-left: 35px;
+    }
+
+    .ordenes-arrow-under-video {
+        width: 100px;
+    }
+
+    .irode-banner-main-title {
+        font-size: clamp(53px, 5vw, 68px);
+    }
+
+    .irode-banner-timer-wrap {
+        width: 68px;
+        height: 68px;
+        flex-basis: 68px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .ordenes-description {
+        font-size: 18px;
+    }
+}
+
+/* TABLET */
+@media (max-width: 992px) {
+    .ordenes-container {
+        width: calc(100% - 44px);
+    }
+
+    .irode-banner-grid {
+        grid-template-columns: 1fr;
+        gap: 55px;
+    }
+
+    .irode-banner-left {
+        width: 100%;
+        padding-right: 0;
+        padding-top: 25px;
+    }
+
+    .irode-banner-right {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .irode-pos-main-image-wrap {
+        width: min(680px, 88vw);
+        margin: 0 auto;
+    }
+
+    .irode-banner-text-block {
+        max-width: 820px;
+    }
+
+    .ordenes-arrow-under-video {
+        width: 90px;
+        margin-top: 35px;
+    }
+
+    .irode-banner-header-row {
+        gap: 18px;
+        align-items: center;
+    }
+
+    .irode-banner-main-title {
+        font-size: clamp(50px, 8vw, 68px);
+    }
+}
+
+@media (max-width: 768px) {
+    .ordenes-description {
+        font-size: 15.5px;
+    }
+}
+
+/* MÓVIL */
+@media (max-width: 767px) {
+    .ordenes-banner {
+        padding: 42px 0 90px;
+    }
+
+    .ordenes-container {
+        width: calc(100% - 32px);
+    }
+
+    .ordenes-title {
+        font-size: 45px;
+    }
+
+    .ordenes-description {
+        line-height: 1.55;
+    }
+
+    .ordenes-title-center-wrap {
+        margin-bottom: 34px;
+    }
+
+    .irode-pos-showcase .irode-banner-grid {
+        display: grid !important;
+        grid-template-columns: minmax(0, 1fr);
+        margin-top: 0;
+        gap: 45px;
+    }
+
+    /* MOSTRAR EL ÁREA DEL VIDEO */
+    .irode-pos-showcase .irode-banner-left,
+    .irode-pos-showcase .irode-banner-card,
+    .irode-pos-showcase .irode-pos-main-image-wrap {
+        display: block !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+    }
+
+    .irode-pos-showcase .irode-banner-left {
+        width: 100%;
+        min-width: 0;
+        padding-right: 0;
+        padding-top: 18px;
+    }
+
+    .irode-pos-showcase .irode-pos-main-image-wrap {
+        position: relative;
+        width: 100%;
+        height: auto;
+        aspect-ratio: 16 / 9;
+        margin: 0 auto;
+        border-radius: 8px;
+        border: 1px solid #D9F2FF;
+        box-shadow:
+            0 12px 28px rgba(81,190,232,.15),
+            0 3px 8px rgba(81,190,232,.08);
+    }
+
+    /* OCULTAR LA IMAGEN, EL BOTÓN Y LA FLECHA */
+    .irode-pos-showcase .irode-pos-main-image,
+    .irode-pos-showcase .irode-pos-round-btn,
+    .irode-pos-showcase .ordenes-arrow-under-video {
+        display: none !important;
+    }
+
+    /* MOSTRAR EL VIDEO DIRECTAMENTE */
+    .irode-pos-showcase .irode-pos-mobile-video {
+        display: block !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        position: absolute;
+        inset: 0;
+        width: 100% !important;
+        height: 100% !important;
+        border: 0;
+    }
+
+    .irode-banner-header-row {
+        gap: 14px;
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+
+    .irode-banner-timer-wrap {
+        width: 52px;
+        height: 52px;
+        flex-basis: 52px;
+    }
+
+    .irode-banner-main-title {
+        font-size: clamp(38px, 10.5vw, 52px);
+        line-height: .98;
+    }
+}
+
+/* MÓVILES PEQUEÑOS */
+@media (max-width: 420px) {
+    .ordenes-container {
+        width: calc(100% - 28px);
+    }
+
+    .ordenes-title {
+        font-size: 39px;
+    }
+
+    .ordenes-description {
+        font-size: 14.5px;
+    }
+
+    .irode-banner-header-row {
+        gap: 11px;
+    }
+
+    .irode-banner-timer-wrap {
+        width: 46px;
+        height: 46px;
+        flex-basis: 46px;
+    }
+
+    .irode-banner-main-title {
+        font-size: 39px;
+    }
+}
+
+@media (max-width: 360px) {
+    .ordenes-description {
+        font-size: 14px;
+    }
+}
+</style>
+
+<script>
+(function () {
+    function iniciarVideoIrode() {
+        var modal = document.querySelector(".irode-pos-video-modal");
+        if (!modal) return;
+
+        var frame = modal.querySelector(".irode-pos-video-frame");
+        var closeBtn = modal.querySelector(".irode-pos-video-close");
+        var backdrop = modal.querySelector(".irode-pos-video-backdrop");
+        var openers = document.querySelectorAll(
+            ".irode-pos-showcase .irode-pos-video-open"
+        );
+
+        var consultaMovil = window.matchMedia("(max-width: 767px)");
+        var videosMoviles = document.querySelectorAll(
+            ".irode-pos-showcase .irode-pos-mobile-video"
+        );
+
+        var videoUrl =
+            "https://www.youtube.com/embed/5S-1uDGD4GA?si=JWt69S4gkkHNU1ss";
+
+        var videoMovilUrl =
+            "https://www.youtube.com/embed/5S-1uDGD4GA?playsinline=1&rel=0";
+
+        function openVideo() {
+            frame.setAttribute("src", videoUrl);
+            modal.classList.add("is-open");
+            modal.setAttribute("aria-hidden", "false");
+            document.body.classList.add("irode-video-modal-open");
+
+            var dialog = modal.querySelector(".irode-pos-video-dialog");
+
+            if (dialog) {
+                dialog.scrollTop = 0;
+            }
+        }
+
+        function closeVideo() {
+            modal.classList.remove("is-open");
+            modal.setAttribute("aria-hidden", "true");
+            frame.setAttribute("src", "");
+            document.body.classList.remove("irode-video-modal-open");
+        }
+
+        function actualizarVersion() {
+            videosMoviles.forEach(function (video) {
+                if (consultaMovil.matches) {
+                    if (!video.getAttribute("src")) {
+                        video.setAttribute("src", videoMovilUrl);
+                    }
+                } else {
+                    /* Detener el video al pasar a computadora. */
+                    video.removeAttribute("src");
+                }
+            });
+
+            if (consultaMovil.matches) {
+                closeVideo();
+            }
+        }
+
+        openers.forEach(function (opener) {
+            opener.addEventListener("click", openVideo);
+        });
+
+        closeBtn.addEventListener("click", closeVideo);
+        backdrop.addEventListener("click", closeVideo);
+
+        document.addEventListener("keydown", function (event) {
+            if (
+                event.key === "Escape" &&
+                modal.classList.contains("is-open")
+            ) {
+                closeVideo();
+            }
+        });
+
+        actualizarVersion();
+
+        if (consultaMovil.addEventListener) {
+            consultaMovil.addEventListener("change", actualizarVersion);
+        } else {
+            consultaMovil.addListener(actualizarVersion);
+        }
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", iniciarVideoIrode);
+    } else {
+        iniciarVideoIrode();
+    }
+})();
+</script>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 4                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&amp;family=Inter:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+
+<section class="ordenes-banner irode-auton-section" aria-label="Aprovecha la automatización">
+    <div class="ordenes-container irode-auton-container">
+
+        <div class="irode-auton-header-center">
+            <h2 class="ordenes-title irode-auton-title">
+
+                <span class="irode-auton-title-line">
+                    <span class="irode-icon-cross">
+                        <img src="https://www.irodetech.com/web/image/42755-6a6cfd25/ChatGPT%20Image%20Sep%2028%2C%202026%2C%2003_15_40%20PM.png?height=256" alt="" class="irode-auton-cross-img" loading="lazy">
+                    </span>
+
+                    <span class="irode-registro-highlight">
+                        <span class="irode-registro-highlight-text">
+                            ¡Dile adiós
+                        </span>
+
+                        <svg class="irode-registro-wave" viewBox="0 0 220 34" preserveAspectRatio="none" aria-hidden="true">
+                            <path d="M4 16
+                                   C8 3,16 3,20 16
+                                   C24 29,32 29,36 16
+                                   C40 3,48 3,52 16
+                                   C56 29,64 29,68 16
+                                   C72 3,80 3,84 16
+                                   C88 29,96 29,100 16
+                                   C104 3,112 3,116 16
+                                   C120 29,128 29,132 16
+                                   C136 3,144 3,148 16
+                                   C152 29,160 29,164 16
+                                   C168 3,176 3,180 16
+                                   C184 29,192 29,196 16
+                                   C200 6,208 7,216 15" fill="none" stroke="#20B6F6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+                            </path>
+                        </svg>
+                    </span>
+
+                    a la captura de datos!
+                </span>
+
+                <span class="irode-auton-title-line irode-auton-second-line">
+                    Aprovecha la automatización<span class="irode-icon-check">
+                        <img src="https://www.irodetech.com/web/image/41370-f0704cd1/ChatGPT%20Image%2011%20sept%202026%2C%2009_54_49%20a.m..png?height=256" alt="" class="irode-auton-check-img" loading="lazy">
+                    </span>
+                </span>
+
+            </h2>
+        </div>
+
+        <div class="irode-auton-text-group">
+            <h3 class="irode-auton-subtitle">
+                Olvídate de agregar información manualmente.
+            </h3>
+
+            <p class="ordenes-description irode-auton-desc">
+                Nuestra avanzada captura de datos para facturas
+                asistida con IA tiene una tasa de reconocimiento del
+                98% para que lo único que debas hacer sea
+                validarlas.
+            </p>
+
+            
+            <p class="ordenes-description irode-auton-desc irode-auton-desc-extra">
+                Si tu empresa utiliza <strong>infile guatemala</strong>,
+                mantener organizada la información de cada
+                <strong>factura fel sat</strong> facilita la revisión
+                de tus comprobantes y su registro contable.
+                Con iRODE, te acompañamos a simplificar la gestión
+                de tus facturas y reducir las tareas manuales
+                de tu equipo de contabilidad.
+            </p>
+        </div>
+
+        <div class="irode-auton-main-image-wrap">
+            <img src="https://www.irodetech.com/web/image/42757-5da7e9b8/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2811%29.png" alt="Interfaz de Factura" class="irode-pos-main-image" loading="eager" decoding="async" fetchpriority="high">
+        </div>
+
+    </div>
+</section>
+
+<style>
+/* RESET */
+.irode-auton-section,
+.irode-auton-section *,
+.irode-auton-section *::before,
+.irode-auton-section *::after {
+    box-sizing: border-box;
+}
+
+/* SECCIÓN */
+.irode-auton-section {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 58px 0 90px;
+    background: #ffffff;
+    border: none;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+/* CONTENEDOR */
+.irode-auton-section .irode-auton-container {
+    width: min(1400px, calc(100% - 240px));
+    max-width: none;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+}
+
+/* TÍTULO CENTRADO */
+.irode-auton-section .irode-auton-header-center {
+    width: 100%;
+    text-align: center;
+    margin: 0 0 52px;
+    padding: 0;
+    position: relative;
+    z-index: 3;
+}
+
+.irode-auton-section .irode-auton-title {
+    width: fit-content;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    font-family: "Caveat", cursive;
+    font-size: clamp(58px, 4.6vw, 76px);
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: -.025em;
+    color: #111827;
+    display: block;
+    text-align: center;
+}
+
+/* LÍNEAS DEL TÍTULO */
+.irode-auton-section .irode-auton-title-line {
+    display: block;
+    position: relative;
+    width: fit-content;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.irode-auton-section .irode-auton-second-line {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: -35px;
+    text-align: right;
+}
+
+/* ONDA AZUL */
+.irode-auton-section .irode-registro-highlight {
+    position: relative;
+    display: inline-block;
+    z-index: 2;
+}
+
+.irode-auton-section .irode-registro-highlight-text {
+    position: relative;
+    z-index: 3;
+}
+
+.irode-auton-section .irode-registro-wave {
+    position: absolute;
+    left: 2%;
+    bottom: -11px;
+    width: 96%;
+    height: 25px;
+    overflow: visible;
+    z-index: 1;
+    pointer-events: none;
+}
+
+/* CRUZ */
+.irode-auton-section .irode-icon-cross {
+    position: absolute;
+    left: -22px;
+    top: 4px;
+    width: 44px;
+    height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 4;
+}
+
+.irode-auton-cross-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+/* CHECK */
+.irode-auton-section .irode-icon-check {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+.irode-auton-check-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+/* TEXTO DESCRIPTIVO */
+.irode-auton-section .irode-auton-text-group {
+    width: 100%;
+    max-width: 650px;
+    margin: 0 0 20px;
+    padding: 0;
+    position: relative;
+    z-index: 3;
+    text-align: left;
+}
+
+.irode-auton-section .irode-auton-subtitle {
+    margin: 0 0 12px;
+    padding: 0;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    line-height: 1.35;
+    font-weight: 700;
+    color: #1f2937;
+    text-align: left;
+}
+
+.irode-auton-section .irode-auton-desc {
+    margin: 0;
+    padding: 0;
+    max-width: 650px;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    line-height: 1.55;
+    font-weight: 400;
+    letter-spacing: -.012em;
+    color: #475569;
+    text-align: left;
+}
+
+/* SEPARACIÓN DEL NUEVO PÁRRAFO */
+.irode-auton-section .irode-auton-desc-extra {
+    margin-top: 24px;
+}
+
+.irode-auton-section .irode-auton-desc strong {
+    font-weight: 700;
+}
+
+/* IMAGEN */
+.irode-auton-section .irode-auton-main-image-wrap {
+    width: 100%;
+    margin-top: -120px;
+    position: relative;
+    z-index: 1;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+    overflow: visible;
+}
+
+.irode-auton-section .irode-pos-main-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+/* LAPTOP */
+@media (max-width: 1300px) {
+    .irode-auton-section .irode-auton-container {
+        width: calc(100% - 120px);
+    }
+
+    .irode-auton-section .irode-auton-title {
+        font-size: clamp(53px, 5vw, 68px);
+    }
+
+    .irode-auton-section .irode-auton-subtitle,
+    .irode-auton-section .irode-auton-desc {
+        font-size: 20px;
+    }
+
+    .irode-auton-section .irode-icon-cross {
+        left: -18px;
+        width: 38px;
+        height: 38px;
+    }
+
+    .irode-auton-section .irode-icon-check {
+        width: 38px;
+        height: 38px;
+    }
+
+    .irode-auton-section .irode-auton-second-line {
+        margin-right: -24px;
+    }
+
+    .irode-auton-section .irode-auton-main-image-wrap {
+        margin-top: -95px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .irode-auton-section .irode-auton-subtitle,
+    .irode-auton-section .irode-auton-desc {
+        font-size: 18px;
+    }
+}
+
+/* TABLET */
+@media (max-width: 992px) {
+    .irode-auton-section .irode-auton-container {
+        width: calc(100% - 44px);
+    }
+
+    .irode-auton-section .irode-auton-header-center {
+        margin-bottom: 38px;
+        padding: 0 20px;
+    }
+
+    .irode-auton-section .irode-auton-title {
+        font-size: clamp(50px, 8vw, 68px);
+    }
+
+    .irode-auton-section .irode-auton-second-line {
+        margin-right: 0;
+    }
+
+    .irode-auton-section .irode-auton-text-group,
+    .irode-auton-section .irode-auton-desc {
+        max-width: 820px;
+    }
+
+    .irode-auton-section .irode-icon-cross {
+        left: -18px;
+        width: 34px;
+        height: 34px;
+    }
+
+    .irode-auton-section .irode-icon-check {
+        width: 34px;
+        height: 34px;
+    }
+
+    .irode-auton-section .irode-auton-main-image-wrap {
+        margin-top: -55px;
+    }
+}
+
+@media (max-width: 768px) {
+    .irode-auton-section .irode-auton-subtitle,
+    .irode-auton-section .irode-auton-desc {
+        font-size: 15.5px;
+    }
+}
+
+/* MÓVIL */
+@media (max-width: 767px) {
+    .irode-auton-section {
+        padding: 42px 0 70px;
+    }
+
+    .irode-auton-section .irode-auton-container {
+        width: calc(100% - 32px);
+    }
+
+    .irode-auton-section .irode-auton-header-center {
+        margin-bottom: 28px;
+        padding: 0;
+        text-align: center;
+    }
+
+    .irode-auton-section .irode-auton-title {
+        width: 100%;
+        font-size: clamp(38px, 10.5vw, 52px);
+        line-height: 1;
+        text-align: center;
+    }
+
+    .irode-auton-section .irode-auton-title-line {
+        width: 100%;
+        text-align: center;
+    }
+
+    .irode-auton-section .irode-auton-second-line {
+        margin-top: 14px;
+        margin-right: 0;
+        text-align: center;
+    }
+
+    .irode-auton-section .irode-icon-cross {
+        position: relative;
+        left: auto;
+        top: auto;
+        width: 28px;
+        height: 28px;
+        margin-right: -3px;
+        vertical-align: middle;
+    }
+
+    .irode-auton-section .irode-icon-check {
+        width: 28px;
+        height: 28px;
+        margin-left: 2px;
+    }
+
+    .irode-auton-section .irode-auton-desc {
+        line-height: 1.55;
+    }
+
+    .irode-auton-section .irode-auton-main-image-wrap {
+        margin-top: -25px;
+    }
+}
+
+/* MÓVILES PEQUEÑOS */
+@media (max-width: 420px) {
+    .irode-auton-section .irode-auton-container {
+        width: calc(100% - 28px);
+    }
+
+    .irode-auton-section .irode-auton-title {
+        font-size: 39px;
+    }
+
+    .irode-auton-section .irode-auton-subtitle,
+    .irode-auton-section .irode-auton-desc {
+        font-size: 14.5px;
+    }
+
+    .irode-auton-section .irode-auton-main-image-wrap {
+        margin-top: -20px;
+    }
+}
+
+/* MÓVILES MUY PEQUEÑOS */
+@media (max-width: 360px) {
+    .irode-auton-section .irode-auton-subtitle,
+    .irode-auton-section .irode-auton-desc {
+        font-size: 14px;
+    }
+}
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 5                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-registro-section">
+    <div class="irode-registro-container">
+
+        <div class="irode-registro-right">
+            <div class="irode-registro-gray-shape"></div>
+
+            <div class="irode-cel-rays-wrap">
+                <img src="https://www.irodetech.com/web/image/42740-1d2f9bab/ChatGPT%20Image%20Sep%2028%2C%202026%2C%2001_43_40%20PM.png?height=256" alt="" class="irode-cel-rays" loading="lazy">
+            </div>
+
+            <div class="irode-registro-phone-wrap">
+                <img src="https://www.irodetech.com/web/image/42761-9d768a98/ChatGPT%20Image%20Sep%2028%2C%202026%2C%2003_47_56%20PM.png" alt="Aplicación móvil" class="irode-registro-phone" loading="eager" fetchpriority="high" decoding="async">
+            </div>
+        </div>
+
+        <div class="irode-registro-left">
+
+            <div class="irode-cel-star-wrap">
+                <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png?height=256" alt="" class="irode-cel-star" loading="lazy">
+            </div>
+
+            <h2 class="irode-registro-title">
+                <span>Disfruta de sus</span>
+                <span>beneficios desde tu</span>
+                <span>
+                    <span class="irode-registro-highlight">
+                        <span class="irode-registro-highlight-text">
+                            celular
+                        </span>
+
+                        <svg class="irode-registro-wave" viewBox="0 0 220 34" preserveAspectRatio="none" aria-hidden="true">
+                            <path d="M4 16
+                                   C8 3,16 3,20 16
+                                   C24 29,32 29,36 16
+                                   C40 3,48 3,52 16
+                                   C56 29,64 29,68 16
+                                   C72 3,80 3,84 16
+                                   C88 29,96 29,100 16
+                                   C104 3,112 3,116 16
+                                   C120 29,128 29,132 16
+                                   C136 3,144 3,148 16
+                                   C152 29,160 29,164 16
+                                   C168 3,176 3,180 16
+                                   C184 29,192 29,196 16
+                                   C200 6,208 7,216 15" fill="none" stroke="#20B6F6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+                            </path>
+                        </svg>
+                    </span>
+                </span>
+            </h2>
+
+            <div class="irode-registro-text">
+                <p>
+                    <strong>Tómale fotos a tus gastos con tu celular</strong>
+                    y deja que la inteligencia artificial se encargue de lo demás.
+                </p>
+
+                <p>
+                    Si estás buscando <strong>programas contables guatemala</strong>,
+                    lleva tu <strong>contabilidad</strong> a una forma de trabajo
+                    más práctica. Con iRODE y Odoo, organiza tus gastos,
+                    reúne tus comprobantes y facilita el seguimiento
+                    de la información financiera de tu empresa
+                    desde un mismo sistema.
+                </p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* RESET */
+.irode-registro-section,
+.irode-registro-section *,
+.irode-registro-section *::before,
+.irode-registro-section *::after {
+    box-sizing: border-box;
+}
+
+/* SECCIÓN */
+.irode-registro-section {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 70px 0;
+    background: #ffffff;
+    overflow: hidden;
+}
+
+/* CONTENEDOR */
+.irode-registro-section .irode-registro-container {
+    width: min(1720px, calc(100% - 100px));
+    min-height: 650px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 52% 48%;
+    position: relative;
+    align-items: center;
+}
+
+/* COLUMNA DE TEXTO */
+.irode-registro-section .irode-registro-left {
+    position: relative;
+    z-index: 5;
+    padding-right: 0;
+    padding-left: 45px;
+}
+
+/* TÍTULO */
+.irode-registro-section .irode-registro-title {
+    margin: 0 0 35px;
+    padding: 0;
+    font-family: "Caveat", cursive;
+    font-size: clamp(58px, 4.6vw, 76px);
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: -.025em;
+    color: #111b2d;
+}
+
+.irode-registro-section .irode-registro-title > span {
+    display: block;
+}
+
+/* RESALTADO */
+.irode-registro-section .irode-registro-highlight {
+    position: relative;
+    display: inline-block;
+    z-index: 2;
+}
+
+.irode-registro-section .irode-registro-highlight-text {
+    position: relative;
+    z-index: 3;
+}
+
+.irode-registro-section .irode-registro-wave {
+    position: absolute;
+    left: 2%;
+    bottom: -10px;
+    width: 96%;
+    height: 25px;
+    overflow: visible;
+    z-index: 1;
+    pointer-events: none;
+}
+
+/* DESCRIPCIÓN */
+.irode-registro-section .irode-registro-text {
+    max-width: 750px;
+    font-family: "Inter", Arial, sans-serif;
+    color: #445065;
+}
+
+.irode-registro-section .irode-registro-text p {
+    margin: 0;
+    font-size: 22px;
+    line-height: 1.52;
+    font-weight: 400;
+}
+
+.irode-registro-section .irode-registro-text p + p {
+    margin-top: 24px;
+}
+
+.irode-registro-section .irode-registro-text strong {
+    color: #39465a;
+    font-weight: 800;
+}
+
+/* ÁREA DE IMAGEN */
+.irode-registro-section .irode-registro-right {
+    min-height: 650px;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+/* FONDO */
+.irode-registro-section .irode-registro-gray-shape {
+    position: absolute;
+    width: 1150px;
+    height: 420px;
+    left: auto;
+    right: 3%;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #f4f5f7;
+    border-radius: 0 210px 210px 0;
+    z-index: 0;
+    pointer-events: none;
+}
+
+/* CONTENEDOR DE LOS CELULARES */
+.irode-registro-section .irode-registro-phone-wrap {
+    width: calc(100% - 30px);
+    position: absolute;
+    left: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    z-index: 3;
+    pointer-events: none;
+}
+
+.irode-registro-section .irode-registro-phone {
+    width: 580px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+    image-rendering: -webkit-optimize-contrast;
+    filter: drop-shadow(0 25px 50px rgba(0,0,0,.15));
+}
+
+/* RAYITOS */
+.irode-registro-section .irode-cel-rays-wrap {
+    position: absolute;
+    top: -75px;
+    left: 15px;
+    width: 120px;
+    height: 120px;
+    z-index: 6;
+    pointer-events: none;
+}
+
+.irode-registro-section .irode-cel-rays {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+/* ESTRELLA */
+.irode-registro-section .irode-cel-star-wrap {
+    position: absolute;
+    top: -145px;
+    left: -25px;
+    width: 115px;
+    height: 115px;
+    z-index: 6;
+    pointer-events: none;
+}
+
+.irode-registro-section .irode-cel-star {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    image-rendering: -webkit-optimize-contrast;
+    filter: drop-shadow(0 8px 16px rgba(0,0,0,.08));
+}
+
+/* FUENTES EN LAPTOP */
+@media (max-width: 1300px) {
+    .irode-registro-section .irode-registro-title {
+        font-size: clamp(53px, 5vw, 68px);
+    }
+
+    .irode-registro-section .irode-registro-text p {
+        font-size: 20px;
+    }
+}
+
+/* IMÁGENES EN LAPTOP */
+@media (max-width: 1200px) {
+    .irode-registro-section .irode-registro-phone {
+        width: 480px;
+    }
+
+    .irode-registro-section .irode-cel-rays-wrap {
+        width: 100px;
+        height: 100px;
+        top: -60px;
+        left: 10px;
+    }
+
+    .irode-registro-section .irode-cel-star-wrap {
+        width: 95px;
+        height: 95px;
+        top: -125px;
+        left: -10px;
+    }
+}
+
+/* LETRAS PEQUEÑAS EN TABLET */
+@media (max-width: 1000px) {
+    .irode-registro-section .irode-registro-text p {
+        font-size: 18px;
+    }
+}
+
+/* TABLET */
+@media (max-width: 992px) {
+    .irode-registro-section .irode-registro-container {
+        width: calc(100% - 44px);
+        min-height: auto;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .irode-registro-section .irode-registro-title {
+        font-size: clamp(50px, 8vw, 68px);
+    }
+
+    .irode-registro-section .irode-registro-right {
+        width: 100%;
+        min-height: 520px;
+        margin-top: 40px;
+    }
+
+    .irode-registro-section .irode-registro-left {
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .irode-registro-section .irode-registro-text {
+        margin: 0 auto;
+    }
+
+    .irode-registro-section .irode-registro-gray-shape {
+        width: 135%;
+        height: 380px;
+        right: -15%;
+    }
+
+    .irode-registro-section .irode-registro-phone-wrap {
+        width: 100%;
+        left: 0;
+        justify-content: center;
+    }
+
+    .irode-registro-section .irode-cel-rays-wrap {
+        left: 10px;
+        top: -50px;
+        width: 90px;
+        height: 90px;
+    }
+
+    .irode-registro-section .irode-cel-star-wrap {
+        position: relative;
+        top: auto;
+        left: auto;
+        margin: 0 auto 15px;
+        width: 90px;
+        height: 90px;
+    }
+}
+
+/* LETRAS PEQUEÑAS EN MÓVIL */
+@media (max-width: 768px) {
+    .irode-registro-section .irode-registro-text p {
+        font-size: 15.5px;
+    }
+}
+
+/* CAMBIOS SOLO PARA MÓVILES */
+@media (max-width: 767px) {
+    .irode-registro-section {
+        padding: 45px 0;
+    }
+
+    .irode-registro-section .irode-registro-container {
+        width: calc(100% - 32px);
+    }
+
+    .irode-registro-section .irode-registro-title {
+        font-size: clamp(38px, 10.5vw, 52px);
+    }
+
+    .irode-registro-section .irode-registro-phone {
+        width: 360px;
+    }
+
+    /* OCULTAR EL RAYITO */
+    .irode-registro-section .irode-cel-rays-wrap {
+        display: none;
+    }
+
+    /* ESTRELLA A LA IZQUIERDA, SOBRE EL TÍTULO */
+    .irode-registro-section .irode-cel-star-wrap {
+        position: relative;
+        top: auto;
+        left: auto;
+        right: auto;
+        width: 75px;
+        height: 75px;
+        margin: 0 auto 15px 0;
+    }
+
+    /* FORMA CELESTE LIMITADA AL ÁREA DE LOS CELULARES */
+    .irode-registro-section .irode-registro-gray-shape {
+        width: 100%;
+        max-width: 400px;
+        height: 320px;
+        left: 50%;
+        right: auto;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        background: #e8f6fd;
+        border-radius: 160px;
+    }
+}
+
+/* MÓVILES PEQUEÑOS */
+@media (max-width: 420px) {
+    .irode-registro-section .irode-registro-container {
+        width: calc(100% - 28px);
+    }
+
+    .irode-registro-section .irode-registro-title {
+        font-size: 39px;
+    }
+
+    .irode-registro-section .irode-registro-text p {
+        font-size: 14.5px;
+    }
+}
+
+/* MÓVILES MUY PEQUEÑOS */
+@media (max-width: 360px) {
+    .irode-registro-section .irode-registro-text p {
+        font-size: 14px;
+    }
+}
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 6                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&amp;family=Inter:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+
+<section class="irode-bank-section" aria-label="Conciliación bancaria inteligente">
+
+    <svg class="irode-bank-lines" viewBox="0 0 1536 440" preserveAspectRatio="none" aria-hidden="true">
+        <g fill="none" stroke="#F6BC60" stroke-linecap="round">
+            <path d="M910 172 C1090 175 1290 171 1445 173" stroke-width="5"></path>
+            <path d="M1330 153 Q1430 155 1514 153" stroke-width="10"></path>
+            <path d="M1456 197 Q1485 199 1514 197" stroke-width="9"></path>
+            <path d="M5 352 Q97 353 190 352" stroke-width="10"></path>
+            <path d="M419 352 C681 348 981 355 1250 351" stroke-width="5"></path>
+            <path d="M1057 372 Q1087 374 1115 372" stroke-width="10"></path>
+            <path d="M1307 389 Q1380 385 1458 389" stroke-width="14"></path>
+            <path d="M354 438 Q449 440 539 438" stroke-width="5"></path>
+        </g>
+    </svg>
+
+    <div class="irode-bank-container">
+
+        <header class="irode-bank-header">
+
+            <div class="irode-bank-heading-wrap">
+
+                <svg class="irode-bank-arrow" viewBox="0 0 150 155" fill="none" aria-hidden="true">
+                    <path d="M126 9
+                           C119 40 77 37 48 47
+                           C13 59 6 96 25 118
+                           C33 128 44 134 58 137"
+                          stroke="#CED4DA"
+                          stroke-width="8"
+                          stroke-linecap="round"></path>
+                    <path d="M48 120 L61 139 L34 142"
+                          stroke="#CED4DA"
+                          stroke-width="6"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"></path>
+                </svg>
+
+                <h2 class="irode-bank-title">
+                    <span>
+                        <span class="irode-bank-underlined">Conciliación</span>
+                        bancaria
+                    </span>
+                    <span>inteligente</span>
+                </h2>
+
+            </div>
+
+            <div class="irode-bank-compatible">
+
+                <div class="irode-bank-compatible-top">
+                    <img src="https://www.irodetech.com/web/image/42885-8f950b50/Imagen%20de%20ChatGPT%2029%20sept%202026%2C%2002_44_50%20p.m..png?height=256" alt="" class="irode-bank-building-icon" loading="lazy">
+
+                    <span class="irode-bank-number">+ 8,000</span>
+                </div>
+
+                <p class="irode-bank-compatible-label">
+                    bancos compatibles
+                </p>
+
+            </div>
+
+        </header>
+
+        <div class="irode-bank-grid">
+
+            <div class="irode-bank-features">
+
+                <article class="irode-bank-feature">
+
+                    <img src="https://www.irodetech.com/web/image/42884-946e8c67/Imagen%20de%20ChatGPT%2029%20sept%202026%2C%2002_44_01%20p.m..png?height=256" alt="" class="irode-bank-feature-icon" loading="lazy">
+
+                    <div class="irode-bank-feature-copy">
+
+                        <h3>Sincronización bancaria</h3>
+
+                        <p>
+                            No es necesario que importes tus estados de
+                            cuenta de forma manual, Odoo es compatible con
+                            28,000 bancos a nivel mundial.
+                        </p>
+
+                    </div>
+
+                </article>
+
+                <div class="irode-bank-divider" aria-hidden="true">
+                    <svg viewBox="0 0 500 10" preserveAspectRatio="none">
+                        <path d="M2 5 L498 5" fill="none" stroke="#D6DADF" stroke-width="5" stroke-dasharray="17 6"></path>
+                    </svg>
+                </div>
+
+                <article class="irode-bank-feature">
+
+                    <img src="https://www.irodetech.com/web/image/42884-946e8c67/Imagen%20de%20ChatGPT%2029%20sept%202026%2C%2002_44_01%20p.m..png?height=256" alt="" class="irode-bank-feature-icon" loading="lazy">
+
+                    <div class="irode-bank-feature-copy">
+
+                        <h3>
+                            Conciliación inteligente con inteligencia artificial
+                        </h3>
+
+                        <p>
+                            El sistema concilia el 95% de las transacciones en
+                            automático con tus registros financieros.
+                        </p>
+
+                        <p>
+                            Organiza tu <strong>facturación</strong> y facilita
+                            el seguimiento de tus cobros y pagos con un
+                            <strong>software de contabilidad</strong> que reúna
+                            la información financiera de tu empresa.
+                            Con iRODE y Odoo, conecta tus facturas con tus
+                            registros contables para revisar tus movimientos
+                            y simplificar la conciliación bancaria.
+                        </p>
+
+                    </div>
+
+                </article>
+
+            </div>
+
+            <div class="irode-bank-video-area">
+
+                <div class="irode-bank-video-gray" aria-hidden="true"></div>
+
+                <div class="irode-bank-video-card">
+                    <video class="irode-bank-video" autoplay muted loop playsinline preload="metadata" aria-label="Conciliación bancaria en Odoo">
+                        <source src="https://download.odoocdn.com/videos/odoo_com/video_accounting.webm" type="video/webm">
+                        Tu navegador no permite reproducir este video.
+                    </video>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+<style>
+/* RESET */
+.irode-bank-section,
+.irode-bank-section *,
+.irode-bank-section *::before,
+.irode-bank-section *::after {
+    box-sizing: border-box;
+}
+
+/* SECCIÓN */
+.irode-bank-section {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    padding: 175px 0 85px;
+    background: #ffffff;
+    font-family: "Inter", Arial, sans-serif;
+    overflow: hidden;
+    isolation: isolate;
+}
+
+/* CONTENEDOR */
+.irode-bank-container {
+    width: min(1400px, calc(100% - 240px));
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+}
+
+/* RAYAS AMARILLAS */
+.irode-bank-lines {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 440px;
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* ENCABEZADO */
+.irode-bank-header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 50px;
+    margin-bottom: 100px;
+}
+
+.irode-bank-heading-wrap {
+    position: relative;
+    flex: 1;
+}
+
+/* FLECHA SUPERIOR */
+.irode-bank-arrow {
+    position: absolute;
+    width: 145px;
+    height: 150px;
+    left: 35px;
+    top: -160px;
+    pointer-events: none;
+}
+
+/* TÍTULO */
+.irode-bank-title {
+    margin: 0;
+    padding: 0;
+    font-family: "Caveat", cursive;
+    font-size: 68px;
+    line-height: 1.04;
+    font-weight: 700;
+    letter-spacing: 0;
+    color: #111827;
+}
+
+.irode-bank-title > span {
+    display: block;
+}
+
+/* SUBRAYADO DEL TÍTULO */
+.irode-bank-underlined {
+    display: inline-block;
+    position: relative;
+}
+
+.irode-bank-underlined::after {
+    content: "";
+    position: absolute;
+    left: 14%;
+    right: 8%;
+    bottom: -3px;
+    height: 8px;
+    background: #FFB52C;
+    border-radius: 70% 35% 60% 40%;
+    transform: rotate(-2deg);
+}
+
+/* BANCOS COMPATIBLES */
+.irode-bank-compatible {
+    flex: 0 0 auto;
+    text-align: center;
+    padding-bottom: 2px;
+}
+
+.irode-bank-compatible-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.irode-bank-building-icon {
+    display: block;
+    width: 70px;
+    height: 70px;
+    object-fit: contain;
+}
+
+.irode-bank-number {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 44px;
+    line-height: 1;
+    font-weight: 400;
+    color: #111827;
+}
+
+.irode-bank-compatible-label {
+    margin: 0;
+    font-family: "Caveat", cursive;
+    font-size: 32px;
+    line-height: 1.1;
+    font-weight: 700;
+    color: #111827;
+}
+
+/* DISTRIBUCIÓN */
+.irode-bank-grid {
+    display: grid;
+    grid-template-columns: 40% 56%;
+    gap: 4%;
+    align-items: center;
+    position: relative;
+}
+
+/* TEXTO IZQUIERDO */
+.irode-bank-features {
+    position: relative;
+    padding: 30px 0;
+}
+
+.irode-bank-feature {
+    position: relative;
+}
+
+/* ICONOS */
+.irode-bank-feature-icon {
+    position: absolute;
+    left: -72px;
+    top: -12px;
+    width: 58px;
+    height: 58px;
+    object-fit: contain;
+}
+
+/* LETRAS PEQUEÑAS */
+.irode-bank-feature-copy h3 {
+    margin: 0 0 16px;
+    padding: 0;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 22px;
+    line-height: 1.4;
+    font-weight: 700;
+    color: #1C2433;
+}
+
+.irode-bank-feature-copy p {
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 22px;
+    line-height: 1.52;
+    font-weight: 400;
+    color: #495467;
+}
+
+.irode-bank-feature-copy p + p {
+    margin-top: 24px;
+}
+
+/* SEPARADOR */
+.irode-bank-divider {
+    width: 100%;
+    height: 10px;
+    margin: 48px 0;
+}
+
+.irode-bank-divider svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+/* VIDEO */
+.irode-bank-video-area {
+    position: relative;
+    min-width: 0;
+}
+
+.irode-bank-video-gray {
+    position: absolute;
+    top: 44%;
+    bottom: -55px;
+    left: 23%;
+    width: calc(100% + 220px);
+    border-radius: 0 0 0 180px;
+    background: #F3F4F6;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.irode-bank-video-card {
+    position: relative;
+    width: 100%;
+    padding: 12px;
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 12px 35px rgba(69, 188, 225, .12);
+    overflow: hidden;
+    z-index: 1;
+}
+
+.irode-bank-video {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 0;
+    background: #ffffff;
+}
+
+/* LAPTOP */
+@media (max-width: 1300px) {
+    .irode-bank-container {
+        width: calc(100% - 120px);
+    }
+
+    .irode-bank-title {
+        font-size: 59px;
+    }
+
+    .irode-bank-feature-copy h3,
+    .irode-bank-feature-copy p {
+        font-size: 20px;
+    }
+
+    .irode-bank-feature-icon {
+        left: -52px;
+        width: 44px;
+        height: 44px;
+        top: -7px;
+    }
+
+    .irode-bank-number {
+        font-size: 40px;
+    }
+
+    .irode-bank-building-icon {
+        width: 62px;
+        height: 62px;
+    }
+
+    .irode-bank-compatible-label {
+        font-size: 29px;
+    }
+}
+
+/* LETRAS PEQUEÑAS EN TABLET */
+@media (max-width: 1000px) {
+    .irode-bank-feature-copy h3,
+    .irode-bank-feature-copy p {
+        font-size: 18px;
+    }
+}
+
+/* TABLET */
+@media (max-width: 992px) {
+    .irode-bank-section {
+        padding: 145px 0 70px;
+    }
+
+    .irode-bank-container {
+        width: calc(100% - 44px);
+    }
+
+    .irode-bank-header {
+        gap: 25px;
+        margin-bottom: 80px;
+    }
+
+    .irode-bank-title {
+        font-size: 59px;
+    }
+
+    .irode-bank-arrow {
+        width: 120px;
+        height: 125px;
+        top: -135px;
+        left: 20px;
+    }
+
+    .irode-bank-grid {
+        grid-template-columns: 43% 53%;
+    }
+
+    .irode-bank-features {
+        padding-left: 45px;
+    }
+
+    .irode-bank-feature-icon {
+        left: -45px;
+        width: 36px;
+        height: 36px;
+        top: -5px;
+    }
+
+    .irode-bank-divider {
+        margin: 32px 0;
+    }
+
+    .irode-bank-number {
+        font-size: 34px;
+    }
+
+    .irode-bank-building-icon {
+        width: 52px;
+        height: 52px;
+    }
+
+    .irode-bank-compatible-label {
+        font-size: 25px;
+    }
+
+    .irode-bank-video-card {
+        padding: 8px;
+        border-radius: 12px;
+    }
+}
+
+/* LETRAS PEQUEÑAS EN MÓVIL */
+@media (max-width: 768px) {
+    .irode-bank-feature-copy h3,
+    .irode-bank-feature-copy p {
+        font-size: 15.5px;
+    }
+}
+
+/* MÓVIL */
+@media (max-width: 767px) {
+    .irode-bank-section {
+        padding: 115px 0 65px;
+    }
+
+    .irode-bank-container {
+        width: calc(100% - 32px);
+    }
+
+    /* OCULTAR LAS RAYAS DEL FONDO */
+    .irode-bank-section .irode-bank-lines {
+        display: none !important;
+    }
+
+    .irode-bank-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 30px;
+        margin-bottom: 45px;
+    }
+
+    .irode-bank-title {
+        font-size: 45px;
+    }
+
+    .irode-bank-arrow {
+        width: 90px;
+        height: 100px;
+        top: -105px;
+        left: 15px;
+    }
+
+    /* CONSERVAR EL SUBRAYADO DEL TÍTULO */
+    .irode-bank-underlined::after {
+        height: 6px;
+    }
+
+    .irode-bank-compatible {
+        align-self: flex-end;
+    }
+
+    .irode-bank-number {
+        font-size: 32px;
+    }
+
+    .irode-bank-building-icon {
+        width: 48px;
+        height: 48px;
+    }
+
+    .irode-bank-compatible-label {
+        font-size: 24px;
+    }
+
+    .irode-bank-grid {
+        grid-template-columns: 1fr;
+        gap: 35px;
+    }
+
+    .irode-bank-features {
+        padding: 0 0 0 48px;
+    }
+
+    .irode-bank-feature-icon {
+        left: -48px;
+        width: 38px;
+        height: 38px;
+        top: -5px;
+    }
+
+    .irode-bank-feature-copy h3 {
+        margin-bottom: 12px;
+    }
+
+    /* OCULTAR LA RAYA DEL SEPARADOR */
+    .irode-bank-section .irode-bank-divider {
+        display: none !important;
+    }
+
+    /* CONSERVAR ESPACIO ENTRE LOS BLOQUES */
+    .irode-bank-divider + .irode-bank-feature {
+        margin-top: 38px;
+    }
+
+    .irode-bank-video-gray {
+        top: 35%;
+        bottom: -30px;
+        left: 12%;
+        border-radius: 0 0 0 90px;
+    }
+
+    .irode-bank-video-card {
+        padding: 7px;
+        border-radius: 10px;
+    }
+}
+
+/* MÓVILES PEQUEÑOS */
+@media (max-width: 420px) {
+    .irode-bank-container {
+        width: calc(100% - 28px);
+    }
+
+    .irode-bank-title {
+        font-size: 39px;
+    }
+
+    .irode-bank-feature-copy h3,
+    .irode-bank-feature-copy p {
+        font-size: 14.5px;
+    }
+
+    .irode-bank-features {
+        padding-left: 42px;
+    }
+
+    .irode-bank-feature-icon {
+        left: -42px;
+        width: 33px;
+        height: 33px;
+    }
+
+    .irode-bank-compatible-label {
+        font-size: 22px;
+    }
+}
+
+/* MÓVILES MUY PEQUEÑOS */
+@media (max-width: 360px) {
+    .irode-bank-feature-copy h3,
+    .irode-bank-feature-copy p {
+        font-size: 14px;
+    }
+}
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 7                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-mes-section irode-mes-more-section">
+    <div class="irode-mes-content">
+
+        <div class="irode-mes-callout-wrap">
+
+            <div class="irode-mes-badge-container">
+                <img class="irode-mes-green-brush" src="https://www.irodetech.com/web/image/42764-011f947e/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2813%29.png?height=256" alt="" loading="lazy" decoding="async">
+
+                <img class="irode-mes-avatar" src="https://www.irodetech.com/web/image/41344-29aafd88/ChatGPT%20Image%2011%20sept%202026%2C%2008_29_18%20a.m..png?height=256" alt="" loading="lazy" decoding="async">
+
+                <img class="irode-mes-smiley-bubble" src="https://www.irodetech.com/web/image/41351-9b1f2934/ChatGPT%20Image%2011%20sept%202026%2C%2008_55_19%20a.m..png?height=256" alt="" loading="lazy" decoding="async">
+            </div>
+
+            <div class="irode-mes-pill-box">
+                <p class="irode-mes-callout-text">
+                    Y eso no es todo...
+                </p>
+            </div>
+
+        </div>
+
+        
+        <div class="irode-mes-more-arrow">
+            <svg viewBox="0 0 120 180" fill="none" aria-hidden="true">
+                <path d="
+                        M100 8
+                        C109 49 89 91 60 111
+                        C42 123 17 113 20 94
+                        C23 74 46 76 53 92
+                        C65 120 40 151 27 166
+                    " stroke="#D6D9DD" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+
+                <path d="M24 147 L27 167 L47 153" stroke="#D6D9DD" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+        </div>
+
+    </div>
+</section>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* RESET */
+.irode-mes-more-section,
+.irode-mes-more-section *,
+.irode-mes-more-section *::before,
+.irode-mes-more-section *::after {
+    box-sizing: border-box;
+}
+
+/* SECCIÓN */
+.irode-mes-more-section {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    background: #ffffff;
+    overflow: hidden;
+}
+
+/* CONTENIDO */
+.irode-mes-more-section .irode-mes-content {
+    width: 100%;
+    position: relative;
+    z-index: 2;
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* BLOQUE DEL COMENTARIO */
+.irode-mes-more-section .irode-mes-callout-wrap {
+    width: 100%;
+    max-width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin: 10px 0;
+    z-index: 8;
+}
+
+.irode-mes-more-section .irode-mes-badge-container {
+    position: relative;
+    width: 200px;
+    height: 100px;
+    flex-shrink: 0;
+    z-index: 3;
+}
+
+/* MANCHA */
+.irode-mes-more-section .irode-mes-green-brush {
+    position: absolute;
+    width: 195px;
+    height: auto;
+    left: -15px;
+    top: 14px;
+    z-index: 1;
+    pointer-events: none;
+    transform: rotate(-4deg);
+}
+
+/* AVATAR */
+.irode-mes-more-section .irode-mes-avatar {
+    position: absolute;
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+    object-fit: cover;
+    left: 18px;
+    top: 22px;
+    z-index: 3;
+    box-shadow: 0 5px 14px rgba(0,0,0,.15);
+    border: 2.5px solid #ffffff;
+}
+
+/* BURBUJA DE LA CARITA */
+.irode-mes-more-section .irode-mes-smiley-bubble {
+    position: absolute;
+    width: 70px;
+    height: auto;
+    left: 68px;
+    top: -10px;
+    z-index: 4;
+    pointer-events: none;
+}
+
+/* PASTILLA BLANCA */
+.irode-mes-more-section .irode-mes-pill-box {
+    background: #ffffff;
+    padding: 14px 28px;
+    border-radius: 45px;
+    box-shadow: 0 12px 30px rgba(20,25,35,.10);
+    z-index: 2;
+    margin-left: -38px;
+    border: 1px solid rgba(0,0,0,.03);
+}
+
+.irode-mes-more-section .irode-mes-callout-text {
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", "Segoe UI", sans-serif;
+    font-size: 17px;
+    line-height: 1.3;
+    font-weight: 400;
+    font-style: italic;
+    color: #101827;
+    text-align: center;
+    white-space: nowrap;
+}
+
+/* FLECHA CURVA */
+.irode-mes-more-section .irode-mes-more-arrow {
+    width: 120px;
+    height: 180px;
+    margin-top: 6px;
+    transform: translateX(-35px);
+    pointer-events: none;
+}
+
+.irode-mes-more-section .irode-mes-more-arrow svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+/* MÓVIL */
+@media (max-width: 768px) {
+    .irode-mes-more-section .irode-mes-callout-wrap {
+        flex-direction: column;
+        margin: 15px 0;
+    }
+
+    .irode-mes-more-section .irode-mes-pill-box {
+        margin-left: 0;
+        margin-top: 14px;
+        padding: 14px 20px;
+        border-radius: 18px;
+        width: min(90vw, 520px);
+    }
+
+    .irode-mes-more-section .irode-mes-callout-text {
+        white-space: normal;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .irode-mes-more-section .irode-mes-more-arrow {
+        width: 105px;
+        height: 158px;
+        margin-top: 6px;
+        transform: translateX(-25px);
+    }
+}
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 8                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-funciones-section">
+    <div class="irode-funciones-container">
+
+        <h2 class="irode-funciones-title">
+            <span class="irode-funciones-title-line">
+                Todas las
+                <span class="irode-funciones-circle-word">
+                    funciones
+                    <svg class="irode-funciones-circle" viewBox="0 0 250 120" preserveAspectRatio="none" aria-hidden="true">
+                        <path d="M22 66 C28 27,76 10,126 10 C175 10,214 24,224 49 C235 77,201 101,148 105 C98 109,47 99,27 80 C23 76,21 71,22 66" fill="none" stroke="#12cabb" stroke-width="6" stroke-linecap="round"></path>
+                        <path d="M31 60 C42 29,82 17,126 17 C168 17,201 29,214 50" fill="none" stroke="#12cabb" stroke-width="3" stroke-linecap="round"></path>
+                    </svg>
+                </span>
+            </span>
+
+            <span class="irode-funciones-title-line">
+                <span class="irode-funciones-underline-word">
+                    bien
+                    <svg class="irode-funciones-underline" viewBox="0 0 120 18" preserveAspectRatio="none" aria-hidden="true">
+                        <path d="M4 11 C30 10,55 10,78 8 C94 8,106 7,116 7" fill="none" stroke="#52b4f2" stroke-width="5" stroke-linecap="round"></path>
+                    </svg>
+                </span>
+                hechas<span class="irode-funciones-blue-dot">.</span>
+            </span>
+        </h2>
+
+        <div class="irode-funciones-grid">
+
+            <div class="irode-funciones-column">
+
+                <article class="irode-funcion-card irode-scroll-card">
+                    <div class="irode-card-corner"></div>
+                    <div class="irode-card-icon">
+                        <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png" alt="" loading="lazy" decoding="async">
+                    </div>
+                    <h3>Compatibilidad mundial</h3>
+                    <p>
+                        Odoo ya está configurado para cumplir con los requisitos de tu país.
+                        Incluye planes de cuentas, impuestos, reportes específicos,
+                        facturación electrónica, archivos de auditoría y posiciones fiscales
+                        para aplicar las tasas impositivas y usar las cuentas correctas en automático.
+                    </p>
+                </article>
+
+                <article class="irode-funcion-card irode-scroll-card">
+                    <div class="irode-card-corner"></div>
+                    <div class="irode-card-icon">
+                        <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png" alt="" loading="lazy" decoding="async">
+                    </div>
+                    <h3>Reportes en tiempo real</h3>
+                    <p>
+                        Los reportes de rendimiento financiero en tiempo real te ayudarán
+                        a tomar decisiones financieras para tu empresa. Además, puedes
+                        agregar notas, exportar e ingresar la información detallada
+                        para cada reporte sin problemas.
+                    </p>
+                </article>
+
+                <article class="irode-funcion-card irode-scroll-card">
+                    <div class="irode-card-corner"></div>
+                    <div class="irode-card-icon">
+                        <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png" alt="" loading="lazy" decoding="async">
+                    </div>
+                    <h3>Facturación electrónica (EDI)</h3>
+                    <p>
+                        Hay varios formatos de archivos EDI disponibles según el país
+                        de tu empresa. Envía y recibe facturas electrónicas en varios
+                        formatos y estándares, como Peppol.
+                        <span class="irode-funciones-purple-text">
+                            Consulta la lista de formatos compatibles.
+                        </span>
+                    </p>
+                </article>
+
+                <a href="https://www.irodetech.com/blindaje-fiscal-en-latinoamerica" target="_blank" rel="noopener noreferrer" class="irode-funciones-link irode-funciones-link-desktop">
+                    <span>Conoce todas las funciones</span>
+                    <span class="irode-funciones-link-arrow" aria-hidden="true">→</span>
+                </a>
+
+            </div>
+
+            <div class="irode-funciones-column">
+
+                <article class="irode-funcion-card irode-scroll-card">
+                    <div class="irode-card-corner"></div>
+                    <div class="irode-card-icon">
+                        <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png" alt="" loading="lazy" decoding="async">
+                    </div>
+                    <h3>Seguimientos automatizados</h3>
+                    <p>
+                        Odoo te ayuda a identificar pagos atrasados y a programar y enviar
+                        recordatorios según el número de días de retraso. También puedes
+                        enviar mensajes de seguimiento por diferentes medios, como
+                        correo electrónico, correo postal o SMS.
+                    </p>
+                </article>
+
+                <article class="irode-funcion-card irode-scroll-card">
+                    <div class="irode-card-corner"></div>
+                    <div class="irode-card-icon">
+                        <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png" alt="" loading="lazy" decoding="async">
+                    </div>
+                    <h3>Ingresos y gastos diferidos</h3>
+                    <p>
+                        Difiere tus ingresos y gastos, ya sea de forma manual o al validar
+                        cada factura. También puedes auditar los asientos de reportes específicos.
+                    </p>
+                </article>
+
+                <article class="irode-funcion-card irode-scroll-card">
+                    <div class="irode-card-corner"></div>
+                    <div class="irode-card-icon">
+                        <img src="https://www.irodetech.com/web/image/41380-05405363/ChatGPT%20Image%2011%20sept%202026%2C%2010_42_14%20a.m..png" alt="" loading="lazy" decoding="async">
+                    </div>
+                    <h3>Impuestos y cuentas dinámicas</h3>
+                    <p>
+                        Sea cual sea la ubicación de tus clientes y proveedores, si tienen
+                        un número de identificación fiscal o si vendes a nivel internacional...
+                        Odoo calculará los impuestos y las cuentas contables correctas.
+                    </p>
+
+                    
+                    <p>
+                        Facilita la <strong>conciliación bancaria</strong> con
+                        <strong>cuentas contables</strong> organizadas según las
+                        necesidades de tu empresa. Con iRODE y Odoo, reúne tus
+                        registros financieros para comparar cobros y pagos con
+                        tus movimientos bancarios, identificar diferencias y
+                        mantener un mejor control de tu contabilidad.
+                    </p>
+                </article>
+
+            </div>
+        </div>
+
+        <div class="irode-funciones-link-mobile-wrap">
+            <a href="https://www.irodetech.com/blindaje-fiscal-en-latinoamerica" target="_blank" rel="noopener noreferrer" class="irode-funciones-link irode-funciones-link-mobile">
+                <span>Conoce todas las funciones</span>
+                <span class="irode-funciones-link-arrow" aria-hidden="true">→</span>
+            </a>
+        </div>
+
+    </div>
+</section>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+.irode-funciones-section,
+.irode-funciones-section *,
+.irode-funciones-section *::before,
+.irode-funciones-section *::after {
+    box-sizing: border-box;
+}
+
+.irode-funciones-section {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    padding: 95px 0 75px;
+    background: #f3f4f6;
+    border-radius: 170px 0 0 0;
+    overflow: hidden;
+}
+
+.irode-funciones-container {
+    width: min(1400px, calc(100% - 240px));
+    margin: 0 auto;
+}
+
+.irode-funciones-title {
+    margin: 0 0 72px;
+    padding: 0;
+    font-family: "Caveat", cursive;
+    font-size: clamp(58px, 4.6vw, 76px);
+    font-weight: 700;
+    line-height: 1.03;
+    letter-spacing: -0.025em;
+    color: #111a2d;
+    text-align: left;
+}
+
+.irode-funciones-title-line {
+    display: block;
+}
+
+.irode-funciones-circle-word {
+    position: relative;
+    display: inline-block;
+    z-index: 2;
+}
+
+.irode-funciones-circle {
+    position: absolute;
+    left: -9%;
+    top: -25%;
+    width: 119%;
+    height: 126%;
+    overflow: visible;
+    z-index: -1;
+    pointer-events: none;
+    transform: rotate(-3deg);
+}
+
+.irode-funciones-underline-word {
+    position: relative;
+    display: inline-block;
+}
+
+.irode-funciones-underline {
+    position: absolute;
+    left: -3%;
+    bottom: -6px;
+    width: 108%;
+    height: 18px;
+    overflow: visible;
+    pointer-events: none;
+}
+
+.irode-funciones-blue-dot {
+    color: #4eb4f2;
+}
+
+.irode-funciones-grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 30px;
+    align-items: start;
+}
+
+.irode-funciones-column {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 25px;
+}
+
+.irode-funcion-card {
+    position: relative;
+    width: 100%;
+    min-height: 168px;
+    padding: 38px 36px 34px;
+    background: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(19, 28, 45, 0.10);
+    font-family: "Inter", Arial, sans-serif;
+    color: #172032;
+    transform-origin: center;
+}
+
+.irode-card-corner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 104px;
+    height: 94px;
+    background: #f7f7f8;
+    border-radius: 0 0 0 48px;
+    z-index: 1;
+    pointer-events: none;
+}
+
+.irode-card-icon {
+    position: absolute;
+    top: 18px;
+    right: 21px;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 3;
+    pointer-events: none;
+}
+
+.irode-card-icon img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    object-fit: contain;
+    display: block;
+    filter: none;
+    transform: none;
+    opacity: 1;
+}
+
+.irode-funcion-card h3 {
+    position: relative;
+    z-index: 2;
+    max-width: calc(100% - 90px);
+    margin: 0 0 22px;
+    padding: 0;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 23px;
+    line-height: 1.25;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+    color: #151d2d;
+}
+
+.irode-funcion-card p {
+    position: relative;
+    z-index: 2;
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.52;
+    font-weight: 400;
+    letter-spacing: -0.012em;
+    color: #252d3c;
+}
+
+/* ESPACIO ENTRE PÁRRAFOS */
+.irode-funcion-card p + p {
+    margin-top: 20px;
+}
+
+.irode-funciones-purple-text {
+    color: #714b67;
+    font-weight: 700;
+}
+
+.irode-funciones-link {
+    width: fit-content;
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+    font-family: "Caveat", cursive;
+    font-size: 29px;
+    line-height: 1;
+    font-weight: 600;
+    color: #744b70;
+    transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.irode-funciones-link:hover {
+    color: #744b70;
+    text-decoration: none;
+    transform: translateX(4px);
+    opacity: 0.88;
+}
+
+.irode-funciones-link-arrow {
+    position: relative;
+    top: -1px;
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.irode-funciones-link-desktop {
+    margin-top: 14px;
+}
+
+.irode-funciones-link-mobile-wrap {
+    display: none;
+}
+
+/* ANIMACIÓN ORIGINAL */
+.irode-funciones-section.irode-animation-ready .irode-scroll-card {
+    opacity: 0;
+    transform: translateY(45px) scale(0.91);
+    transition:
+        opacity 0.75s ease,
+        transform 0.9s cubic-bezier(0.22, 0.78, 0.22, 1),
+        box-shadow 0.8s ease;
+}
+
+.irode-funciones-section.irode-animation-ready .irode-scroll-card.irode-card-visible {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    box-shadow: 0 4px 12px rgba(19, 28, 45, 0.10);
+}
+
+@media (hover: hover) {
+    .irode-funciones-section.irode-animation-ready .irode-scroll-card.irode-card-visible:hover {
+        transform: scale(1.015);
+    }
+}
+
+@media (max-width: 1300px) {
+    .irode-funciones-container {
+        width: calc(100% - 120px);
+    }
+
+    .irode-funciones-title {
+        font-size: clamp(53px, 5vw, 68px);
+        margin-bottom: 62px;
+    }
+
+    .irode-funcion-card {
+        padding: 32px 30px 30px;
+    }
+
+    .irode-funcion-card h3 {
+        font-size: 21px;
+    }
+
+    .irode-funcion-card p {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 992px) {
+    .irode-funciones-section {
+        border-radius: 110px 0 0 0;
+        padding: 75px 0 60px;
+    }
+
+    .irode-funciones-container {
+        width: calc(100% - 44px);
+    }
+
+    .irode-funciones-title {
+        font-size: clamp(58px, 8.5vw, 78px);
+    }
+
+    .irode-funciones-grid {
+        gap: 22px;
+    }
+
+    .irode-card-corner {
+        width: 94px;
+        height: 86px;
+        border-radius: 0 0 0 44px;
+    }
+}
+
+@media (max-width: 768px) {
+    .irode-funciones-section {
+        padding: 58px 0 50px;
+        border-radius: 70px 0 0 0;
+    }
+
+    .irode-funciones-container {
+        width: calc(100% - 32px);
+    }
+
+    .irode-funciones-title {
+        width: 100%;
+        font-size: clamp(49px, 12.8vw, 64px);
+        line-height: 1.02;
+        margin: 0 0 46px;
+        text-align: left;
+    }
+
+    .irode-funciones-grid {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 22px;
+    }
+
+    .irode-funciones-column {
+        gap: 22px;
+    }
+
+    .irode-funcion-card {
+        width: 100%;
+        min-height: auto;
+        padding: 27px 23px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(19, 28, 45, 0.09);
+    }
+
+    .irode-card-corner,
+    .irode-card-icon {
+        display: none !important;
+    }
+
+    .irode-funcion-card h3 {
+        max-width: 100%;
+        margin-bottom: 18px;
+        font-size: 20px;
+        line-height: 1.28;
+        letter-spacing: -0.02em;
+    }
+
+    .irode-funcion-card p {
+        font-size: 16px;
+        line-height: 1.55;
+        letter-spacing: -0.008em;
+    }
+
+    .irode-funciones-link-desktop {
+        display: none;
+    }
+
+    .irode-funciones-link-mobile-wrap {
+        display: flex;
+        width: 100%;
+        justify-content: flex-start;
+        margin-top: 34px;
+    }
+
+    .irode-funciones-link-mobile {
+        font-size: 27px;
+        gap: 10px;
+    }
+
+    .irode-funciones-link-mobile .irode-funciones-link-arrow {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 420px) {
+    .irode-funciones-section {
+        padding: 52px 0 44px;
+        border-radius: 60px 0 0 0;
+    }
+
+    .irode-funciones-container {
+        width: calc(100% - 28px);
+    }
+
+    .irode-funciones-title {
+        font-size: 48px;
+        margin-bottom: 40px;
+    }
+
+    .irode-funciones-grid,
+    .irode-funciones-column {
+        gap: 18px;
+    }
+
+    .irode-funcion-card {
+        padding: 24px 20px;
+    }
+
+    .irode-funcion-card h3 {
+        font-size: 18px;
+        line-height: 1.3;
+        margin-bottom: 16px;
+    }
+
+    .irode-funcion-card p {
+        font-size: 15.5px;
+        line-height: 1.55;
+    }
+
+    .irode-funciones-link-mobile-wrap {
+        margin-top: 30px;
+    }
+
+    .irode-funciones-link-mobile {
+        font-size: 25px;
+    }
+
+    .irode-funciones-link-mobile .irode-funciones-link-arrow {
+        font-size: 29px;
+    }
+}
+
+@media (max-width: 360px) {
+    .irode-funciones-container {
+        width: calc(100% - 24px);
+    }
+
+    .irode-funciones-title {
+        font-size: 44px;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .irode-funciones-section.irode-animation-ready .irode-scroll-card,
+    .irode-funciones-section.irode-animation-ready .irode-scroll-card.irode-card-visible,
+    .irode-funciones-section.irode-animation-ready .irode-scroll-card.irode-card-visible:hover {
+        opacity: 1;
+        transform: none;
+        transition: none;
+    }
+}
+</style>
+
+<script>
+(function () {
+    function iniciarAnimacionIrode() {
+        document.querySelectorAll('.irode-funciones-section').forEach(function (section) {
+            if (section.dataset.irodeAnimationInitialized === 'true') return;
+
+            const cards = section.querySelectorAll('.irode-scroll-card');
+            if (!cards.length) return;
+
+            section.dataset.irodeAnimationInitialized = 'true';
+
+            const reducirMovimiento = window.matchMedia &&
+                window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+            if (!('IntersectionObserver' in window) || reducirMovimiento) {
+                cards.forEach(function (card) {
+                    card.classList.add('irode-card-visible');
+                });
+                return;
+            }
+
+            /* Restablecer las tarjetas antes de iniciar la animación. */
+            cards.forEach(function (card, index) {
+                card.classList.remove(
+                    'irode-card-visible',
+                    'irode-card-pending',
+                    'irode-card-animated'
+                );
+                card.style.transitionDelay = (index * 65) + 'ms';
+            });
+
+            section.classList.add('irode-animation-ready');
+
+            /* Registrar el estado inicial antes de mostrar las tarjetas. */
+            void section.offsetHeight;
+
+            const observer = new IntersectionObserver(function (entries) {
+                entries.forEach(function (entry) {
+                    if (entry.isIntersecting) {
+                        const card = entry.target;
+                        card.classList.add('irode-card-visible');
+                        observer.unobserve(card);
+
+                        /* Evitar retrasos posteriores en el efecto hover. */
+                        window.setTimeout(function () {
+                            card.style.transitionDelay = '0ms';
+                        }, 1000 + parseFloat(card.style.transitionDelay || '0'));
+                    }
+                });
+            }, {
+                threshold: 0.15,
+                rootMargin: '0px 0px -25px 0px'
+            });
+
+            requestAnimationFrame(function () {
+                cards.forEach(function (card) {
+                    observer.observe(card);
+                });
+            });
+        });
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', iniciarAnimacionIrode);
+    } else {
+        iniciarAnimacionIrode();
+    }
+})();
+</script>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                           BANNER 9                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="apps-necesidad-section">
+    <div class="apps-necesidad-container">
+
+        <h2 class="apps-necesidad-title">
+            Una
+            <span class="apps-necesidad-underline">aplicación</span>
+            para cada
+            <span class="apps-necesidad-underline apps-necesidad-underline-2">necesidad</span>.
+        </h2>
+
+        <p class="apps-necesidad-subtitle">
+            Crecemos contigo.
+        </p>
+
+        <div class="apps-necesidad-grid">
+
+            
+            <article class="apps-necesidad-card">
+                <div class="apps-necesidad-icon">
+                    <img src="https://www.irodetech.com/web/image/41413-171ece87/ChatGPT%20Image%2011%20sept%202026%2C%2001_45_25%20p.m..png?height=256" alt="Ventas" class="apps-necesidad-icon-img" loading="lazy">
+                </div>
+
+                <div class="apps-necesidad-card-copy">
+                    <h3>Ventas</h3>
+                    <p>Crea facturas para tus clientes</p>
+                </div>
+            </article>
+
+            
+            <article class="apps-necesidad-card">
+                <div class="apps-necesidad-icon">
+                    <img src="https://www.irodetech.com/web/image/41552-73999c33/ChatGPT%20Image%2014%20sept%202026%2C%2009_59_21%20a.m..png?height=256" alt="Compras" class="apps-necesidad-icon-img" loading="lazy">
+                </div>
+
+                <div class="apps-necesidad-card-copy">
+                    <h3>Compras</h3>
+                    <p>Dale seguimiento a tus facturas</p>
+                </div>
+            </article>
+
+            
+            <article class="apps-necesidad-card">
+                <div class="apps-necesidad-icon">
+                    <img src="https://www.irodetech.com/web/image/42892-9b036d55/Imagen%20de%20ChatGPT%2029%20sept%202026%2C%2003_23_08%20p.m..png?height=256" alt="Gastos" class="apps-necesidad-icon-img" loading="lazy">
+                </div>
+
+                <div class="apps-necesidad-card-copy">
+                    <h3>Gastos</h3>
+                    <p>Monitorea tus gastos y factúralos a las personas correctas</p>
+                </div>
+            </article>
+
+            
+            <article class="apps-necesidad-card">
+                <div class="apps-necesidad-icon">
+                    <img src="https://www.irodetech.com/web/image/41597-8c347ffc/ChatGPT%20Image%2014%20sept%202026%2C%2002_11_12%20p.m..png?height=256" alt="Inventario" class="apps-necesidad-icon-img" loading="lazy">
+                </div>
+
+                <div class="apps-necesidad-card-copy">
+                    <h3>Inventario</h3>
+                    <p>Encárgate de la valuación en tiempo real</p>
+                </div>
+            </article>
+
+            
+            <article class="apps-necesidad-card">
+                <div class="apps-necesidad-icon">
+                    <img src="https://www.irodetech.com/web/image/42891-257f8203/Imagen%20de%20ChatGPT%2029%20sept%202026%2C%2003_23_19%20p.m..png?height=256" alt="Documentos" class="apps-necesidad-icon-img" loading="lazy">
+                </div>
+
+                <div class="apps-necesidad-card-copy">
+                    <h3>Documentos</h3>
+                    <p>Gestiona tus archivos y tu información</p>
+                </div>
+            </article>
+
+        </div>
+
+        <a href="https://www.irodetech.com/modulos-odoo" target="_blank" rel="noopener noreferrer" class="apps-necesidad-link">
+            <span>Conoce todas las aplicaciones</span>
+            <span class="apps-necesidad-arrow" aria-hidden="true">→</span>
+        </a>
+
+    </div>
+</section>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Lato:wght@400;700&display=swap');
+
+/* RESET */
+.apps-necesidad-section,
+.apps-necesidad-section *,
+.apps-necesidad-section *::before,
+.apps-necesidad-section *::after {
+    box-sizing: border-box;
+}
+
+/* SECCIÓN */
+.apps-necesidad-section {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    padding: 78px 0 90px;
+    background: #ffffff;
+    overflow: hidden;
+}
+
+/* CONTENEDOR */
+.apps-necesidad-container {
+    width: min(1575px, calc(100% - 275px));
+    margin: 0 auto;
+}
+
+/* TÍTULO */
+.apps-necesidad-title {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: "Caveat", cursive;
+    font-size: clamp(76px, 5.2vw, 96px);
+    line-height: .98;
+    font-weight: 600;
+    letter-spacing: -.018em;
+    color: #101827;
+    white-space: nowrap;
+}
+
+/* SUBRAYADOS */
+.apps-necesidad-underline {
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+}
+
+.apps-necesidad-underline::after {
+    content: "";
+    position: absolute;
+    left: 1%;
+    bottom: 0;
+    width: 98%;
+    height: 12px;
+    background: #55b5ed;
+    border-radius: 999px;
+    transform: rotate(-1.7deg);
+    z-index: -1;
+}
+
+.apps-necesidad-underline-2::after {
+    left: 1%;
+    width: 98%;
+    transform: rotate(-1.9deg);
+}
+
+/* SUBTÍTULO */
+.apps-necesidad-subtitle {
+    margin: 37px 0 0;
+    padding: 0;
+    font-family: "Lato", Arial, sans-serif;
+    font-size: 29px;
+    line-height: 1.35;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    color: #4a5568;
+}
+
+/* GRID */
+.apps-necesidad-grid {
+    width: 100%;
+    margin-top: 64px;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 28px 30px;
+}
+
+/* TARJETAS Y ANIMACIÓN ORIGINAL */
+.apps-necesidad-card {
+    width: 100%;
+    min-height: 102px;
+    display: flex;
+    align-items: center;
+    padding: 12px 18px;
+    background: #f7f8f9;
+    border-radius: 4px;
+    transition: transform .22s ease, box-shadow .22s ease;
+}
+
+@media (hover: hover) {
+    .apps-necesidad-card:hover {
+        transform: translateY(-7px);
+        box-shadow: 0 10px 24px rgba(20,30,45,.10);
+    }
+}
+
+/* ICONOS */
+.apps-necesidad-icon {
+    width: 72px;
+    height: 72px;
+    flex: 0 0 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff;
+    border-radius: 4px;
+    box-shadow: 0 2px 7px rgba(20,30,45,.10);
+}
+
+.apps-necesidad-icon-img {
+    width: 52px;
+    height: 52px;
+    display: block;
+    object-fit: contain;
+}
+
+/* TEXTO DE LAS TARJETAS */
+.apps-necesidad-card-copy {
+    min-width: 0;
+    padding-left: 19px;
+    font-family: "Lato", Arial, sans-serif;
+}
+
+.apps-necesidad-card-copy h3 {
+    margin: 0 0 6px;
+    padding: 0;
+    font-family: "Lato", Arial, sans-serif;
+    font-size: 22px;
+    line-height: 1.12;
+    font-weight: 700;
+    letter-spacing: -.01em;
+    color: #101827;
+}
+
+.apps-necesidad-card-copy p {
+    margin: 0;
+    padding: 0;
+    font-family: "Lato", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.42;
+    font-weight: 400;
+    letter-spacing: -.005em;
+    color: #697487;
+}
+
+/* ENLACE INFERIOR */
+.apps-necesidad-link {
+    width: fit-content;
+    margin-top: 58px;
+    display: inline-flex;
+    align-items: center;
+    gap: 13px;
+    font-family: "Caveat", cursive;
+    font-size: 32px;
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: -.01em;
+    color: #7b4e70 !important;
+    text-decoration: none !important;
+    transition: transform .2s ease, opacity .2s ease;
+}
+
+.apps-necesidad-link:hover {
+    color: #7b4e70 !important;
+    text-decoration: none !important;
+    transform: translateX(4px);
+    opacity: .9;
+}
+
+.apps-necesidad-arrow {
+    position: relative;
+    top: -1px;
+    font-family: Arial, sans-serif;
+    font-size: 41px;
+    line-height: .8;
+    font-weight: 400;
+}
+
+/* LAPTOP */
+@media (max-width: 1400px) {
+    .apps-necesidad-container {
+        width: calc(100% - 150px);
+    }
+
+    .apps-necesidad-title {
+        font-size: clamp(68px, 5vw, 84px);
+        white-space: nowrap;
+    }
+
+    .apps-necesidad-subtitle {
+        font-size: 25px;
+    }
+
+    .apps-necesidad-card {
+        min-height: 96px;
+    }
+
+    .apps-necesidad-icon {
+        width: 68px;
+        height: 68px;
+        flex-basis: 68px;
+    }
+
+    .apps-necesidad-icon-img {
+        width: 48px;
+        height: 48px;
+    }
+
+    .apps-necesidad-card-copy h3 {
+        font-size: 20px;
+    }
+
+    .apps-necesidad-card-copy p {
+        font-size: 15px;
+    }
+}
+
+/* TABLET */
+@media (max-width: 1050px) {
+    .apps-necesidad-section {
+        padding: 68px 0 70px;
+    }
+
+    .apps-necesidad-container {
+        width: calc(100% - 60px);
+    }
+
+    .apps-necesidad-title {
+        font-size: clamp(54px, 7vw, 70px);
+        white-space: nowrap;
+    }
+
+    .apps-necesidad-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+/* MÓVIL */
+@media (max-width: 768px) {
+    .apps-necesidad-section {
+        padding: 60px 0 55px;
+    }
+
+    .apps-necesidad-container {
+        width: calc(100% - 34px);
+        margin: 0 auto;
+    }
+
+    .apps-necesidad-title {
+        width: 100%;
+        max-width: 100%;
+        font-size: clamp(54px, 14vw, 70px);
+        line-height: 1.02;
+        font-weight: 600;
+        letter-spacing: -.025em;
+        white-space: normal;
+    }
+
+    .apps-necesidad-underline::after {
+        height: 7px;
+        bottom: 0;
+    }
+
+    .apps-necesidad-subtitle {
+        margin-top: 45px;
+        font-size: 24px;
+        line-height: 1.35;
+    }
+
+    .apps-necesidad-grid {
+        margin-top: 88px;
+        display: flex;
+        flex-direction: column;
+        gap: 22px;
+    }
+
+    .apps-necesidad-card {
+        min-height: 116px;
+        padding: 15px 17px;
+    }
+
+    .apps-necesidad-icon {
+        width: 82px;
+        height: 82px;
+        flex: 0 0 82px;
+    }
+
+    .apps-necesidad-icon-img {
+        width: 59px;
+        height: 59px;
+    }
+
+    .apps-necesidad-card-copy {
+        padding-left: 18px;
+    }
+
+    .apps-necesidad-card-copy h3 {
+        margin-bottom: 8px;
+        font-size: 27px;
+    }
+
+    .apps-necesidad-card-copy p {
+        font-size: 16px;
+        line-height: 1.48;
+    }
+
+    .apps-necesidad-link {
+        margin-top: 44px;
+        font-size: 31px;
+    }
+
+    .apps-necesidad-arrow {
+        font-size: 36px;
+    }
+}
+
+/* MÓVILES PEQUEÑOS */
+@media (max-width: 420px) {
+    .apps-necesidad-container {
+        width: calc(100% - 30px);
+    }
+
+    .apps-necesidad-title {
+        font-size: 54px;
+        line-height: 1.02;
+        white-space: normal;
+    }
+
+    .apps-necesidad-subtitle {
+        margin-top: 42px;
+        font-size: 20px;
+    }
+
+    .apps-necesidad-grid {
+        margin-top: 70px;
+        gap: 19px;
+    }
+
+    .apps-necesidad-card {
+        min-height: 106px;
+        padding: 13px 14px;
+    }
+
+    .apps-necesidad-icon {
+        width: 74px;
+        height: 74px;
+        flex-basis: 74px;
+    }
+
+    .apps-necesidad-icon-img {
+        width: 53px;
+        height: 53px;
+    }
+
+    .apps-necesidad-card-copy {
+        padding-left: 15px;
+    }
+
+    .apps-necesidad-card-copy h3 {
+        font-size: 20px;
+    }
+
+    .apps-necesidad-card-copy p {
+        font-size: 14.5px;
+    }
+
+    .apps-necesidad-link {
+        font-size: 24px;
+    }
+}
+
+/* MÓVILES MUY PEQUEÑOS */
+@media (max-width: 360px) {
+    .apps-necesidad-container {
+        width: calc(100% - 24px);
+    }
+
+    .apps-necesidad-title {
+        font-size: 50px;
+        line-height: 1.02;
+        white-space: normal;
+    }
+
+    .apps-necesidad-subtitle {
+        font-size: 18px;
+    }
+
+    .apps-necesidad-card {
+        min-height: 98px;
+        padding: 11px;
+    }
+
+    .apps-necesidad-icon {
+        width: 66px;
+        height: 66px;
+        flex-basis: 66px;
+    }
+
+    .apps-necesidad-icon-img {
+        width: 47px;
+        height: 47px;
+    }
+
+    .apps-necesidad-card-copy h3 {
+        font-size: 18px;
+    }
+
+    .apps-necesidad-card-copy p {
+        font-size: 13.5px;
+    }
+}
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 10                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&amp;family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+
+<section class="irode-software-section">
+    <div class="irode-software-container">
+
+        <h2 class="irode-software-title">
+            Un
+            <span class="irode-software-circle-word">
+                software
+                <svg class="irode-software-circle" viewBox="0 0 100 50" preserveAspectRatio="none" aria-hidden="true">
+                    <ellipse
+                        cx="50"
+                        cy="25"
+                        rx="46"
+                        ry="22"
+                        fill="none"
+                        stroke="#00E6B8"
+                        stroke-width="3"
+                        transform="rotate(-3 50 25)">
+                    </ellipse>
+                </svg>
+            </span>
+            empresarial<br>
+            <span class="irode-software-underlined">bien</span>
+            hecho<span class="irode-software-dot">.</span>
+        </h2>
+
+        <div class="irode-software-grid">
+
+            <div class="irode-software-column">
+
+                <article class="irode-software-card">
+                    <h3>Código abierto con respaldo local</h3>
+
+                    <p>
+                        Para crear esta tecnología, Odoo colabora con una comunidad
+                        de más de 100,000 desarrolladores en todo el mundo.
+                        Nos une el objetivo de transformar a las empresas y
+                        empoderar a sus colaboradores.
+                    </p>
+
+                    <p>
+                        Al elegir a <strong>iRODE TECHNOLOGY</strong> como tu
+                        Partner Odoo, unes el poder de este ecosistema global
+                        con la experiencia de consultores especialistas que
+                        entienden el mercado Latinoamericano y aseguran una
+                        implementación exitosa.
+                    </p>
+
+                    <a
+                        href="https://wa.me/50252121225?text=Hola%20equipo%20iRODE%2C%20vengo%20de%20la%20p%C3%A1gina%20%E2%80%9CContabilidad%20sin%20complicaciones%E2%80%9D%20y%20me%20gustar%C3%ADa%20hablar%20con%20un%20consultor%20sobre%20una%20soluci%C3%B3n%20Odoo%20para%20llevar%20la%20contabilidad%20de%20mi%20empresa."
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="irode-software-button">
+                        Habla con un consultor
+                    </a>
+                </article>
+
+                <article class="irode-software-card">
+                    <h3>Personalización sin límites</h3>
+
+                    <p>
+                        Usa la aplicación Studio de Odoo para automatizar
+                        acciones, personalizar pantallas y elaborar tus propios
+                        reportes. Nuestro equipo técnico se encarga de adaptar
+                        estos flujos de trabajo a las normativas y procesos
+                        específicos de tu industria.
+                    </p>
+                </article>
+
+            </div>
+
+            <div class="irode-software-column">
+
+                <article class="irode-software-card">
+                    <h3>Sin restricciones</h3>
+
+                    <p>
+                        Tus datos te pertenecen. No hay datos de formato
+                        propietario, solo PostgreSQL. Puedes elegir alojar
+                        el sistema en la infraestructura segura de Odoo en la
+                        nube o, si las políticas de tu empresa lo requieren,
+                        hacerlo de forma local (On-Premise) con nuestra asistencia.
+                    </p>
+                </article>
+
+                <article class="irode-software-card">
+                    <h3>Excelente precio</h3>
+
+                    <p>
+                        Sin precios basados en el uso, sin venta de funciones
+                        adicionales por separado y sin contratos a largo plazo
+                        limitantes. Disfruta de un solo precio por usuario con
+                        acceso a todas las aplicaciones. Optimizamos tu inversión
+                        para que la transición digital sea rentable desde el
+                        primer día.
+                    </p>
+
+                    <a
+                        href="https://wa.me/50252121225?text=Hola%20equipo%20iRODE%2C%20vengo%20de%20la%20p%C3%A1gina%20%E2%80%9CContabilidad%20sin%20complicaciones%E2%80%9D%20y%20me%20gustar%C3%ADa%20conocer%20los%20precios%20de%20una%20soluci%C3%B3n%20Odoo%20para%20gestionar%20la%20contabilidad%20de%20mi%20empresa."
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="irode-software-button">
+                        Consulta los precios
+                    </a>
+                </article>
+
+                <article class="irode-software-card">
+                    <h3>Una propuesta de valor único</h3>
+
+                    <p>
+                        Odoo es el único software que combina una altísima
+                        facilidad de uso con una amplia cobertura de necesidades
+                        comerciales (Business Scope). Ya no tienes que elegir
+                        entre un sistema robusto o uno intuitivo; con iRODE
+                        obtienes ambos.
+                    </p>
+                </article>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<style>
+.irode-software-section,
+.irode-software-section *,
+.irode-software-section *::before,
+.irode-software-section *::after {
+    box-sizing: border-box;
+}
+
+/* FONDO DE EXTREMO A EXTREMO, SIN MÁRGENES LATERALES */
+.irode-software-section {
+    position: relative;
+    width: 100vw;
+    max-width: none !important;
+    left: 50%;
+    margin-left: -50vw !important;
+    margin-right: -50vw !important;
+    padding: 64px 0;
+    background: #f8f9fa;
+    font-family: "Inter", Arial, sans-serif;
+    overflow: hidden;
+    isolation: isolate;
+}
+
+.irode-software-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 32px;
+    text-align: left !important;
+}
+
+/* TÍTULO */
+.irode-software-title {
+    margin: 0 0 56px;
+    padding: 0;
+    font-family: "Caveat", cursive, sans-serif;
+    font-size: 4.5rem;
+    line-height: 1.1;
+    font-weight: 700;
+    color: #111827;
+    text-align: left !important;
+    display: block;
+}
+
+.irode-software-circle-word {
+    position: relative;
+    display: inline-block;
+    white-space: nowrap;
+    z-index: 0;
+}
+
+.irode-software-circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 125%;
+    height: 140%;
+    overflow: visible;
+    z-index: -1;
+    pointer-events: none;
+}
+
+.irode-software-underlined {
+    position: relative;
+    display: inline-block;
+}
+
+.irode-software-underlined::after {
+    content: "";
+    position: absolute;
+    bottom: 4px;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    background: #55B4F4;
+    border-radius: 4px;
+    transform: rotate(-1deg);
+}
+
+.irode-software-dot {
+    color: #55B4F4;
+}
+
+/* DOS COLUMNAS EN COMPUTADORAS */
+.irode-software-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 32px;
+    align-items: start;
+    text-align: left !important;
+}
+
+.irode-software-column {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    min-width: 0;
+}
+
+/* TARJETAS */
+.irode-software-card {
+    width: 100%;
+    min-width: 0;
+    padding: 40px;
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, .03);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start !important;
+    text-align: left !important;
+}
+
+.irode-software-card h3 {
+    width: 100%;
+    margin: 0 0 16px;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 1.45rem;
+    line-height: 1.35;
+    font-weight: 600;
+    color: #111827;
+    text-align: left !important;
+    overflow-wrap: break-word;
+}
+
+.irode-software-card p {
+    width: 100%;
+    margin: 0;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: #4b5563;
+    text-align: left !important;
+    overflow-wrap: break-word;
+}
+
+.irode-software-card p + p {
+    margin-top: 16px;
+}
+
+/* BOTONES */
+.irode-software-button {
+    display: inline-block;
+    width: fit-content;
+    max-width: 100%;
+    margin-top: 24px;
+    padding: 10px 24px;
+    border: 0;
+    border-radius: 6px;
+    background: #714B67;
+    color: #ffffff;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: .95rem;
+    line-height: 1.4;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    white-space: normal;
+    transition: background-color .3s ease;
+}
+
+.irode-software-button:hover {
+    background: #5d3d55;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* TABLETS */
+@media (max-width: 992px) {
+    .irode-software-container {
+        padding: 0 24px;
+    }
+
+    .irode-software-title {
+        font-size: 59px;
+        margin-bottom: 44px;
+    }
+
+    .irode-software-grid,
+    .irode-software-column {
+        gap: 24px;
+    }
+
+    .irode-software-card {
+        padding: 28px;
+    }
+}
+
+/* MÓVILES */
+@media (max-width: 767px) {
+    .irode-software-section {
+        padding: 45px 0;
+    }
+
+    .irode-software-container {
+        max-width: none;
+        padding: 0 16px;
+    }
+
+    .irode-software-title {
+        font-size: clamp(38px, 10.5vw, 52px);
+        line-height: 1.08;
+        margin-bottom: 36px;
+    }
+
+    .irode-software-grid {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 20px;
+    }
+
+    .irode-software-column {
+        gap: 20px;
+    }
+
+    .irode-software-card {
+        padding: 24px;
+        border-radius: 12px;
+    }
+
+    .irode-software-card h3 {
+        font-size: 20px;
+        margin-bottom: 14px;
+    }
+
+    .irode-software-card p {
+        font-size: 15.5px;
+        line-height: 1.6;
+    }
+
+    .irode-software-button {
+        padding: 11px 20px;
+        font-size: 14px;
+        margin-top: 20px;
+    }
+}
+
+/* MÓVILES PEQUEÑOS */
+@media (max-width: 420px) {
+    .irode-software-container {
+        padding: 0 14px;
+    }
+
+    .irode-software-title {
+        font-size: 39px;
+    }
+
+    .irode-software-card {
+        padding: 22px 20px;
+    }
+
+    .irode-software-card h3 {
+        font-size: 18px;
+    }
+
+    .irode-software-card p {
+        font-size: 14.5px;
+    }
+}
+
+@media (max-width: 360px) {
+    .irode-software-title {
+        font-size: 36px;
+    }
+
+    .irode-software-card p {
+        font-size: 14px;
+    }
+}
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 11                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="banner-imagen-full">
+
+    <div class="banner-imagen-full-contenedor">
+
+        <img src="https://www.irodetech.com/web/image/41431-ea303f85/ChatGPT%20Image%2011%20sept%202026%2C%2002_38_24%20p.m..png" alt="" class="banner-imagen-full-img" loading="eager" fetchpriority="high" decoding="async">
+
+    </div>
+
+</section>
+
+
+<style>
+
+/* =========================================================
+   BANNER
+========================================================= */
+
+.banner-imagen-full {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    padding:
+        30px
+        0;
+
+    background: #ffffff;
+
+    box-sizing: border-box;
+
+    overflow: hidden;
+}
+
+
+/* =========================================================
+   CONTENEDOR
+   MARGEN A AMBOS LADOS
+========================================================= */
+
+.banner-imagen-full-contenedor {
+
+    width:
+        min(
+            1680px,
+            calc(100% - 120px)
+        );
+
+    margin:
+        0 auto;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   IMAGEN
+   SIN RECORTES Y EN MÁXIMA CALIDAD
+========================================================= */
+
+.banner-imagen-full-img {
+
+    width: 100%;
+
+    max-width: 100%;
+
+    height: auto;
+
+    display: block;
+
+    object-fit: contain;
+
+    object-position: center center;
+
+    image-rendering: auto;
+
+    filter: none !important;
+
+    transform: none !important;
+
+    opacity: 1;
+
+    backface-visibility: hidden;
+
+    -webkit-backface-visibility: hidden;
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1400px) {
+
+    .banner-imagen-full-contenedor {
+
+        width:
+            calc(100% - 90px);
+    }
+
+}
+
+
+/* =========================================================
+   OCULTAR COMPLETAMENTE EN MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .banner-imagen-full {
+
+        display: none !important;
+    }
+
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 12                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="testimonio-seccion">
+
+    <div class="testimonio-banner">
+
+
+        
+
+        <img src="https://www.irodetech.com/web/image/41384-8ddbd975/ChatGPT%20Image%2011%20sept%202026%2C%2011_09_46%20a.m..png" alt="Comillas" class="testimonio-comillas" loading="lazy">
+
+
+        
+
+        <div class="testimonio-contenedor">
+
+
+            
+
+            <div class="testimonio-texto">
+
+                <p>
+                    El cierre de impuestos solía tomar 4 días, pero ahora lo hacemos en 3 horas con Odoo. Además le damos un mejor servicio a nuestros clientes: contabilidad en tiempo real.
+                </p>
+
+            </div>
+
+
+            
+
+            <div class="testimonio-persona">
+
+
+                
+
+                <img src="https://www.irodetech.com/web/image/42778-9a296f3a/ChatGPT%20Image%20Sep%2028%2C%202026%2C%2004_48_56%20PM.png?height=256" alt="Muhammad Ali Ariansyah" class="testimonio-avatar" loading="lazy">
+
+
+                
+
+                <h3>
+                    Wim Van den Brande
+                </h3>
+
+
+                
+
+                <p class="testimonio-cargo">
+                    Director del departamento de impuestos, legal y contabilidad de KPMG
+                </p>
+
+
+                
+
+                <div class="testimonio-logo-wrap">
+
+                    <img src="https://www.irodetech.com/web/image/42768-7ae1575a/kpmg_logo.svg?height=256" alt="Abuba Steak" class="testimonio-logo" loading="lazy">
+
+                </div>
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<style>
+
+/* =========================================
+   RESET
+========================================= */
+
+.testimonio-seccion,
+.testimonio-seccion *,
+.testimonio-seccion *::before,
+.testimonio-seccion *::after {
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================
+   FONDO GENERAL
+========================================= */
+
+.testimonio-seccion {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    background: #ffffff;
+
+    overflow: hidden;
+
+    padding:
+        45px
+        0
+        55px;
+}
+
+
+/* =========================================
+   CONTENEDOR GENERAL
+========================================= */
+
+.testimonio-banner {
+
+    width: 100%;
+
+    max-width: 1560px;
+
+    margin:
+        0
+        auto;
+
+    padding:
+        0
+        100px;
+
+    position:
+        relative;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    background:
+        transparent;
+}
+
+
+/* =========================================
+   TARJETA PRINCIPAL
+========================================= */
+
+.testimonio-contenedor {
+
+    width:
+        100%;
+
+    min-height:
+        320px;
+
+    background:
+        #f2f3f5;
+
+    border-radius:
+        14px;
+
+    display:
+        flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        space-between;
+
+    padding:
+        55px
+        68px
+        52px;
+}
+
+
+/* =========================================
+   COMILLAS
+========================================= */
+
+.testimonio-comillas {
+
+    position:
+        absolute;
+
+    top:
+        -35px;
+
+    left:
+        155px;
+
+    width:
+        72px;
+
+    height:
+        auto;
+
+    object-fit:
+        contain;
+
+    z-index:
+        2;
+}
+
+
+/* =========================================
+   TEXTO PRINCIPAL
+========================================= */
+
+.testimonio-texto {
+
+    width:
+        70%;
+
+    max-width:
+        940px;
+}
+
+
+.testimonio-texto p {
+
+    margin:
+        0;
+
+    font-size:
+        27px;
+
+    line-height:
+        1.48;
+
+    font-weight:
+        700;
+
+    color:
+        #07162e;
+
+    letter-spacing:
+        -0.35px;
+}
+
+
+/* =========================================
+   PERFIL
+========================================= */
+
+.testimonio-persona {
+
+    width:
+        25%;
+
+    min-width:
+        250px;
+
+    display:
+        flex;
+
+    flex-direction:
+        column;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    text-align:
+        center;
+
+    margin-top:
+        -20px;
+}
+
+
+/* =========================================
+   AVATAR
+========================================= */
+
+.testimonio-avatar {
+
+    width:
+        100px;
+
+    height:
+        100px;
+
+    border-radius:
+        50%;
+
+    object-fit:
+        cover;
+
+    object-position:
+        center;
+
+    display:
+        block;
+
+    margin-bottom:
+        20px;
+}
+
+
+/* =========================================
+   NOMBRE
+========================================= */
+
+.testimonio-persona h3 {
+
+    margin:
+        0
+        0
+        7px;
+
+    padding:
+        0;
+
+    color:
+        #00122e;
+
+    font-size:
+        18px;
+
+    line-height:
+        1.2;
+
+    font-weight:
+        700;
+}
+
+
+/* =========================================
+   CARGO
+========================================= */
+
+.testimonio-cargo {
+
+    margin:
+        0;
+
+    max-width:
+        260px;
+
+    color:
+        #00122e;
+
+    font-size:
+        15px;
+
+    line-height:
+        1.4;
+
+    font-weight:
+        400;
+}
+
+
+/* =========================================
+   LOGO EMPRESA
+========================================= */
+
+.testimonio-logo-wrap {
+
+    margin-top:
+        20px;
+
+    min-width:
+        115px;
+
+    min-height:
+        62px;
+
+    padding:
+        8px
+        12px;
+
+    display:
+        flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    background:
+        #ffffff;
+
+    border-radius:
+        5px;
+
+    box-shadow:
+        0
+        8px
+        18px
+        rgba(15,23,42,.10);
+}
+
+
+.testimonio-logo {
+
+    width:
+        auto;
+
+    max-width:
+        105px;
+
+    max-height:
+        48px;
+
+    height:
+        auto;
+
+    display:
+        block;
+
+    object-fit:
+        contain;
+
+    object-position:
+        center;
+
+    image-rendering:
+        auto;
+
+    transform:
+        none;
+
+    filter:
+        none;
+}
+
+
+/* =========================================
+   TABLET
+========================================= */
+
+@media (max-width: 1100px) {
+
+    .testimonio-seccion {
+
+        padding:
+            38px
+            0
+            48px;
+    }
+
+
+    .testimonio-banner {
+
+        padding:
+            0
+            60px;
+    }
+
+
+    .testimonio-contenedor {
+
+        min-height:
+            290px;
+
+        padding:
+            45px
+            40px;
+    }
+
+
+    .testimonio-comillas {
+
+        left:
+            100px;
+
+        width:
+            62px;
+    }
+
+
+    .testimonio-texto {
+
+        width:
+            67%;
+
+        max-width:
+            none;
+    }
+
+
+    .testimonio-texto p {
+
+        font-size:
+            22px;
+
+        line-height:
+            1.5;
+    }
+
+
+    .testimonio-persona {
+
+        width:
+            28%;
+
+        min-width:
+            210px;
+    }
+
+
+    .testimonio-avatar {
+
+        width:
+            82px;
+
+        height:
+            82px;
+    }
+
+
+    .testimonio-persona h3 {
+
+        font-size:
+            15px;
+    }
+
+
+    .testimonio-cargo {
+
+        font-size:
+            13px;
+    }
+
+
+    .testimonio-logo-wrap {
+
+        margin-top:
+            15px;
+
+        min-width:
+            100px;
+
+        min-height:
+            54px;
+    }
+
+
+    .testimonio-logo {
+
+        max-width:
+            90px;
+
+        max-height:
+            40px;
+    }
+
+}
+
+
+/* =========================================
+   MÓVIL
+========================================= */
+
+@media (max-width: 767px) {
+
+    .testimonio-seccion {
+
+        padding:
+            35px
+            0;
+    }
+
+
+    .testimonio-banner {
+
+        margin:
+            0;
+
+        padding:
+            0
+            30px;
+    }
+
+
+    .testimonio-contenedor {
+
+        min-height:
+            auto;
+
+        padding:
+            52px
+            24px
+            30px;
+
+        flex-direction:
+            column;
+
+        align-items:
+            flex-start;
+
+        border-radius:
+            13px;
+    }
+
+
+    .testimonio-comillas {
+
+        width:
+            52px;
+
+        top:
+            -24px;
+
+        left:
+            52px;
+    }
+
+
+    .testimonio-texto {
+
+        width:
+            100%;
+
+        max-width:
+            none;
+    }
+
+
+    .testimonio-texto p {
+
+        font-size:
+            18px;
+
+        line-height:
+            1.48;
+
+        letter-spacing:
+            -0.1px;
+    }
+
+
+    .testimonio-persona {
+
+        width:
+            100%;
+
+        min-width:
+            0;
+
+        margin-top:
+            34px;
+
+        align-items:
+            flex-start;
+
+        text-align:
+            left;
+
+        position:
+            relative;
+
+        padding-left:
+            72px;
+
+        min-height:
+            120px;
+    }
+
+
+    .testimonio-avatar {
+
+        position:
+            absolute;
+
+        left:
+            0;
+
+        top:
+            0;
+
+        width:
+            56px;
+
+        height:
+            56px;
+
+        margin:
+            0;
+    }
+
+
+    .testimonio-persona h3 {
+
+        font-size:
+            14px;
+    }
+
+
+    .testimonio-cargo {
+
+        max-width:
+            240px;
+
+        font-size:
+            12px;
+    }
+
+
+    .testimonio-logo-wrap {
+
+        margin-top:
+            14px;
+
+        min-width:
+            92px;
+
+        min-height:
+            48px;
+
+        padding:
+            6px
+            10px;
+    }
+
+
+    .testimonio-logo {
+
+        max-width:
+            82px;
+
+        max-height:
+            36px;
+    }
+
+}
+
+
+/* =========================================
+   MÓVILES PEQUEÑOS
+========================================= */
+
+@media (max-width: 480px) {
+
+    .testimonio-seccion {
+
+        padding:
+            30px
+            0;
+    }
+
+
+    .testimonio-banner {
+
+        padding:
+            0
+            26px;
+    }
+
+
+    .testimonio-contenedor {
+
+        padding:
+            46px
+            20px
+            28px;
+    }
+
+
+    .testimonio-texto p {
+
+        font-size:
+            17px;
+
+        line-height:
+            1.5;
+    }
+
+
+    .testimonio-comillas {
+
+        left:
+            46px;
+
+        width:
+            48px;
+    }
+
+}
+
+</style>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                          BANNER 13                                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+<section class="irode-revolucion-section">
+
+    <div class="irode-revolucion-container">
+
+        
+        <img class="irode-revolucion-rays irode-revolucion-rays-left" src="https://www.irodetech.com/web/image/41392-255dec44/ChatGPT%20Image%2011%20sept%202026%2C%2011_46_01%20a.m..png?height=256" alt="" loading="lazy">
+
+        
+        <img class="irode-revolucion-rays irode-revolucion-rays-right" src="https://www.irodetech.com/web/image/41393-677eebb7/ChatGPT%20Image%2011%20sept%202026%2C%2011_47_09%20a.m..png?height=256" alt="" loading="lazy">
+
+        
+        <h2 class="irode-revolucion-title">
+
+            <span>
+                Libera
+            </span>
+
+            <span>
+                tu
+                <strong class="irode-revolucion-accent">
+                    potencial de crecimiento
+                </strong>
+            </span>
+
+        </h2>
+
+        
+        <a href="https://www.irodetech.com/appointment/8" class="irode-revolucion-btn" target="_blank" rel="noopener">
+
+            Comienza ahora
+
+        </a>
+
+        
+        <div class="irode-revolucion-bottom">
+
+            <div class="irode-revolucion-arrow">
+                ↓
+            </div>
+
+            <p>
+                No necesitas tarjeta de crédito
+            </p>
+
+            <p>
+                Recibe acceso instantáneo
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<style>
+
+@import url(
+    'https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap'
+);
+
+
+/* =========================================================
+   RESET
+========================================================= */
+
+.irode-revolucion-section,
+.irode-revolucion-section *,
+.irode-revolucion-section *::before,
+.irode-revolucion-section *::after {
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================================
+   SECCIÓN
+========================================================= */
+
+.irode-revolucion-section {
+
+    width: 100vw;
+
+    position: relative;
+
+    left: 50%;
+
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    padding: 0;
+
+    background: #ffffff;
+
+    overflow: hidden;
+}
+
+
+/* =========================================================
+   CONTENEDOR
+========================================================= */
+
+.irode-revolucion-container {
+
+    width: 100%;
+
+    height: 690px;
+
+    position: relative;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    padding:
+        0
+        20px;
+
+    background: #ffffff;
+}
+
+
+/* =========================================================
+   TÍTULO
+========================================================= */
+
+.irode-revolucion-title {
+
+    position: relative;
+
+    z-index: 5;
+
+    margin:
+        218px
+        0
+        66px;
+
+    padding: 0;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    font-family:
+        "Caveat",
+        cursive;
+
+    font-size: 100px;
+
+    line-height: 1;
+
+    font-weight: 600;
+
+    letter-spacing: -.025em;
+
+    text-align: center;
+
+    color: #101827;
+}
+
+
+.irode-revolucion-title span {
+
+    display: block;
+}
+
+
+/* =========================================================
+   TEXTO TURQUESA
+========================================================= */
+
+.irode-revolucion-accent {
+
+    color: #09cdb1;
+
+    font: inherit;
+
+    font-weight: inherit;
+}
+
+
+/* =========================================================
+   RAYITOS
+========================================================= */
+
+.irode-revolucion-rays {
+
+    position: absolute;
+
+    height: auto;
+
+    object-fit: contain;
+
+    pointer-events: none;
+
+    z-index: 2;
+}
+
+
+/* IZQUIERDA */
+
+.irode-revolucion-rays-left {
+
+    width: 250px;
+
+    left:
+        calc(50% - 390px);
+
+    top: 105px;
+}
+
+
+/* DERECHA */
+
+.irode-revolucion-rays-right {
+
+    width: 135px;
+
+    left:
+        calc(50% + 255px);
+
+    top: 145px;
+}
+
+
+/* =========================================================
+   BOTÓN
+========================================================= */
+
+.irode-revolucion-btn {
+
+    width: 365px;
+
+    height: 77px;
+
+    flex-shrink: 0;
+
+    position: relative;
+
+    z-index: 5;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    padding:
+        0
+        28px;
+
+    border: 0;
+
+    border-radius: 5px;
+
+    background: #795472;
+
+    color: #ffffff !important;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    font-size: 23px;
+
+    line-height: 1;
+
+    font-weight: 700;
+
+    text-align: center;
+
+    text-decoration: none !important;
+
+    box-shadow: none;
+
+    transition:
+        transform .18s ease,
+        background .18s ease,
+        box-shadow .18s ease;
+}
+
+
+.irode-revolucion-btn:hover {
+
+    background: #684760;
+
+    color: #ffffff !important;
+
+    text-decoration: none !important;
+
+    transform:
+        translateY(-2px);
+
+    box-shadow:
+        0
+        10px
+        24px
+        rgba(75,50,72,.14);
+}
+
+
+/* =========================================================
+   BLOQUE INFERIOR
+========================================================= */
+
+.irode-revolucion-bottom {
+
+    position: relative;
+
+    z-index: 5;
+
+    margin-top: 12px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    font-family:
+        "Inter",
+        Arial,
+        sans-serif;
+
+    color: #374255;
+}
+
+
+/* =========================================================
+   FLECHA
+========================================================= */
+
+.irode-revolucion-arrow {
+
+    height: 48px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    margin:
+        0
+        0
+        6px;
+
+    font-family:
+        Arial,
+        sans-serif;
+
+    font-size: 46px;
+
+    line-height: 1;
+
+    font-weight: 700;
+
+    color: #09cdb1;
+}
+
+
+/* =========================================================
+   TEXTOS
+========================================================= */
+
+.irode-revolucion-bottom p {
+
+    margin: 0;
+
+    padding: 0;
+
+    font-size: 18px;
+
+    line-height: 1.55;
+
+    font-weight: 400;
+
+    text-align: center;
+}
+
+
+.irode-revolucion-bottom p + p {
+
+    margin-top: 0;
+}
+
+
+/* =========================================================
+   LAPTOP
+========================================================= */
+
+@media (max-width: 1400px) {
+
+    .irode-revolucion-container {
+
+        height: 630px;
+    }
+
+
+    .irode-revolucion-title {
+
+        margin-top: 185px;
+
+        margin-bottom: 58px;
+
+        font-size:
+            clamp(
+                78px,
+                7vw,
+                92px
+            );
+    }
+
+
+    .irode-revolucion-rays-left {
+
+        width: 225px;
+
+        left:
+            calc(50% - 350px);
+
+        top: 92px;
+    }
+
+
+    .irode-revolucion-rays-right {
+
+        width: 125px;
+
+        left:
+            calc(50% + 225px);
+
+        top: 128px;
+    }
+
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 992px) {
+
+    .irode-revolucion-container {
+
+        height: 585px;
+    }
+
+
+    .irode-revolucion-title {
+
+        margin-top: 150px;
+
+        margin-bottom: 52px;
+
+        font-size:
+            clamp(
+                65px,
+                9vw,
+                80px
+            );
+    }
+
+
+    .irode-revolucion-rays-left {
+
+        width: 180px;
+
+        left:
+            calc(50% - 280px);
+
+        top: 76px;
+    }
+
+
+    .irode-revolucion-rays-right {
+
+        width: 105px;
+
+        left:
+            calc(50% + 175px);
+
+        top: 102px;
+    }
+
+
+    .irode-revolucion-btn {
+
+        width: 345px;
+
+        height: 70px;
+
+        font-size: 21px;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVIL
+========================================================= */
+
+@media (max-width: 768px) {
+
+    .irode-revolucion-container {
+
+        height: auto;
+
+        min-height: auto;
+
+        padding:
+            34px
+            14px
+            6px;
+
+        justify-content: flex-start;
+    }
+
+
+    .irode-revolucion-title {
+
+        width: 100%;
+
+        margin:
+            82px
+            0
+            30px;
+
+        font-size:
+            clamp(
+                42px,
+                11vw,
+                52px
+            );
+
+        line-height: 1.03;
+
+        text-align: center;
+    }
+
+
+    .irode-revolucion-rays-left {
+
+        width: 90px;
+
+        left: 4%;
+
+        top: 52px;
+    }
+
+
+    .irode-revolucion-rays-right {
+
+        width: 62px;
+
+        left: auto;
+
+        right: 7%;
+
+        top: 82px;
+    }
+
+
+    .irode-revolucion-btn {
+
+        width:
+            calc(100% - 12px);
+
+        max-width: 345px;
+
+        height: 58px;
+
+        padding:
+            0
+            18px;
+
+        font-size: 17px;
+
+        border-radius: 5px;
+    }
+
+
+    .irode-revolucion-bottom {
+
+        width: 100%;
+
+        margin-top: 8px;
+
+        padding-bottom: 0;
+    }
+
+
+    .irode-revolucion-arrow {
+
+        height: 34px;
+
+        font-size: 34px;
+
+        margin:
+            0
+            0
+            5px;
+    }
+
+
+    .irode-revolucion-bottom p {
+
+        width: 100%;
+
+        margin: 0;
+
+        font-size: 14px;
+
+        line-height: 1.45;
+
+        text-align: center;
+
+        white-space: normal;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES PEQUEÑOS
+========================================================= */
+
+@media (max-width: 420px) {
+
+    .irode-revolucion-container {
+
+        padding:
+            28px
+            10px
+            4px;
+    }
+
+
+    .irode-revolucion-title {
+
+        margin:
+            74px
+            0
+            26px;
+
+        font-size: 42px;
+
+        line-height: 1.03;
+    }
+
+
+    .irode-revolucion-rays-left {
+
+        width: 80px;
+
+        left: 3%;
+
+        top: 48px;
+    }
+
+
+    .irode-revolucion-rays-right {
+
+        width: 56px;
+
+        right: 5%;
+
+        top: 76px;
+    }
+
+
+    .irode-revolucion-btn {
+
+        width:
+            calc(100% - 4px);
+
+        max-width: none;
+
+        height: 56px;
+
+        font-size: 16px;
+
+        padding:
+            0
+            14px;
+    }
+
+
+    .irode-revolucion-bottom {
+
+        margin-top: 6px;
+    }
+
+
+    .irode-revolucion-arrow {
+
+        height: 31px;
+
+        font-size: 31px;
+    }
+
+
+    .irode-revolucion-bottom p {
+
+        font-size: 13px;
+
+        line-height: 1.4;
+    }
+
+}
+
+
+/* =========================================================
+   MÓVILES MUY PEQUEÑOS
+========================================================= */
+
+@media (max-width: 360px) {
+
+    .irode-revolucion-title {
+
+        margin-top: 68px;
+
+        font-size: 38px;
+    }
+
+
+    .irode-revolucion-rays-left {
+
+        width: 72px;
+    }
+
+
+    .irode-revolucion-rays-right {
+
+        width: 50px;
+
+        top: 70px;
+    }
+
+
+    .irode-revolucion-btn {
+
+        height: 54px;
+
+        font-size: 15px;
+    }
+
+
+    .irode-revolucion-bottom p {
+
+        font-size: 12.5px;
+    }
+
+}
+
+</style>
